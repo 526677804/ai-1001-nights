@@ -1,0 +1,209 @@
+{
+  "keywords": [
+    "AI",
+    "GPT",
+    "LLM",
+    "LLMs",
+    "ChatGPT",
+    "OpenAI",
+    "Claude",
+    "Gemini",
+    "Midjourney",
+    "Stable Diffusion",
+    "diffusion",
+    "agent",
+    "agents",
+    "agentic",
+    "copilot",
+    "generative",
+    "text-to-image",
+    "text-to-video",
+    "text-to-speech",
+    "voice clone",
+    "AI-generated",
+    "AI-powered",
+    "machine learning",
+    "deep learning",
+    "neural network",
+    "robot",
+    "robots",
+    "robotics",
+    "humanoid",
+    "人工智能",
+    "大模型",
+    "智能体",
+    "生成式",
+    "AI生成",
+    "文生图",
+    "文生视频",
+    "机器人",
+    "具身智能",
+    "多模态",
+    "扩散模型",
+    "语音克隆",
+    "数字人",
+    "提示词",
+    "AIGC"
+  ],
+  "sources": {
+    "hackernews": {
+      "enabled": true,
+      "name": "Hacker News · Show HN",
+      "reliability": "high",
+      "min_points_bypass": 20
+    },
+    "producthunt": {
+      "enabled": true,
+      "name": "Product Hunt",
+      "reliability": "high",
+      "feed_url": "https://www.producthunt.com/feed",
+      "max_age_hours": 36
+    },
+    "github": {
+      "enabled": true,
+      "name": "GitHub 新项目",
+      "reliability": "high",
+      "query_terms": ["AI", "LLM", "agent"],
+      "created_within_days": 7,
+      "min_stars": 15
+    },
+    "huggingface": {
+      "enabled": true,
+      "name": "HuggingFace",
+      "reliability": "high",
+      "spaces_limit": 20,
+      "papers_limit": 10
+    },
+    "jike": {
+      "enabled": true,
+      "name": "即刻",
+      "reliability": "medium",
+      "rsshub_instances": [
+        "https://rsshub.rssforever.com",
+        "https://hub.slarker.me"
+      ],
+      "topics": [
+        { "id": "63579abb6724cc583b9bba9a", "name": "AI探索站" }
+      ],
+      "max_age_hours": 36
+    },
+    "twitter": {
+      "enabled": true,
+      "name": "X (Twitter)",
+      "reliability": "high",
+      "api_provider": {
+        "name": "twitterapi.io",
+        "base_url": "https://api.twitterapi.io",
+        "api_key_env": "TWITTERAPI_IO_KEY"
+      },
+      "nitter_instances": [
+        "https://nitter.net",
+        "https://nitter.perennialte.ch"
+      ],
+      "max_age_hours": 36,
+      "account_groups": {
+        "cn_curators": {
+          "name": "中文 AI 造物聚合",
+          "filter_by_keywords": false,
+          "score": 85,
+          "accounts": ["xiaohu", "op7418", "dotey"]
+        },
+        "demo_curators": {
+          "name": "AI demo 聚合",
+          "filter_by_keywords": false,
+          "score": 80,
+          "accounts": ["minchoi", "dr_cintas", "_akhaliq"]
+        },
+        "builders": {
+          "name": "AI builder",
+          "filter_by_keywords": false,
+          "score": 80,
+          "accounts": ["levelsio", "mckaywrigley", "bilawalsidhu", "venturetwins"]
+        }
+      }
+    },
+    "reddit": {
+      "enabled": true,
+      "name": "Reddit",
+      "reliability": "medium",
+      "subreddits": ["LocalLLaMA", "StableDiffusion"]
+    },
+    "kol_blogs": {
+      "enabled": true,
+      "name": "KOL 博客与 Newsletter",
+      "reliability": "high",
+      "feeds": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/atom/everything/"
+        },
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/feed"
+        },
+        {
+          "name": "Hackaday",
+          "url": "https://hackaday.com/feed/"
+        },
+        {
+          "name": "Ben's Bites",
+          "url": "https://www.bensbites.com/feed"
+        }
+      ]
+    },
+    "podcasts": {
+      "enabled": true,
+      "name": "播客 show notes",
+      "reliability": "high",
+      "max_age_hours": 72,
+      "feeds": [
+        {
+          "name": "What's Next｜科技早知道",
+          "url": "https://feeds.fireside.fm/guiguzaozhidao/rss",
+          "filter_by_keywords": true
+        },
+        {
+          "name": "OnBoard!",
+          "url": "https://feed.xyzfm.space/xxg7ryklkkft",
+          "filter_by_keywords": false
+        },
+        {
+          "name": "Latent Space",
+          "url": "https://www.latent.space/feed",
+          "filter_by_keywords": false
+        }
+      ]
+    }
+  },
+  "output": {
+    "language": "zh-CN",
+    "report_name": "AI一千零一夜",
+    "show_name": "AI｜一千零一夜",
+    "narrator": "心灵捕手",
+    "tags": ["奇想", "应用", "硬件", "作品", "玩法", "研究"],
+    "briefs_min": 2,
+    "briefs_max": 3
+  },
+  "schedule": {
+    "time": "19:56",
+    "timezone": "Asia/Shanghai"
+  },
+  "feishu": {
+    "chat_id": "oc_bac900918bfeae3dc91f361c3e070ade",
+    "chat_name": "AI｜一千零一夜",
+    "admin_user_id": "ou_ec49eba4f8ac4c6d7d799e04929c65e6",
+    "admin_user_ids": [
+      "ou_ec49eba4f8ac4c6d7d799e04929c65e6"
+    ]
+  },
+  "quality": {
+    "pearls_per_day": 5,
+    "pearls_max": 50,
+    "pearls_retention_days": 30,
+    "recent_tags_window": 7
+  },
+  "retry": {
+    "max_retries": 2,
+    "retry_delay": 3
+  }
+}

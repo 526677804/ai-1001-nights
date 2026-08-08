@@ -1,0 +1,104 @@
+name: AI一千零一夜 · 每晚推送
+
+on:
+  schedule:
+    # 备份触发：UTC 12:56 = 北京时间 20:56
+    # 主触发是妙搭定时触发器在北京时间 19:56 精准调用 workflow_dispatch（GitHub 自身的
+    # scheduled 事件高峰期会延迟数小时，实测延迟过 2h43m，不能作为主通道）；
+    # 本备份仅在当天还没有成功运行时才实际执行（见 guard job）
+    - cron: '56 12 * * *'
+  workflow_dispatch: {}   # 主触发通道：妙搭定时触发器调用 + 手动触发
+
+permissions:
+  contents: write   # 运行结束后把状态文件（已见记录/夜编号/遗珠库）写回仓库
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    outputs:
+      proceed: ${{ steps.check.outputs.proceed }}
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+      - name: 备份触发时检查今天是否已成功运行
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            last=$(python3 -c "import json; print(json.load(open('seen_urls.json')).get('updated_at','')[:10])" 2>/dev/null || echo "")
+            today=$(date -u +%F)
+            if [ "$last" = "$today" ]; then
+              echo "proceed=false" >> "$GITHUB_OUTPUT"
+              echo "ℹ️ 今天已有成功运行（$last），备份触发跳过"
+              exit 0
+            fi
+          fi
+          echo "proceed=true" >> "$GITHUB_OUTPUT"
+
+  fetch-and-push:
+    needs: guard
+    if: needs.guard.outputs.proceed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装 Python 依赖
+        run: pip install -r requirements.txt cursor-sdk
+
+      - name: 安装并配置 lark-cli（bot 身份，无需扫码）
+        env:
+          LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
+          LARK_APP_SECRET: ${{ secrets.LARK_APP_SECRET }}
+        run: |
+          npm install -g @larksuite/cli
+          printf '%s' "$LARK_APP_SECRET" | lark-cli config init --app-id "$LARK_APP_ID" --app-secret-stdin
+
+      - name: 采集今夜素材
+        env:
+          TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+        run: python3 fetch_news.py
+
+      - name: 生成节目稿（AI 说书人优先，失败自动降级模板整理）
+        id: report
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: |
+          python3 ai_report.py || python3 generate_report.py
+          if [ -f "news_$(date +%Y%m%d).md" ]; then
+            echo "has_report=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_report=false" >> "$GITHUB_OUTPUT"
+            echo "ℹ️ 今夜无值得开讲的素材，跳过推送"
+          fi
+
+      - name: 推送到飞书
+        if: steps.report.outputs.has_report == 'true'
+        run: python3 push_to_feishu.py
+
+      - name: 更新状态文件（已见记录/夜编号/遗珠库）
+        run: |
+          python3 mark_seen.py
+          git add seen_urls.json night_state.json pearls.json
+          if ! git diff --cached --quiet; then
+            git -c user.name="github-actions[bot]" \
+                -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+                commit -m "chore: 更新推送状态 [skip ci]"
+            git push
+          fi
+
+      - name: 归档当日产物（便于回查）
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-${{ github.run_id }}
+          path: |
+            raw_news_*.json
+            news_*.md
+          retention-days: 14
