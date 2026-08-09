@@ -369,6 +369,48 @@ def fetch_podcasts(keywords: List[str], pod_cfg: dict) -> List[NewsItem]:
     return items[:10]
 
 
+def fetch_v2ex(keywords: List[str], v2ex_cfg: dict) -> List[NewsItem]:
+    """
+    V2EX 创造者节点（分享创造/奇思妙想）：中文版 Show HN。
+    节点是泛造物主题（不限 AI），按关键词过滤出 AI 相关。
+    """
+    max_age_hours = v2ex_cfg.get('max_age_hours', 48)
+    cutoff = time.time() - max_age_hours * 3600
+
+    items = []
+    for node in v2ex_cfg.get('nodes', []):
+        try:
+            resp = requests.get(
+                f"https://www.v2ex.com/api/topics/show.json?node_name={node}",
+                headers=BROWSER_HEADERS, timeout=15
+            )
+            resp.raise_for_status()
+            for topic in resp.json():
+                created = topic.get('created', 0) or 0
+                if created and created < cutoff:
+                    continue
+                title = topic.get('title', '')
+                content = (topic.get('content') or '')[:300]
+                if not match_keywords(title + ' ' + content, keywords):
+                    continue
+                items.append(NewsItem(
+                    title=re.sub(r'^\[分享创造\]\s*', '', title),
+                    url=topic.get('url', ''),
+                    source=f"V2EX·{node}",
+                    source_type='community',
+                    reliability='medium',
+                    summary=re.sub(r'\s+', ' ', content)[:200],
+                    published_at=datetime.fromtimestamp(created).isoformat() if created else '',
+                    score=40 + min(topic.get('replies', 0) or 0, 30),
+                    category='community'
+                ))
+        except Exception as e:
+            print(f"V2EX {node} 采集失败: {e}")
+        time.sleep(1)
+
+    return sorted(items, key=lambda x: x.score, reverse=True)[:10]
+
+
 def fetch_reddit(keywords: List[str], subreddits: List[str]) -> List[NewsItem]:
     """
     从 Reddit 采集（RSS 端点，JSON API 已被封禁）
@@ -771,7 +813,16 @@ def main():
         print(f"   找到 {len(items)} 条")
         all_items.extend(items)
 
-    # 6. Reddit（RSS 方式，重试 1 次）
+    # 6. V2EX 创造者节点（中文版 Show HN，重试 1 次）
+    if sources.get('v2ex', {}).get('enabled'):
+        print("📡 采集 V2EX 创造者节点...")
+        items = safe_fetch(fetch_v2ex, keywords, sources['v2ex'],
+                          source_name="V2EX",
+                          max_retries=1)
+        print(f"   找到 {len(items)} 条")
+        all_items.extend(items)
+
+    # 7. Reddit（RSS 方式，重试 1 次）
     if sources.get('reddit', {}).get('enabled'):
         print("📡 采集 Reddit...")
         items = safe_fetch(fetch_reddit, keywords, sources['reddit']['subreddits'],
@@ -780,7 +831,7 @@ def main():
         print(f"   找到 {len(items)} 条")
         all_items.extend(items)
 
-    # 7. X (Twitter) 账号（API 优先 + nitter 回退，重试 1 次）
+    # 8. X (Twitter) 账号（API 优先 + nitter 回退，重试 1 次）
     if sources.get('twitter', {}).get('enabled'):
         print("📡 采集 X (Twitter) 账号...")
         items = safe_fetch(fetch_twitter, keywords, sources['twitter'],
@@ -802,7 +853,7 @@ def main():
                     f"X 信息源采集 0 条，且 {failed}/{total} 个账号采集失败（方式：{TWITTER_STATS['method']}），"
                     f"请确认采集途径是否部分失效。")
 
-    # 8. KOL 博客与 Newsletter（重试 2 次）
+    # 9. KOL 博客与 Newsletter（重试 2 次）
     if sources.get('kol_blogs', {}).get('enabled'):
         print("📡 采集 KOL 博客...")
         items = safe_fetch(fetch_kol_blogs, keywords,
@@ -812,7 +863,7 @@ def main():
         print(f"   找到 {len(items)} 条")
         all_items.extend(items)
 
-    # 9. 播客 show notes（重试 1 次）
+    # 10. 播客 show notes（重试 1 次）
     if sources.get('podcasts', {}).get('enabled'):
         print("📡 采集 播客 show notes...")
         items = safe_fetch(fetch_podcasts, keywords, sources['podcasts'],

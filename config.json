@@ -83,9 +83,17 @@
         "https://hub.slarker.me"
       ],
       "topics": [
-        { "id": "63579abb6724cc583b9bba9a", "name": "AI探索站" }
+        { "id": "63579abb6724cc583b9bba9a", "name": "AI探索站" },
+        { "id": "55fadac08cc2e30e00e2e42a", "name": "人工智能讨论组" }
       ],
       "max_age_hours": 36
+    },
+    "v2ex": {
+      "enabled": true,
+      "name": "V2EX 创造者",
+      "reliability": "medium",
+      "nodes": ["create", "ideas"],
+      "max_age_hours": 48
     },
     "twitter": {
       "enabled": true,
@@ -148,6 +156,14 @@
         {
           "name": "Ben's Bites",
           "url": "https://www.bensbites.com/feed"
+        },
+        {
+          "name": "少数派",
+          "url": "https://sspai.com/feed"
+        },
+        {
+          "name": "小众软件",
+          "url": "https://www.appinn.com/feed/"
         }
       ]
     },

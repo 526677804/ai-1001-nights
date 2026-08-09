@@ -118,6 +118,16 @@ def make_jike_test(topic):
     return test_jike
 
 
+def make_v2ex_test(node):
+    def test_v2ex(timeout):
+        resp = requests.get(f"https://www.v2ex.com/api/topics/show.json?node_name={node}",
+                            headers=BROWSER_HEADERS, timeout=timeout)
+        resp.raise_for_status()
+        return [{'title': t.get('title', ''), 'url': t.get('url', '')}
+                for t in resp.json()[:5]]
+    return test_v2ex
+
+
 def make_reddit_test(subreddit):
     def test_reddit(timeout):
         url = f"https://www.reddit.com/r/{subreddit}/hot.rss?limit=5"
@@ -196,6 +206,9 @@ def main():
 
     for topic in CONFIG['sources']['jike']['topics']:
         tests.append((f"即刻·{topic['name']} (RSSHub)", make_jike_test(topic)))
+
+    for node in CONFIG['sources'].get('v2ex', {}).get('nodes', []):
+        tests.append((f"V2EX {node}", make_v2ex_test(node)))
 
     for sub in CONFIG['sources']['reddit']['subreddits']:
         tests.append((f"Reddit r/{sub}", make_reddit_test(sub)))

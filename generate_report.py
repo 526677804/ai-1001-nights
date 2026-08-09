@@ -15,22 +15,13 @@ from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# 降级模式的今夜一问（无 AI 时按夜编号轮换的通用问题池）
-QUESTION_POOL = [
-    '今晚这几件里，你最想亲手试哪一个？',
-    '如果这个工具明天就能用，你会先拿它做什么？',
-    '这里面哪一个最出乎你的意料？',
-    '你身边有什么事，值得用今晚的思路改造一下？',
-    '如果让你给今晚的 No.1 加一个功能，你会加什么？',
-]
-
 # 采集侧粗分类 → 六类标签的机械映射（降级模式没有编辑判断，只求不离谱）
 CATEGORY_TAG = {
-    'tools': '应用',
-    'research': '研究',
-    'community': '玩法',
-    'media': '玩法',
-    'podcast': '奇想',
+    'tools': '🛠【应用】',
+    'research': '🔬【研究】',
+    'community': '✨【玩法】',
+    'media': '✨【玩法】',
+    'podcast': '💭【奇想】',
 }
 
 
@@ -51,7 +42,7 @@ def load_night_state() -> dict:
 
 
 def item_tag(item: dict) -> str:
-    return CATEGORY_TAG.get(item.get('category', ''), '应用')
+    return CATEGORY_TAG.get(item.get('category', ''), '🛠【应用】')
 
 
 def main():
@@ -90,14 +81,13 @@ def main():
     briefs = ranked[1:4]
 
     parts = [
-        f"# 🌙 AI·一千零一夜 · 第 {tonight} 夜",
-        date_str,
+        f"# 🌙 AI · 一千零一夜 · 第 {tonight} 夜 ｜ {date_str}",
         "\n---\n",
     ]
 
     # No.1 主打
     top_title = top.get('title', '').strip()
-    top_line = f"**No.1 【{item_tag(top)}】{top_title}**"
+    top_line = f"**No.1 {item_tag(top)}{top_title}**"
     if from_pearls:
         top_line += " · 遗珠回捞"
     parts.append(top_line)
@@ -105,20 +95,15 @@ def main():
     if summary:
         parts.append('\n' + summary[:200])
     parts.append(f"\n来源：{top.get('source', '')}")
-    parts.append(f"\n✦ 源头：{top.get('url', '')}")
-    question = QUESTION_POOL[(tonight - 1) % len(QUESTION_POOL)]
-    parts.append(f"\n💬 **今夜一问**：{question}")
+    parts.append(f"\n✦ [源头]({top.get('url', '')})")
 
     # No.2~4 简讯
     if briefs:
         parts.append("\n---\n")
         for i, item in enumerate(briefs, 2):
             title = item.get('title', '').strip()
-            parts.append(f"**No.{i} 【{item_tag(item)}】** {title[:80]}")
-            parts.append(f"🔗 {item.get('url', '')}\n")
-
-    parts.append("---\n")
-    parts.append("📮 投稿：@心灵捕手 丢链接即可，采用署名「客座说书人」 ·（模板整理）")
+            parts.append(f"**No.{i} {item_tag(item)}** {title[:80]}")
+            parts.append(f"✦ [源头]({item.get('url', '')})\n")
 
     output_file = os.path.join(BASE_DIR, f'news_{today}.md')
     content = '\n'.join(parts)
