@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AI一千零一夜 · 采集脚本
-搜集全网「用 AI 做出来的有意思的东西」，输出结构化原始数据供说书人（AI 整理）挑选。
+搜集全网「用 AI 做出来的有意思的东西」，输出结构化原始数据供心灵捕手挑选。
 
 信息源（9 路）：
   Show HN / Product Hunt / GitHub 新项目 / HuggingFace (Spaces + Daily Papers) /
@@ -899,7 +899,7 @@ def main():
     # 遗珠库：往日高分落选条目，供质量闸门回捞（不计入 total_count）
     pearls = load_pearls()
 
-    # 保存原始数据为 JSON，供 AI 整理使用
+    # 保存原始数据为 JSON，供心灵捕手整理使用
     today = datetime.now().strftime('%Y%m%d')
     raw_data = {
         'date': today,

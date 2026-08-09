@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI 整理脚本（首选整理方式）
+心灵捕手整理脚本（首选整理方式）
 通过 Cursor SDK 的无头代理阅读 raw_news_YYYYMMDD.json，
 以「心灵捕手」说书人身份撰写「第 N 夜」节目稿 news_YYYYMMDD.md。
 
@@ -96,7 +96,7 @@ def main():
     from fetch_news import load_env_var
     api_key = load_env_var('CURSOR_API_KEY')
     if not api_key:
-        print('⚠️ 未配置 CURSOR_API_KEY，跳过 AI 整理')
+        print('⚠️ 未配置 CURSOR_API_KEY，心灵捕手缺席，转降级模板')
         sys.exit(3)
     os.environ.setdefault('CURSOR_API_KEY', api_key)
 
@@ -114,7 +114,7 @@ def main():
 
     from cursor_sdk import Agent, AgentOptions, LocalAgentOptions, CursorAgentError
 
-    print(f'🤖 启动 Cursor 无头代理进行 AI 整理（第 {tonight} 夜）...')
+    print(f'🌙 唤起心灵捕手（Cursor 无头代理），撰写第 {tonight} 夜...')
     try:
         result = Agent.prompt(
             build_prompt(today, tonight, recent_tags),
@@ -125,7 +125,7 @@ def main():
             ),
         )
         if result.status != 'finished':
-            print(f'❌ AI 整理运行失败: status={result.status}')
+            print(f'❌ 心灵捕手运行失败: status={result.status}')
             sys.exit(2)
     except CursorAgentError as e:
         print(f'❌ AI 代理启动失败: {e}')
@@ -146,7 +146,7 @@ def main():
         print('❌ AI 生成的节目稿内容不完整')
         sys.exit(2)
 
-    print(f'✅ AI 整理完成: {out_file}（{len(content)} 字符）')
+    print(f'✅ 心灵捕手整理完成: {out_file}（{len(content)} 字符）')
 
 
 if __name__ == '__main__':

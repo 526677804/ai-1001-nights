@@ -65,7 +65,7 @@ jobs:
           TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
         run: python3 fetch_news.py
 
-      - name: 生成节目稿（AI 说书人优先，失败自动降级模板整理）
+      - name: 生成节目稿（心灵捕手优先，失败自动降级模板整理）
         id: report
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}

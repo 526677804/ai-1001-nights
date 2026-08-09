@@ -62,4 +62,4 @@ python3 mark_seen.py                             # 更新状态
 |--------|------|
 | `LARK_APP_ID` / `LARK_APP_SECRET` | lark-cli bot 身份（飞书推送） |
 | `TWITTERAPI_IO_KEY` | X 采集主途径 |
-| `CURSOR_API_KEY` | AI 说书人整理（缺省自动降级模板） |
+| `CURSOR_API_KEY` | 心灵捕手整理（缺省自动降级模板） |
