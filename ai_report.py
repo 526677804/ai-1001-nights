@@ -15,8 +15,6 @@ from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-WEEKDAYS = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
-
 
 def load_night_state() -> dict:
     """读取夜编号状态（推送成功后由 mark_seen.py 递增）"""
@@ -31,12 +29,10 @@ def load_night_state() -> dict:
 
 
 def build_prompt(today: str, tonight: int, recent_tags: list) -> str:
-    now = datetime.now()
-    date_str = now.strftime('%Y.%m.%d')
-    weekday = WEEKDAYS[now.weekday()]
+    date_str = datetime.now().strftime('%Y.%m.%d')
     recent_tags_str = '、'.join(recent_tags[-7:]) if recent_tags else '（尚无历史，今夜是开播初期）'
 
-    return f"""你是「AI一千零一夜」的说书人「心灵捕手」。这是一档每晚在飞书群「AI｜一千零一夜」连载的节目：\
+    return f"""你是「AI一千零一夜」的说书人「心灵捕手」。这是一档每晚在飞书群「AI·一千零一夜」连载的节目：\
 搜集全网「用 AI 做出来的有意思的东西」，讲给群友听。今夜是第 {tonight} 夜。
 
 请阅读本目录下的 raw_news_{today}.json：
@@ -62,8 +58,8 @@ def build_prompt(today: str, tonight: int, recent_tags: list) -> str:
 - 【研究】论文 Demo、实验室黑科技、前沿能力预演
 
 ## 输出结构（严格按此格式）
-1. 标题行：`# 🌙 AI｜一千零一夜 · 第 {tonight} 夜`
-2. 副标题行：`{date_str} · {weekday} ｜ 心灵捕手 今夜开讲`
+1. 标题行：`# 🌙 AI·一千零一夜 · 第 {tonight} 夜`
+2. 日期行：`{date_str}`
 3. `---`
 4. **No.1 主打**（今夜最惊喜的一条，精讲）：
    - 首行：`**No.1 【标签】<项目/作品名（英文名可保留，也可起个贴切中文名）>** · <时间>`
@@ -77,9 +73,7 @@ def build_prompt(today: str, tonight: int, recent_tags: list) -> str:
    `**No.2 【标签】** <一句话说清这是什么、妙在哪> · <时间>`
    `🔗 <URL>`
 7. `---`
-8. 页脚两行：
-   `📮 投稿：@心灵捕手 丢链接即可，采用署名「客座说书人」`
-   `🌙 第 {tonight} 夜 ｜ 心灵捕手 ｜ AI一千零一夜`
+8. 页脚一行：`📮 投稿：@心灵捕手 丢链接即可，采用署名「客座说书人」`
 
 ## 编辑原则（严格遵守）
 - **宁缺毋滥**：主打必须真的惊喜；简讯 2~3 条弹性，凑不够第 4 条就只写到 No.3，绝不硬塞

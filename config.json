@@ -178,7 +178,7 @@
   "output": {
     "language": "zh-CN",
     "report_name": "AI一千零一夜",
-    "show_name": "AI｜一千零一夜",
+    "show_name": "AI·一千零一夜",
     "narrator": "心灵捕手",
     "tags": ["奇想", "应用", "硬件", "作品", "玩法", "研究"],
     "briefs_min": 2,
@@ -190,7 +190,7 @@
   },
   "feishu": {
     "chat_id": "oc_bac900918bfeae3dc91f361c3e070ade",
-    "chat_name": "AI｜一千零一夜",
+    "chat_name": "AI·一千零一夜",
     "admin_user_id": "ou_ec49eba4f8ac4c6d7d799e04929c65e6",
     "admin_user_ids": [
       "ou_ec49eba4f8ac4c6d7d799e04929c65e6"

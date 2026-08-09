@@ -15,8 +15,6 @@ from datetime import datetime
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-WEEKDAYS = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
-
 # 降级模式的今夜一问（无 AI 时按夜编号轮换的通用问题池）
 QUESTION_POOL = [
     '今晚这几件里，你最想亲手试哪一个？',
@@ -85,17 +83,15 @@ def main():
     night_state = load_night_state()
     tonight = night_state.get('night_no', 0) + 1
 
-    now = datetime.now()
-    date_str = now.strftime('%Y.%m.%d')
-    weekday = WEEKDAYS[now.weekday()]
+    date_str = datetime.now().strftime('%Y.%m.%d')
 
     ranked = sorted(pool, key=lambda x: x.get('score', 0), reverse=True)
     top = ranked[0]
     briefs = ranked[1:4]
 
     parts = [
-        f"# 🌙 AI｜一千零一夜 · 第 {tonight} 夜",
-        f"{date_str} · {weekday} ｜ 心灵捕手 今夜开讲",
+        f"# 🌙 AI·一千零一夜 · 第 {tonight} 夜",
+        date_str,
         "\n---\n",
     ]
 
@@ -122,8 +118,7 @@ def main():
             parts.append(f"🔗 {item.get('url', '')}\n")
 
     parts.append("---\n")
-    parts.append("📮 投稿：@心灵捕手 丢链接即可，采用署名「客座说书人」")
-    parts.append(f"🌙 第 {tonight} 夜 ｜ 心灵捕手 ｜ AI一千零一夜（模板整理）")
+    parts.append("📮 投稿：@心灵捕手 丢链接即可，采用署名「客座说书人」 ·（模板整理）")
 
     output_file = os.path.join(BASE_DIR, f'news_{today}.md')
     content = '\n'.join(parts)
