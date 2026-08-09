@@ -37,6 +37,9 @@ raw_news_*.json
 # 虚拟环境
 .venv/
 
+# 妙搭触发器应用源码（独立仓库，不属于本项目）
+trigger-app/
+
 # IDE
 .vscode/
 .idea/
