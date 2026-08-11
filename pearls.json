@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T12:01:22.801767",
+  "updated_at": "2026-08-11T12:01:12.406491",
   "pearls": [
     {
       "title": "[Binaryify/open-kimi-ppt-skill] 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -50,6 +50,56 @@
       "score": 103,
       "category": "tools",
       "added_date": "20260810"
+    },
+    {
+      "title": "Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "source": "Show HN",
+      "summary": "👍 214 points · 💬 72 comments · 讨论: https://news.ycombinator.com/item?id=49251179",
+      "published_at": "2026-08-10T23:16:25Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260811"
+    },
+    {
+      "title": "[SMNETSTUDIO/WeChat-AI] No description",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1321 stars · 新建于 2026-08-10 · 语言: TypeScript",
+      "published_at": "2026-08-10T09:06:43Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260811"
+    },
+    {
+      "title": "Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "source": "Show HN",
+      "summary": "👍 137 points · 💬 81 comments · 讨论: https://news.ycombinator.com/item?id=49245437",
+      "published_at": "2026-08-10T15:59:23Z",
+      "score": 137,
+      "category": "tools",
+      "added_date": "20260811"
+    },
+    {
+      "title": "@dr_cintas: RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it gen",
+      "url": "https://x.com/dr_cintas/status/2086968526581927981",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how…",
+      "published_at": "Tue Aug 11 00:10:45 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260811"
+    },
+    {
+      "title": "@dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.  Anthro",
+      "url": "https://x.com/dr_cintas/status/2086943065135079796",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how it works. Two marks, both machine-readable:\n\n> Text: an imperceptible waterm",
+      "published_at": "Mon Aug 10 22:29:34 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260811"
     }
   ]
 }
