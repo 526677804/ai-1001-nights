@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:01:04.026605",
+  "updated_at": "2026-08-14T12:01:19.812971",
   "pearls": [
     {
       "title": "[Binaryify/open-kimi-ppt-skill] 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -200,6 +200,56 @@
       "score": 95,
       "category": "community",
       "added_date": "20260813"
+    },
+    {
+      "title": "@dotey: RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!  🔹 We’re opening it ",
+      "url": "https://x.com/dotey/status/2087908049037992179",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harness…",
+      "published_at": "Thu Aug 13 14:24:05 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy s",
+      "url": "https://x.com/minchoi/status/2088213143344300234",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
+      "published_at": "Fri Aug 14 10:36:25 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy stuff with it.",
+      "url": "https://x.com/minchoi/status/2087926969333698743",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
+      "published_at": "Thu Aug 13 15:39:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@dr_cintas: RT @zjearbear: Agents f*ck up.  We raised a $2.3M pre-seed to warn you before it’s too late https://",
+      "url": "https://x.com/dr_cintas/status/2087975790927302842",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @zjearbear: Agents f*ck up.\n\nWe raised a $2.3M pre-seed to warn you before it’s too late https://t.co/VXplPObX6v",
+      "published_at": "Thu Aug 13 18:53:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@levelsio: Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! htt",
+      "url": "https://x.com/levelsio/status/2087903666158162214",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! https://t.co/E3fZ4RwYpL",
+      "published_at": "Thu Aug 13 14:06:40 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
     }
   ]
 }
