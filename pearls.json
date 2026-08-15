@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T12:01:19.812971",
+  "updated_at": "2026-08-15T12:00:13.316954",
   "pearls": [
     {
       "title": "[Binaryify/open-kimi-ppt-skill] 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -250,6 +250,56 @@
       "score": 100,
       "category": "community",
       "added_date": "20260814"
+    },
+    {
+      "title": "@_akhaliq: RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time! See you soon: 👀 https://t.co/rXzUQ",
+      "url": "https://x.com/_akhaliq/status/2088255720730812493",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time!\nSee you soon: 👀\nhttps://t.co/rXzUQ4d6WQ https://t.co/r6mnbuNiKZ",
+      "published_at": "Fri Aug 14 13:25:36 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260815"
+    },
+    {
+      "title": "@levelsio: Of course it exists!  Someone made a Moccamaster clone but without plastic  Genius!  Throwing my Moc",
+      "url": "https://x.com/levelsio/status/2088248834036052352",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Of course it exists!\n\nSomeone made a Moccamaster clone but without plastic\n\nGenius!\n\nThrowing my Moccamaster out now and getting this\n\nhttps://t.co/jgOCs6VHq0\n\nVia @mathijsto_ + @robertsirc https://t.",
+      "published_at": "Fri Aug 14 12:58:14 +0000 2026",
+      "score": 98,
+      "category": "community",
+      "added_date": "20260815"
+    },
+    {
+      "title": "@venturetwins: RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how sof",
+      "url": "https://x.com/venturetwins/status/2088334614217867478",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how software is written. While I'm sad to step…",
+      "published_at": "Fri Aug 14 18:39:06 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20260815"
+    },
+    {
+      "title": "[DrHazemAli/enterprise-system-design] A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 460 stars · 新建于 2026-08-12 · 语言: N/A",
+      "published_at": "2026-08-12T04:03:15Z",
+      "score": 96,
+      "category": "tools",
+      "added_date": "20260815"
+    },
+    {
+      "title": "[0xsline/awesome-deepseek-harness] DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 453 stars · 新建于 2026-08-11 · 语言: Python",
+      "published_at": "2026-08-11T13:14:49Z",
+      "score": 95,
+      "category": "tools",
+      "added_date": "20260815"
     }
   ]
 }
