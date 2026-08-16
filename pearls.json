@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T12:00:13.316954",
+  "updated_at": "2026-08-16T12:00:30.911119",
   "pearls": [
     {
       "title": "[Binaryify/open-kimi-ppt-skill] 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -300,6 +300,56 @@
       "score": 95,
       "category": "tools",
       "added_date": "20260815"
+    },
+    {
+      "title": "[NousResearch/Hermes-Bot-Mode] Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 541 stars · 新建于 2026-08-13 · 语言: JavaScript",
+      "published_at": "2026-08-13T16:40:20Z",
+      "score": 104,
+      "category": "tools",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https",
+      "url": "https://x.com/minchoi/status/2088946703990706564",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
+      "published_at": "Sun Aug 16 11:11:19 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https://t.co/wivWp",
+      "url": "https://x.com/minchoi/status/2088466273529118889",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
+      "published_at": "Sat Aug 15 03:22:16 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@levelsio: RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand fo",
+      "url": "https://x.com/levelsio/status/2088634296365896002",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand forward into the Omarchy ecosystem. It'll…",
+      "published_at": "Sat Aug 15 14:29:55 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260816"
+    },
+    {
+      "title": "[Anionex/dsh-vision-toolkit] 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 485 stars · 新建于 2026-08-13 · 语言: TypeScript",
+      "published_at": "2026-08-13T12:36:34Z",
+      "score": 98,
+      "category": "tools",
+      "added_date": "20260816"
     }
   ]
 }
