@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:00:30.911119",
+  "updated_at": "2026-08-17T12:01:01.932462",
   "pearls": [
     {
       "title": "[Binaryify/open-kimi-ppt-skill] 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
@@ -350,6 +350,56 @@
       "score": 98,
       "category": "tools",
       "added_date": "20260816"
+    },
+    {
+      "title": "[ysr666/dsh-vision-router] Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "url": "https://github.com/ysr666/dsh-vision-router",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 572 stars · 新建于 2026-08-13 · 语言: JavaScript",
+      "published_at": "2026-08-13T18:57:47Z",
+      "score": 107,
+      "category": "tools",
+      "added_date": "20260817"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Ok Grok 4.6 is getting scary good.  Games. 3D worlds. Game trailers. Even real-world 3D",
+      "url": "https://x.com/minchoi/status/2089222297827618947",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Ok Grok 4.6 is getting scary good.\n\nGames. 3D worlds. Game trailers. Even real-world 3D prints.\n\n10 wild examples:",
+      "published_at": "Mon Aug 17 05:26:26 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260817"
+    },
+    {
+      "title": "@levelsio: I liked this chart so much I had to recreate it  I flipped the axis so that top right is best (tip b",
+      "url": "https://x.com/levelsio/status/2089055964309671944",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I liked this chart so much I had to recreate it\n\nI flipped the axis so that top right is best (tip by @marckohlbrugge and @daniellockyer) \n\nMy chart is based on https://t.co/UXK5AFqCaQ data, which for",
+      "published_at": "Sun Aug 16 18:25:29 +0000 2026",
+      "score": 98,
+      "category": "community",
+      "added_date": "20260817"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orc",
+      "url": "https://x.com/minchoi/status/2089222305301844439",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
+      "published_at": "Mon Aug 17 05:26:28 +0000 2026",
+      "score": 96,
+      "category": "community",
+      "added_date": "20260817"
+    },
+    {
+      "title": "@minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orchestration→ G",
+      "url": "https://x.com/minchoi/status/2089190230645432329",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debug → Grok Build + Grok 4.6\nWrite &amp; Run Tests → Grok Build + Grok 4.",
+      "published_at": "Mon Aug 17 03:19:00 +0000 2026",
+      "score": 96,
+      "category": "community",
+      "added_date": "20260817"
     }
   ]
 }
