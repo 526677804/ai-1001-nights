@@ -1,405 +1,105 @@
 {
-  "updated_at": "2026-08-19T11:59:36.989074",
+  "updated_at": "2026-08-20T12:02:11.269491",
   "pearls": [
     {
-      "title": "[Binaryify/open-kimi-ppt-skill] 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "title": "[CopilotKit/openbot] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/openbot",
       "source": "GitHub 新项目",
-      "summary": "⭐ 1607 stars · 新建于 2026-08-05 · 语言: N/A",
-      "published_at": "2026-08-05T07:30:56Z",
+      "summary": "⭐ 1078 stars · 新建于 2026-08-17 · 语言: TypeScript",
+      "published_at": "2026-08-17T00:44:59Z",
       "score": 150,
       "category": "tools",
-      "added_date": "20260810"
+      "added_date": "20260820"
     },
     {
-      "title": "[mikiarlo3/awesome-growth-hacking-skills] Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "title": "[Leutenegger/watermarks-remover] Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
       "source": "GitHub 新项目",
-      "summary": "⭐ 807 stars · 新建于 2026-08-04 · 语言: Shell",
-      "published_at": "2026-08-04T19:45:15Z",
-      "score": 130,
+      "summary": "⭐ 917 stars · 新建于 2026-08-19 · 语言: Python",
+      "published_at": "2026-08-19T15:20:24Z",
+      "score": 141,
       "category": "tools",
-      "added_date": "20260810"
+      "added_date": "20260820"
     },
     {
-      "title": "A Project Oberon System version running on RISC-V instead of RISC-5",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "source": "Show HN",
-      "summary": "👍 117 points · 💬 19 comments · 讨论: https://news.ycombinator.com/item?id=49230891",
-      "published_at": "2026-08-09T12:43:16Z",
+      "title": "[wang2122/sprix-sage-router] Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 677 stars · 新建于 2026-08-18 · 语言: Python",
+      "published_at": "2026-08-18T04:08:11Z",
       "score": 117,
       "category": "tools",
-      "added_date": "20260810"
+      "added_date": "20260820"
     },
     {
-      "title": "[eternityspring/shuohao-skills] 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "url": "https://github.com/eternityspring/shuohao-skills",
+      "title": "[jeremy-prt/bloub] SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "url": "https://github.com/jeremy-prt/bloub",
       "source": "GitHub 新项目",
-      "summary": "⭐ 618 stars · 新建于 2026-08-06 · 语言: JavaScript",
-      "published_at": "2026-08-06T10:38:49Z",
-      "score": 111,
+      "summary": "⭐ 563 stars · 新建于 2026-08-15 · 语言: TypeScript",
+      "published_at": "2026-08-15T13:21:23Z",
+      "score": 106,
       "category": "tools",
-      "added_date": "20260810"
+      "added_date": "20260820"
     },
     {
-      "title": "[AMAP-ML/LongHorizon-Harness] The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "title": "[browser-use/macos-harness] The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
       "source": "GitHub 新项目",
-      "summary": "⭐ 538 stars · 新建于 2026-08-04 · 语言: Python",
-      "published_at": "2026-08-04T04:30:58Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20260810"
-    },
-    {
-      "title": "Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "source": "Show HN",
-      "summary": "👍 214 points · 💬 72 comments · 讨论: https://news.ycombinator.com/item?id=49251179",
-      "published_at": "2026-08-10T23:16:25Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260811"
-    },
-    {
-      "title": "[SMNETSTUDIO/WeChat-AI] No description",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1321 stars · 新建于 2026-08-10 · 语言: TypeScript",
-      "published_at": "2026-08-10T09:06:43Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260811"
-    },
-    {
-      "title": "Ante, a coding agent in a single binary that runs offline",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "source": "Show HN",
-      "summary": "👍 137 points · 💬 81 comments · 讨论: https://news.ycombinator.com/item?id=49245437",
-      "published_at": "2026-08-10T15:59:23Z",
-      "score": 137,
-      "category": "tools",
-      "added_date": "20260811"
-    },
-    {
-      "title": "@dr_cintas: RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it gen",
-      "url": "https://x.com/dr_cintas/status/2086968526581927981",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how…",
-      "published_at": "Tue Aug 11 00:10:45 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260811"
-    },
-    {
-      "title": "@dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.  Anthro",
-      "url": "https://x.com/dr_cintas/status/2086943065135079796",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how it works. Two marks, both machine-readable:\n\n> Text: an imperceptible waterm",
-      "published_at": "Mon Aug 10 22:29:34 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260811"
-    },
-    {
-      "title": "Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
-      "url": "https://github.com/TheRealYT/git-knife",
-      "source": "Show HN",
-      "summary": "👍 157 points · 💬 100 comments · 讨论: https://news.ycombinator.com/item?id=49259611",
-      "published_at": "2026-08-11T15:09:34Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260812"
-    },
-    {
-      "title": "[shadcn-ui/chatbot-template] A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "url": "https://github.com/shadcn-ui/chatbot-template",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 524 stars · 新建于 2026-08-11 · 语言: TypeScript",
-      "published_at": "2026-08-11T11:53:02Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@levelsio: RT @owl_posting: i cannot express to you how bizarrely large the rewards of consistently writing opi",
-      "url": "https://x.com/levelsio/status/2087355827568992338",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @owl_posting: i cannot express to you how bizarrely large the rewards of consistently writing opinionated + technical essays are. it is…",
-      "published_at": "Wed Aug 12 01:49:45 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@levelsio: Same  Claude is getting extremely preachy every day flat out refusing me regularly  I'm pretty happy",
-      "url": "https://x.com/levelsio/status/2087305386743206224",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Same\n\nClaude is getting extremely preachy every day flat out refusing me regularly\n\nI'm pretty happy to jump ship to Grok if it gets good enough for coding\n\nMy sites already run fully on @xAI back end",
-      "published_at": "Tue Aug 11 22:29:19 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@levelsio: RT @mntruell: Grok Bot is out now! An early step towards capable, delightful digital colleagues.",
-      "url": "https://x.com/levelsio/status/2087233253715390638",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @mntruell: Grok Bot is out now! An early step towards capable, delightful digital colleagues.",
-      "published_at": "Tue Aug 11 17:42:41 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Grok Bot just killed 1,000 startups.  Each Bot gets its own computer.  It learns your w",
-      "url": "https://x.com/minchoi/status/2087858718876569948",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Grok Bot just killed 1,000 startups.\n\nEach Bot gets its own computer.\n\nIt learns your workflows, uses your apps, and works whi…",
-      "published_at": "Thu Aug 13 11:08:03 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dr_cintas: RT @coderabbitai: We raised a $143M Series C at a $1.5B valuation to build the control layer for sof",
-      "url": "https://x.com/dr_cintas/status/2087531369496797361",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @coderabbitai: We raised a $143M Series C at a $1.5B valuation to build the control layer for software change.\n\nOur first investor got i…",
-      "published_at": "Wed Aug 12 13:27:17 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dotey: RT @MaxForAI: 梁文锋他真的我哭死😭 https://t.co/rRNdSok99y",
-      "url": "https://x.com/dotey/status/2087657735319888051",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @MaxForAI: 梁文锋他真的我哭死😭 https://t.co/rRNdSok99y",
-      "published_at": "Wed Aug 12 21:49:25 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@_akhaliq: RT @ClementDelangue: Let's go!  https://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
-      "url": "https://x.com/_akhaliq/status/2087562589026849228",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @ClementDelangue: Let's go!\n\nhttps://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
-      "published_at": "Wed Aug 12 15:31:20 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dotey: RT @mitchellh: We're looking to hire Windows developers capable of producing UI at this quality (but",
-      "url": "https://x.com/dotey/status/2087631275465085340",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @mitchellh: We're looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows ecosystem, n…",
-      "published_at": "Wed Aug 12 20:04:17 +0000 2026",
-      "score": 95,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dotey: RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!  🔹 We’re opening it ",
-      "url": "https://x.com/dotey/status/2087908049037992179",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harness…",
-      "published_at": "Thu Aug 13 14:24:05 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy s",
-      "url": "https://x.com/minchoi/status/2088213143344300234",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
-      "published_at": "Fri Aug 14 10:36:25 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy stuff with it.",
-      "url": "https://x.com/minchoi/status/2087926969333698743",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
-      "published_at": "Thu Aug 13 15:39:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@dr_cintas: RT @zjearbear: Agents f*ck up.  We raised a $2.3M pre-seed to warn you before it’s too late https://",
-      "url": "https://x.com/dr_cintas/status/2087975790927302842",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @zjearbear: Agents f*ck up.\n\nWe raised a $2.3M pre-seed to warn you before it’s too late https://t.co/VXplPObX6v",
-      "published_at": "Thu Aug 13 18:53:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@levelsio: Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! htt",
-      "url": "https://x.com/levelsio/status/2087903666158162214",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! https://t.co/E3fZ4RwYpL",
-      "published_at": "Thu Aug 13 14:06:40 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@_akhaliq: RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time! See you soon: 👀 https://t.co/rXzUQ",
-      "url": "https://x.com/_akhaliq/status/2088255720730812493",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time!\nSee you soon: 👀\nhttps://t.co/rXzUQ4d6WQ https://t.co/r6mnbuNiKZ",
-      "published_at": "Fri Aug 14 13:25:36 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260815"
-    },
-    {
-      "title": "@levelsio: Of course it exists!  Someone made a Moccamaster clone but without plastic  Genius!  Throwing my Moc",
-      "url": "https://x.com/levelsio/status/2088248834036052352",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Of course it exists!\n\nSomeone made a Moccamaster clone but without plastic\n\nGenius!\n\nThrowing my Moccamaster out now and getting this\n\nhttps://t.co/jgOCs6VHq0\n\nVia @mathijsto_ + @robertsirc https://t.",
-      "published_at": "Fri Aug 14 12:58:14 +0000 2026",
-      "score": 98,
-      "category": "community",
-      "added_date": "20260815"
-    },
-    {
-      "title": "@venturetwins: RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how sof",
-      "url": "https://x.com/venturetwins/status/2088334614217867478",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how software is written. While I'm sad to step…",
-      "published_at": "Fri Aug 14 18:39:06 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260815"
-    },
-    {
-      "title": "[DrHazemAli/enterprise-system-design] A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "url": "https://github.com/DrHazemAli/enterprise-system-design",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 460 stars · 新建于 2026-08-12 · 语言: N/A",
-      "published_at": "2026-08-12T04:03:15Z",
-      "score": 96,
-      "category": "tools",
-      "added_date": "20260815"
-    },
-    {
-      "title": "[0xsline/awesome-deepseek-harness] DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 453 stars · 新建于 2026-08-11 · 语言: Python",
-      "published_at": "2026-08-11T13:14:49Z",
-      "score": 95,
-      "category": "tools",
-      "added_date": "20260815"
-    },
-    {
-      "title": "[NousResearch/Hermes-Bot-Mode] Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 541 stars · 新建于 2026-08-13 · 语言: JavaScript",
-      "published_at": "2026-08-13T16:40:20Z",
+      "summary": "⭐ 549 stars · 新建于 2026-08-17 · 语言: Python",
+      "published_at": "2026-08-17T00:22:20Z",
       "score": 104,
       "category": "tools",
-      "added_date": "20260816"
+      "added_date": "20260820"
     },
     {
-      "title": "@minchoi: RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https",
-      "url": "https://x.com/minchoi/status/2088946703990706564",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
-      "published_at": "Sun Aug 16 11:11:19 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260816"
-    },
-    {
-      "title": "@minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https://t.co/wivWp",
-      "url": "https://x.com/minchoi/status/2088466273529118889",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
-      "published_at": "Sat Aug 15 03:22:16 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260816"
-    },
-    {
-      "title": "@levelsio: RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand fo",
-      "url": "https://x.com/levelsio/status/2088634296365896002",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand forward into the Omarchy ecosystem. It'll…",
-      "published_at": "Sat Aug 15 14:29:55 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260816"
-    },
-    {
-      "title": "[Anionex/dsh-vision-toolkit] 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "title": "[s1dashu/ip-as-logo-skill] A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
       "source": "GitHub 新项目",
-      "summary": "⭐ 485 stars · 新建于 2026-08-13 · 语言: TypeScript",
-      "published_at": "2026-08-13T12:36:34Z",
-      "score": 98,
+      "summary": "⭐ 1639 stars · 新建于 2026-08-18 · 语言: N/A",
+      "published_at": "2026-08-18T13:59:23Z",
+      "score": 150,
       "category": "tools",
-      "added_date": "20260816"
+      "added_date": "20260819"
     },
     {
-      "title": "[ysr666/dsh-vision-router] Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "url": "https://github.com/ysr666/dsh-vision-router",
+      "title": "[cinderline/northcinder] Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "url": "https://github.com/cinderline/northcinder",
       "source": "GitHub 新项目",
-      "summary": "⭐ 572 stars · 新建于 2026-08-13 · 语言: JavaScript",
-      "published_at": "2026-08-13T18:57:47Z",
-      "score": 107,
+      "summary": "⭐ 1162 stars · 新建于 2026-08-17 · 语言: JavaScript",
+      "published_at": "2026-08-17T11:42:31Z",
+      "score": 150,
       "category": "tools",
-      "added_date": "20260817"
+      "added_date": "20260819"
     },
     {
-      "title": "@minchoi: RT @minchoi: Ok Grok 4.6 is getting scary good.  Games. 3D worlds. Game trailers. Even real-world 3D",
-      "url": "https://x.com/minchoi/status/2089222297827618947",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Ok Grok 4.6 is getting scary good.\n\nGames. 3D worlds. Game trailers. Even real-world 3D prints.\n\n10 wild examples:",
-      "published_at": "Mon Aug 17 05:26:26 +0000 2026",
+      "title": "[Electricitysheep/dsh-handbook] DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "url": "https://github.com/Electricitysheep/dsh-handbook",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 523 stars · 新建于 2026-08-13 · 语言: HTML",
+      "published_at": "2026-08-13T15:22:29Z",
+      "score": 102,
+      "category": "tools",
+      "added_date": "20260819"
+    },
+    {
+      "title": "@dr_cintas: RT @dr_cintas: do yourself a favor and download this ASAP",
+      "url": "https://x.com/dr_cintas/status/2089804236380930138",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @dr_cintas: do yourself a favor and download this ASAP",
+      "published_at": "Tue Aug 18 19:58:51 +0000 2026",
       "score": 100,
       "category": "community",
-      "added_date": "20260817"
+      "added_date": "20260819"
     },
     {
-      "title": "@levelsio: I liked this chart so much I had to recreate it  I flipped the axis so that top right is best (tip b",
-      "url": "https://x.com/levelsio/status/2089055964309671944",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I liked this chart so much I had to recreate it\n\nI flipped the axis so that top right is best (tip by @marckohlbrugge and @daniellockyer) \n\nMy chart is based on https://t.co/UXK5AFqCaQ data, which for",
-      "published_at": "Sun Aug 16 18:25:29 +0000 2026",
-      "score": 98,
+      "title": "@dr_cintas: do yourself a favor and download this ASAP",
+      "url": "https://x.com/dr_cintas/status/2089788109655323106",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "do yourself a favor and download this ASAP",
+      "published_at": "Tue Aug 18 18:54:46 +0000 2026",
+      "score": 100,
       "category": "community",
-      "added_date": "20260817"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orc",
-      "url": "https://x.com/minchoi/status/2089222305301844439",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
-      "published_at": "Mon Aug 17 05:26:28 +0000 2026",
-      "score": 96,
-      "category": "community",
-      "added_date": "20260817"
-    },
-    {
-      "title": "@minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orchestration→ G",
-      "url": "https://x.com/minchoi/status/2089190230645432329",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debug → Grok Build + Grok 4.6\nWrite &amp; Run Tests → Grok Build + Grok 4.",
-      "published_at": "Mon Aug 17 03:19:00 +0000 2026",
-      "score": 96,
-      "category": "community",
-      "added_date": "20260817"
+      "added_date": "20260819"
     },
     {
       "title": "[yetone/cumora] Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -452,54 +152,354 @@
       "added_date": "20260818"
     },
     {
-      "title": "[s1dashu/ip-as-logo-skill] A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "title": "[ysr666/dsh-vision-router] Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "url": "https://github.com/ysr666/dsh-vision-router",
       "source": "GitHub 新项目",
-      "summary": "⭐ 1639 stars · 新建于 2026-08-18 · 语言: N/A",
-      "published_at": "2026-08-18T13:59:23Z",
-      "score": 150,
+      "summary": "⭐ 572 stars · 新建于 2026-08-13 · 语言: JavaScript",
+      "published_at": "2026-08-13T18:57:47Z",
+      "score": 107,
       "category": "tools",
-      "added_date": "20260819"
+      "added_date": "20260817"
     },
     {
-      "title": "[cinderline/northcinder] Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/cinderline/northcinder",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1162 stars · 新建于 2026-08-17 · 语言: JavaScript",
-      "published_at": "2026-08-17T11:42:31Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260819"
+      "title": "@minchoi: RT @minchoi: Ok Grok 4.6 is getting scary good.  Games. 3D worlds. Game trailers. Even real-world 3D",
+      "url": "https://x.com/minchoi/status/2089222297827618947",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Ok Grok 4.6 is getting scary good.\n\nGames. 3D worlds. Game trailers. Even real-world 3D prints.\n\n10 wild examples:",
+      "published_at": "Mon Aug 17 05:26:26 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260817"
     },
     {
-      "title": "[Electricitysheep/dsh-handbook] DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "url": "https://github.com/Electricitysheep/dsh-handbook",
+      "title": "@levelsio: I liked this chart so much I had to recreate it  I flipped the axis so that top right is best (tip b",
+      "url": "https://x.com/levelsio/status/2089055964309671944",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I liked this chart so much I had to recreate it\n\nI flipped the axis so that top right is best (tip by @marckohlbrugge and @daniellockyer) \n\nMy chart is based on https://t.co/UXK5AFqCaQ data, which for",
+      "published_at": "Sun Aug 16 18:25:29 +0000 2026",
+      "score": 98,
+      "category": "community",
+      "added_date": "20260817"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orc",
+      "url": "https://x.com/minchoi/status/2089222305301844439",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
+      "published_at": "Mon Aug 17 05:26:28 +0000 2026",
+      "score": 96,
+      "category": "community",
+      "added_date": "20260817"
+    },
+    {
+      "title": "@minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orchestration→ G",
+      "url": "https://x.com/minchoi/status/2089190230645432329",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debug → Grok Build + Grok 4.6\nWrite &amp; Run Tests → Grok Build + Grok 4.",
+      "published_at": "Mon Aug 17 03:19:00 +0000 2026",
+      "score": 96,
+      "category": "community",
+      "added_date": "20260817"
+    },
+    {
+      "title": "[NousResearch/Hermes-Bot-Mode] Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
       "source": "GitHub 新项目",
-      "summary": "⭐ 523 stars · 新建于 2026-08-13 · 语言: HTML",
-      "published_at": "2026-08-13T15:22:29Z",
+      "summary": "⭐ 541 stars · 新建于 2026-08-13 · 语言: JavaScript",
+      "published_at": "2026-08-13T16:40:20Z",
+      "score": 104,
+      "category": "tools",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https",
+      "url": "https://x.com/minchoi/status/2088946703990706564",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
+      "published_at": "Sun Aug 16 11:11:19 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https://t.co/wivWp",
+      "url": "https://x.com/minchoi/status/2088466273529118889",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
+      "published_at": "Sat Aug 15 03:22:16 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@levelsio: RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand fo",
+      "url": "https://x.com/levelsio/status/2088634296365896002",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand forward into the Omarchy ecosystem. It'll…",
+      "published_at": "Sat Aug 15 14:29:55 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260816"
+    },
+    {
+      "title": "[Anionex/dsh-vision-toolkit] 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 485 stars · 新建于 2026-08-13 · 语言: TypeScript",
+      "published_at": "2026-08-13T12:36:34Z",
+      "score": 98,
+      "category": "tools",
+      "added_date": "20260816"
+    },
+    {
+      "title": "@_akhaliq: RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time! See you soon: 👀 https://t.co/rXzUQ",
+      "url": "https://x.com/_akhaliq/status/2088255720730812493",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time!\nSee you soon: 👀\nhttps://t.co/rXzUQ4d6WQ https://t.co/r6mnbuNiKZ",
+      "published_at": "Fri Aug 14 13:25:36 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260815"
+    },
+    {
+      "title": "@levelsio: Of course it exists!  Someone made a Moccamaster clone but without plastic  Genius!  Throwing my Moc",
+      "url": "https://x.com/levelsio/status/2088248834036052352",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Of course it exists!\n\nSomeone made a Moccamaster clone but without plastic\n\nGenius!\n\nThrowing my Moccamaster out now and getting this\n\nhttps://t.co/jgOCs6VHq0\n\nVia @mathijsto_ + @robertsirc https://t.",
+      "published_at": "Fri Aug 14 12:58:14 +0000 2026",
+      "score": 98,
+      "category": "community",
+      "added_date": "20260815"
+    },
+    {
+      "title": "@venturetwins: RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how sof",
+      "url": "https://x.com/venturetwins/status/2088334614217867478",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how software is written. While I'm sad to step…",
+      "published_at": "Fri Aug 14 18:39:06 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20260815"
+    },
+    {
+      "title": "[DrHazemAli/enterprise-system-design] A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 460 stars · 新建于 2026-08-12 · 语言: N/A",
+      "published_at": "2026-08-12T04:03:15Z",
+      "score": 96,
+      "category": "tools",
+      "added_date": "20260815"
+    },
+    {
+      "title": "[0xsline/awesome-deepseek-harness] DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 453 stars · 新建于 2026-08-11 · 语言: Python",
+      "published_at": "2026-08-11T13:14:49Z",
+      "score": 95,
+      "category": "tools",
+      "added_date": "20260815"
+    },
+    {
+      "title": "@dotey: RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!  🔹 We’re opening it ",
+      "url": "https://x.com/dotey/status/2087908049037992179",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harness…",
+      "published_at": "Thu Aug 13 14:24:05 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy s",
+      "url": "https://x.com/minchoi/status/2088213143344300234",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
+      "published_at": "Fri Aug 14 10:36:25 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy stuff with it.",
+      "url": "https://x.com/minchoi/status/2087926969333698743",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
+      "published_at": "Thu Aug 13 15:39:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@dr_cintas: RT @zjearbear: Agents f*ck up.  We raised a $2.3M pre-seed to warn you before it’s too late https://",
+      "url": "https://x.com/dr_cintas/status/2087975790927302842",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @zjearbear: Agents f*ck up.\n\nWe raised a $2.3M pre-seed to warn you before it’s too late https://t.co/VXplPObX6v",
+      "published_at": "Thu Aug 13 18:53:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@levelsio: Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! htt",
+      "url": "https://x.com/levelsio/status/2087903666158162214",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! https://t.co/E3fZ4RwYpL",
+      "published_at": "Thu Aug 13 14:06:40 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260814"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Grok Bot just killed 1,000 startups.  Each Bot gets its own computer.  It learns your w",
+      "url": "https://x.com/minchoi/status/2087858718876569948",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Grok Bot just killed 1,000 startups.\n\nEach Bot gets its own computer.\n\nIt learns your workflows, uses your apps, and works whi…",
+      "published_at": "Thu Aug 13 11:08:03 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260813"
+    },
+    {
+      "title": "@dr_cintas: RT @coderabbitai: We raised a $143M Series C at a $1.5B valuation to build the control layer for sof",
+      "url": "https://x.com/dr_cintas/status/2087531369496797361",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @coderabbitai: We raised a $143M Series C at a $1.5B valuation to build the control layer for software change.\n\nOur first investor got i…",
+      "published_at": "Wed Aug 12 13:27:17 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260813"
+    },
+    {
+      "title": "@dotey: RT @MaxForAI: 梁文锋他真的我哭死😭 https://t.co/rRNdSok99y",
+      "url": "https://x.com/dotey/status/2087657735319888051",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @MaxForAI: 梁文锋他真的我哭死😭 https://t.co/rRNdSok99y",
+      "published_at": "Wed Aug 12 21:49:25 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20260813"
+    },
+    {
+      "title": "@_akhaliq: RT @ClementDelangue: Let's go!  https://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
+      "url": "https://x.com/_akhaliq/status/2087562589026849228",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @ClementDelangue: Let's go!\n\nhttps://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
+      "published_at": "Wed Aug 12 15:31:20 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20260813"
+    },
+    {
+      "title": "@dotey: RT @mitchellh: We're looking to hire Windows developers capable of producing UI at this quality (but",
+      "url": "https://x.com/dotey/status/2087631275465085340",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @mitchellh: We're looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows ecosystem, n…",
+      "published_at": "Wed Aug 12 20:04:17 +0000 2026",
+      "score": 95,
+      "category": "community",
+      "added_date": "20260813"
+    },
+    {
+      "title": "Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "source": "Show HN",
+      "summary": "👍 157 points · 💬 100 comments · 讨论: https://news.ycombinator.com/item?id=49259611",
+      "published_at": "2026-08-11T15:09:34Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260812"
+    },
+    {
+      "title": "[shadcn-ui/chatbot-template] A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 524 stars · 新建于 2026-08-11 · 语言: TypeScript",
+      "published_at": "2026-08-11T11:53:02Z",
       "score": 102,
       "category": "tools",
-      "added_date": "20260819"
+      "added_date": "20260812"
     },
     {
-      "title": "@dr_cintas: RT @dr_cintas: do yourself a favor and download this ASAP",
-      "url": "https://x.com/dr_cintas/status/2089804236380930138",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @dr_cintas: do yourself a favor and download this ASAP",
-      "published_at": "Tue Aug 18 19:58:51 +0000 2026",
+      "title": "@levelsio: RT @owl_posting: i cannot express to you how bizarrely large the rewards of consistently writing opi",
+      "url": "https://x.com/levelsio/status/2087355827568992338",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @owl_posting: i cannot express to you how bizarrely large the rewards of consistently writing opinionated + technical essays are. it is…",
+      "published_at": "Wed Aug 12 01:49:45 +0000 2026",
       "score": 100,
       "category": "community",
-      "added_date": "20260819"
+      "added_date": "20260812"
     },
     {
-      "title": "@dr_cintas: do yourself a favor and download this ASAP",
-      "url": "https://x.com/dr_cintas/status/2089788109655323106",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "do yourself a favor and download this ASAP",
-      "published_at": "Tue Aug 18 18:54:46 +0000 2026",
+      "title": "@levelsio: Same  Claude is getting extremely preachy every day flat out refusing me regularly  I'm pretty happy",
+      "url": "https://x.com/levelsio/status/2087305386743206224",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Same\n\nClaude is getting extremely preachy every day flat out refusing me regularly\n\nI'm pretty happy to jump ship to Grok if it gets good enough for coding\n\nMy sites already run fully on @xAI back end",
+      "published_at": "Tue Aug 11 22:29:19 +0000 2026",
       "score": 100,
       "category": "community",
-      "added_date": "20260819"
+      "added_date": "20260812"
+    },
+    {
+      "title": "@levelsio: RT @mntruell: Grok Bot is out now! An early step towards capable, delightful digital colleagues.",
+      "url": "https://x.com/levelsio/status/2087233253715390638",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @mntruell: Grok Bot is out now! An early step towards capable, delightful digital colleagues.",
+      "published_at": "Tue Aug 11 17:42:41 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260812"
+    },
+    {
+      "title": "Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "source": "Show HN",
+      "summary": "👍 214 points · 💬 72 comments · 讨论: https://news.ycombinator.com/item?id=49251179",
+      "published_at": "2026-08-10T23:16:25Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260811"
+    },
+    {
+      "title": "[SMNETSTUDIO/WeChat-AI] No description",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1321 stars · 新建于 2026-08-10 · 语言: TypeScript",
+      "published_at": "2026-08-10T09:06:43Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260811"
+    },
+    {
+      "title": "Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "source": "Show HN",
+      "summary": "👍 137 points · 💬 81 comments · 讨论: https://news.ycombinator.com/item?id=49245437",
+      "published_at": "2026-08-10T15:59:23Z",
+      "score": 137,
+      "category": "tools",
+      "added_date": "20260811"
+    },
+    {
+      "title": "@dr_cintas: RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it gen",
+      "url": "https://x.com/dr_cintas/status/2086968526581927981",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how…",
+      "published_at": "Tue Aug 11 00:10:45 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260811"
+    },
+    {
+      "title": "@dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.  Anthro",
+      "url": "https://x.com/dr_cintas/status/2086943065135079796",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how it works. Two marks, both machine-readable:\n\n> Text: an imperceptible waterm",
+      "published_at": "Mon Aug 10 22:29:34 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260811"
     }
   ]
 }
