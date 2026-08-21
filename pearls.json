@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-20T12:02:11.269491",
+  "updated_at": "2026-08-21T12:01:58.236982",
   "pearls": [
+    {
+      "title": "[CopilotKit/OpenBot] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1920 stars · 新建于 2026-08-17 · 语言: TypeScript",
+      "published_at": "2026-08-17T00:44:59Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260821"
+    },
+    {
+      "title": "[Leutenegger/coldcard-airgap] Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "url": "https://github.com/Leutenegger/coldcard-airgap",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 608 stars · 新建于 2026-08-20 · 语言: Python",
+      "published_at": "2026-08-20T23:14:34Z",
+      "score": 110,
+      "category": "tools",
+      "added_date": "20260821"
+    },
+    {
+      "title": "@dotey: RT @VincentWei93: 最近研究了一个 skill能够生成类似产品发布宣传片质感的动效视频。前段时间在尝试 remotion 插件+Claude code，视频动效基本处于 PPT 动画的",
+      "url": "https://x.com/dotey/status/2090616478454170107",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @VincentWei93: 最近研究了一个 skill能够生成类似产品发布宣传片质感的动效视频。前段时间在尝试 remotion 插件+Claude code，视频动效基本处于 PPT 动画的水平。没有镜头运动，没有转场，没有音效，没有足够丰富的动画特效。于是我开源了这…",
+      "published_at": "Fri Aug 21 01:46:24 +0000 2026",
+      "score": 102,
+      "category": "community",
+      "added_date": "20260821"
+    },
+    {
+      "title": "@levelsio: RT @KonstantinKisin: It was great to finally have someone admit the truth: climate doomerism is abou",
+      "url": "https://x.com/levelsio/status/2090560056735518733",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @KonstantinKisin: It was great to finally have someone admit the truth: climate doomerism is about one world government, ending democrac…",
+      "published_at": "Thu Aug 20 22:02:12 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260821"
+    },
+    {
+      "title": "@levelsio: RT @goldi__of: RIP DEUTSCHE AUTOINDUSTRIE. 🇩🇪💀  Der neue XPeng G9L.  5,12 Meter Premium-SUV.  China-",
+      "url": "https://x.com/levelsio/status/2090551566889619653",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @goldi__of: RIP DEUTSCHE AUTOINDUSTRIE. 🇩🇪💀\n\nDer neue XPeng G9L. \n5,12 Meter Premium-SUV.\n\nChina-Preis: ab 259.800 Yuan - ca. 31.000 €.…",
+      "published_at": "Thu Aug 20 21:28:28 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260821"
+    },
     {
       "title": "[CopilotKit/openbot] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/openbot",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260812"
-    },
-    {
-      "title": "Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "source": "Show HN",
-      "summary": "👍 214 points · 💬 72 comments · 讨论: https://news.ycombinator.com/item?id=49251179",
-      "published_at": "2026-08-10T23:16:25Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260811"
-    },
-    {
-      "title": "[SMNETSTUDIO/WeChat-AI] No description",
-      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1321 stars · 新建于 2026-08-10 · 语言: TypeScript",
-      "published_at": "2026-08-10T09:06:43Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260811"
-    },
-    {
-      "title": "Ante, a coding agent in a single binary that runs offline",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "source": "Show HN",
-      "summary": "👍 137 points · 💬 81 comments · 讨论: https://news.ycombinator.com/item?id=49245437",
-      "published_at": "2026-08-10T15:59:23Z",
-      "score": 137,
-      "category": "tools",
-      "added_date": "20260811"
-    },
-    {
-      "title": "@dr_cintas: RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it gen",
-      "url": "https://x.com/dr_cintas/status/2086968526581927981",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how…",
-      "published_at": "Tue Aug 11 00:10:45 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260811"
-    },
-    {
-      "title": "@dr_cintas: 🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.  Anthro",
-      "url": "https://x.com/dr_cintas/status/2086943065135079796",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "🚨 HUGE NEWS: Claude now embeds an invisible watermark into every piece of text it generates.\n\nAnthropic just documented how it works. Two marks, both machine-readable:\n\n> Text: an imperceptible waterm",
-      "published_at": "Mon Aug 10 22:29:34 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260811"
     }
   ]
 }
