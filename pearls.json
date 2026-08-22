@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-21T12:01:58.236982",
+  "updated_at": "2026-08-22T11:59:30.002956",
   "pearls": [
+    {
+      "title": "[Spielewoy/autoprompt-skill] Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 645 stars · 新建于 2026-08-17 · 语言: JavaScript",
+      "published_at": "2026-08-17T22:40:47Z",
+      "score": 114,
+      "category": "tools",
+      "added_date": "20260822"
+    },
+    {
+      "title": "@levelsio: RT @chrissotraidis: GoldenEye 007 N64 running natively on iOS and iPadOS for the first time.  Not an",
+      "url": "https://x.com/levelsio/status/2091096663515402289",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @chrissotraidis: GoldenEye 007 N64 running natively on iOS and iPadOS for the first time.\n\nNot an emulator. The GoldenEye decompilation…",
+      "published_at": "Sat Aug 22 09:34:29 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260822"
+    },
+    {
+      "title": "@levelsio: I remember as a PC guy how I bought my first Apple device, a MacBook Pro, in 2013  I bought it becau",
+      "url": "https://x.com/levelsio/status/2090889905601757474",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I remember as a PC guy how I bought my first Apple device, a MacBook Pro, in 2013\n\nI bought it because that's what my brother had (a pro VFX guy) and also a lot of people in startups around then switc",
+      "published_at": "Fri Aug 21 19:52:55 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260822"
+    },
+    {
+      "title": "@levelsio: RT @dhh: THE ANNOUNCEMENT: We’re going to make the prophecy of The Year of Linux on the Desktop come",
+      "url": "https://x.com/levelsio/status/2090836707960574129",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @dhh: THE ANNOUNCEMENT: We’re going to make the prophecy of The Year of Linux on the Desktop come true. All the pieces are now in place.…",
+      "published_at": "Fri Aug 21 16:21:31 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260822"
+    },
+    {
+      "title": "@levelsio: I was in Lisbon yesterday where we were literally chased by drug dealers because they asked me if I ",
+      "url": "https://x.com/levelsio/status/2090913715663065185",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I was in Lisbon yesterday where we were literally chased by drug dealers because they asked me if I wanted to buy and I said \"no thanks\"\n\nI try avoid the city, obviously it's localized to a few parts,",
+      "published_at": "Fri Aug 21 21:27:31 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20260822"
+    },
     {
       "title": "[CopilotKit/OpenBot] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
@@ -450,56 +500,6 @@
       "score": 95,
       "category": "community",
       "added_date": "20260813"
-    },
-    {
-      "title": "Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
-      "url": "https://github.com/TheRealYT/git-knife",
-      "source": "Show HN",
-      "summary": "👍 157 points · 💬 100 comments · 讨论: https://news.ycombinator.com/item?id=49259611",
-      "published_at": "2026-08-11T15:09:34Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260812"
-    },
-    {
-      "title": "[shadcn-ui/chatbot-template] A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-      "url": "https://github.com/shadcn-ui/chatbot-template",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 524 stars · 新建于 2026-08-11 · 语言: TypeScript",
-      "published_at": "2026-08-11T11:53:02Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@levelsio: RT @owl_posting: i cannot express to you how bizarrely large the rewards of consistently writing opi",
-      "url": "https://x.com/levelsio/status/2087355827568992338",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @owl_posting: i cannot express to you how bizarrely large the rewards of consistently writing opinionated + technical essays are. it is…",
-      "published_at": "Wed Aug 12 01:49:45 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@levelsio: Same  Claude is getting extremely preachy every day flat out refusing me regularly  I'm pretty happy",
-      "url": "https://x.com/levelsio/status/2087305386743206224",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Same\n\nClaude is getting extremely preachy every day flat out refusing me regularly\n\nI'm pretty happy to jump ship to Grok if it gets good enough for coding\n\nMy sites already run fully on @xAI back end",
-      "published_at": "Tue Aug 11 22:29:19 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260812"
-    },
-    {
-      "title": "@levelsio: RT @mntruell: Grok Bot is out now! An early step towards capable, delightful digital colleagues.",
-      "url": "https://x.com/levelsio/status/2087233253715390638",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @mntruell: Grok Bot is out now! An early step towards capable, delightful digital colleagues.",
-      "published_at": "Tue Aug 11 17:42:41 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260812"
     }
   ]
 }
