@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-22T11:59:30.002956",
+  "updated_at": "2026-08-23T11:59:36.756391",
   "pearls": [
+    {
+      "title": "[iAmCorey/Wake] Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "url": "https://github.com/iAmCorey/Wake",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 511 stars · 新建于 2026-08-18 · 语言: Rust",
+      "published_at": "2026-08-18T09:46:23Z",
+      "score": 101,
+      "category": "tools",
+      "added_date": "20260823"
+    },
+    {
+      "title": "@levelsio: RT @frederickjames: Yesterday, I resigned from my job.  I also hit $10,000/month.  It took me 88 day",
+      "url": "https://x.com/levelsio/status/2091174007471022399",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @frederickjames: Yesterday, I resigned from my job.\n\nI also hit $10,000/month.\n\nIt took me 88 days.\n\nKeep going friends. The world is yo…",
+      "published_at": "Sat Aug 22 14:41:50 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260823"
+    },
+    {
+      "title": "@levelsio: He's completely right!  Germany does NOT take 50% of everything you make  They take 49.3%!  Source: ",
+      "url": "https://x.com/levelsio/status/2091142818802569554",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "He's completely right!\n\nGermany does NOT take 50% of everything you make\n\nThey take 49.3%!\n\nSource: @OECD https://t.co/mzrJ9cFPv8",
+      "published_at": "Sat Aug 22 12:37:54 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260823"
+    },
+    {
+      "title": "[cclank/lanshu-create-ai-presenter-video] Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 474 stars · 新建于 2026-08-20 · 语言: Python",
+      "published_at": "2026-08-20T13:40:06Z",
+      "score": 97,
+      "category": "tools",
+      "added_date": "20260823"
+    },
+    {
+      "title": "@bilawalsidhu: When bits can simulate atoms the lines between the physical &amp; digital world get rather blurry",
+      "url": "https://x.com/bilawalsidhu/status/2091327019527143919",
+      "source": "X - @bilawalsidhu (AI builder)",
+      "summary": "When bits can simulate atoms the lines between the physical &amp; digital world get rather blurry",
+      "published_at": "Sun Aug 23 00:49:51 +0000 2026",
+      "score": 94,
+      "category": "community",
+      "added_date": "20260823"
+    },
     {
       "title": "[Spielewoy/autoprompt-skill] Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
       "url": "https://github.com/Spielewoy/autoprompt-skill",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260814"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Grok Bot just killed 1,000 startups.  Each Bot gets its own computer.  It learns your w",
-      "url": "https://x.com/minchoi/status/2087858718876569948",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Grok Bot just killed 1,000 startups.\n\nEach Bot gets its own computer.\n\nIt learns your workflows, uses your apps, and works whi…",
-      "published_at": "Thu Aug 13 11:08:03 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dr_cintas: RT @coderabbitai: We raised a $143M Series C at a $1.5B valuation to build the control layer for sof",
-      "url": "https://x.com/dr_cintas/status/2087531369496797361",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @coderabbitai: We raised a $143M Series C at a $1.5B valuation to build the control layer for software change.\n\nOur first investor got i…",
-      "published_at": "Wed Aug 12 13:27:17 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dotey: RT @MaxForAI: 梁文锋他真的我哭死😭 https://t.co/rRNdSok99y",
-      "url": "https://x.com/dotey/status/2087657735319888051",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @MaxForAI: 梁文锋他真的我哭死😭 https://t.co/rRNdSok99y",
-      "published_at": "Wed Aug 12 21:49:25 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@_akhaliq: RT @ClementDelangue: Let's go!  https://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
-      "url": "https://x.com/_akhaliq/status/2087562589026849228",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @ClementDelangue: Let's go!\n\nhttps://t.co/BAJlYIJqDQ https://t.co/FYTH5MrTBG",
-      "published_at": "Wed Aug 12 15:31:20 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260813"
-    },
-    {
-      "title": "@dotey: RT @mitchellh: We're looking to hire Windows developers capable of producing UI at this quality (but",
-      "url": "https://x.com/dotey/status/2087631275465085340",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @mitchellh: We're looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows ecosystem, n…",
-      "published_at": "Wed Aug 12 20:04:17 +0000 2026",
-      "score": 95,
-      "category": "community",
-      "added_date": "20260813"
     }
   ]
 }
