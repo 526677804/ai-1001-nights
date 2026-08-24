@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-23T11:59:36.756391",
+  "updated_at": "2026-08-24T12:02:44.687343",
   "pearls": [
+    {
+      "title": "[duty1g/x64dbg-mcp-server] x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1089 stars · 新建于 2026-08-22 · 语言: Zig",
+      "published_at": "2026-08-22T14:28:41Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260824"
+    },
+    {
+      "title": "[ShadowAqueduct/watermark-remover] Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 762 stars · 新建于 2026-08-23 · 语言: Python",
+      "published_at": "2026-08-23T21:14:28Z",
+      "score": 126,
+      "category": "tools",
+      "added_date": "20260824"
+    },
+    {
+      "title": "[Forsy-AI/biosecurity-agent] AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 512 stars · 新建于 2026-08-22 · 语言: TypeScript",
+      "published_at": "2026-08-22T23:06:26Z",
+      "score": 101,
+      "category": "tools",
+      "added_date": "20260824"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Ok Grok Bot is insane.  People can’t stop finding new ways to make money, automate work",
+      "url": "https://x.com/minchoi/status/2091736506788417907",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Ok Grok Bot is insane.\n\nPeople can’t stop finding new ways to make money, automate work, and run businesses with it.\n\n10 wild…",
+      "published_at": "Mon Aug 24 03:57:00 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260824"
+    },
+    {
+      "title": "@minchoi: Ok Grok Bot is insane.  People can’t stop finding new ways to make money, automate work, and run bus",
+      "url": "https://x.com/minchoi/status/2091478181840584857",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "Ok Grok Bot is insane.\n\nPeople can’t stop finding new ways to make money, automate work, and run businesses with it.\n\n10 wild examples:",
+      "published_at": "Sun Aug 23 10:50:30 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260824"
+    },
     {
       "title": "[iAmCorey/Wake] Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
       "url": "https://github.com/iAmCorey/Wake",
@@ -450,56 +500,6 @@
       "score": 95,
       "category": "tools",
       "added_date": "20260815"
-    },
-    {
-      "title": "@dotey: RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!  🔹 We’re opening it ",
-      "url": "https://x.com/dotey/status/2087908049037992179",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @deepseek_ai: 🧩 DeepSeek Harness v0.1 is now available in Developer Preview!\n\n🔹 We’re opening it up to developers building agent harness…",
-      "published_at": "Thu Aug 13 14:24:05 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy s",
-      "url": "https://x.com/minchoi/status/2088213143344300234",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
-      "published_at": "Fri Aug 14 10:36:25 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@minchoi: Less than 48 hours ago, SpaceXAI dropped Grok 4.6.  People are already building crazy stuff with it.",
-      "url": "https://x.com/minchoi/status/2087926969333698743",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "Less than 48 hours ago, SpaceXAI dropped Grok 4.6.\n\nPeople are already building crazy stuff with it.\n\n10 wild examples:",
-      "published_at": "Thu Aug 13 15:39:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@dr_cintas: RT @zjearbear: Agents f*ck up.  We raised a $2.3M pre-seed to warn you before it’s too late https://",
-      "url": "https://x.com/dr_cintas/status/2087975790927302842",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @zjearbear: Agents f*ck up.\n\nWe raised a $2.3M pre-seed to warn you before it’s too late https://t.co/VXplPObX6v",
-      "published_at": "Thu Aug 13 18:53:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
-    },
-    {
-      "title": "@levelsio: Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! htt",
-      "url": "https://x.com/levelsio/status/2087903666158162214",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Very cool tip by @dhh to hook your Claude Code up to your Ubiquiti router and improve your WiFi! https://t.co/E3fZ4RwYpL",
-      "published_at": "Thu Aug 13 14:06:40 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260814"
     }
   ]
 }
