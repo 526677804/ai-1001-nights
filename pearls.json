@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-24T12:02:44.687343",
+  "updated_at": "2026-08-25T12:02:30.275177",
   "pearls": [
+    {
+      "title": "A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "source": "Show HN",
+      "summary": "👍 204 points · 💬 38 comments · 讨论: https://news.ycombinator.com/item?id=49419351",
+      "published_at": "2026-08-24T13:17:11Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260825"
+    },
+    {
+      "title": "PicoMQ – Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "source": "Show HN",
+      "summary": "👍 134 points · 💬 23 comments · 讨论: https://news.ycombinator.com/item?id=49421806",
+      "published_at": "2026-08-24T16:08:17Z",
+      "score": 134,
+      "category": "tools",
+      "added_date": "20260825"
+    },
+    {
+      "title": "GlassBox – what the browser reveals, and how identifiable you are",
+      "url": "https://glassbox.codecanary.org",
+      "source": "Show HN",
+      "summary": "👍 116 points · 💬 53 comments · 讨论: https://news.ycombinator.com/item?id=49421948",
+      "published_at": "2026-08-24T16:15:10Z",
+      "score": 116,
+      "category": "tools",
+      "added_date": "20260825"
+    },
+    {
+      "title": "@levelsio: RT @cdngdev: i turned the entire actual city of san francisco into a video game!  with apple maps da",
+      "url": "https://x.com/levelsio/status/2091974382583222765",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @cdngdev: i turned the entire actual city of san francisco into a video game!\n\nwith apple maps data, i made it so you can climb building…",
+      "published_at": "Mon Aug 24 19:42:14 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260825"
+    },
+    {
+      "title": "@levelsio: Never stop talking about your new projects until everyone finds out! https://t.co/UJyN9Upz69",
+      "url": "https://x.com/levelsio/status/2091900218073665623",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Never stop talking about your new projects until everyone finds out! https://t.co/UJyN9Upz69",
+      "published_at": "Mon Aug 24 14:47:32 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260825"
+    },
     {
       "title": "[duty1g/x64dbg-mcp-server] x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
@@ -450,56 +500,6 @@
       "score": 98,
       "category": "tools",
       "added_date": "20260816"
-    },
-    {
-      "title": "@_akhaliq: RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time! See you soon: 👀 https://t.co/rXzUQ",
-      "url": "https://x.com/_akhaliq/status/2088255720730812493",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @Alibaba_Qwen: Less than 2 hours to say hi👋. It's almost time!\nSee you soon: 👀\nhttps://t.co/rXzUQ4d6WQ https://t.co/r6mnbuNiKZ",
-      "published_at": "Fri Aug 14 13:25:36 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260815"
-    },
-    {
-      "title": "@levelsio: Of course it exists!  Someone made a Moccamaster clone but without plastic  Genius!  Throwing my Moc",
-      "url": "https://x.com/levelsio/status/2088248834036052352",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Of course it exists!\n\nSomeone made a Moccamaster clone but without plastic\n\nGenius!\n\nThrowing my Moccamaster out now and getting this\n\nhttps://t.co/jgOCs6VHq0\n\nVia @mathijsto_ + @robertsirc https://t.",
-      "published_at": "Fri Aug 14 12:58:14 +0000 2026",
-      "score": 98,
-      "category": "community",
-      "added_date": "20260815"
-    },
-    {
-      "title": "@venturetwins: RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how sof",
-      "url": "https://x.com/venturetwins/status/2088334614217867478",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how software is written. While I'm sad to step…",
-      "published_at": "Fri Aug 14 18:39:06 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260815"
-    },
-    {
-      "title": "[DrHazemAli/enterprise-system-design] A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "url": "https://github.com/DrHazemAli/enterprise-system-design",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 460 stars · 新建于 2026-08-12 · 语言: N/A",
-      "published_at": "2026-08-12T04:03:15Z",
-      "score": 96,
-      "category": "tools",
-      "added_date": "20260815"
-    },
-    {
-      "title": "[0xsline/awesome-deepseek-harness] DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "url": "https://github.com/0xsline/awesome-deepseek-harness",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 453 stars · 新建于 2026-08-11 · 语言: Python",
-      "published_at": "2026-08-11T13:14:49Z",
-      "score": 95,
-      "category": "tools",
-      "added_date": "20260815"
     }
   ]
 }
