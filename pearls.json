@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-25T12:02:30.275177",
+  "updated_at": "2026-08-26T12:02:09.077674",
   "pearls": [
+    {
+      "title": "LatticeDB – Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "source": "Show HN",
+      "summary": "👍 160 points · 💬 41 comments · 讨论: https://news.ycombinator.com/item?id=49437049",
+      "published_at": "2026-08-25T16:52:05Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260826"
+    },
+    {
+      "title": "TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "source": "Show HN",
+      "summary": "👍 103 points · 💬 21 comments · 讨论: https://news.ycombinator.com/item?id=49441375",
+      "published_at": "2026-08-25T22:08:50Z",
+      "score": 103,
+      "category": "tools",
+      "added_date": "20260826"
+    },
+    {
+      "title": "@dr_cintas: RT @SkildAI: Introducing S1, our new foundation model that learns from one example.  It can be taugh",
+      "url": "https://x.com/dr_cintas/status/2092307895555698989",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @SkildAI: Introducing S1, our new foundation model that learns from one example.\n\nIt can be taught 10-minute long tasks that it has neve…",
+      "published_at": "Tue Aug 25 17:47:30 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260826"
+    },
+    {
+      "title": "@_akhaliq: RT @EinsiaAI: The ultimate test for coding agents isn't local editing— it's whole-repo evolution, an",
+      "url": "https://x.com/_akhaliq/status/2092259435347349551",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @EinsiaAI: The ultimate test for coding agents isn't local editing—\nit's whole-repo evolution, and right now, the survival rate is 5.4%.…",
+      "published_at": "Tue Aug 25 14:34:56 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260826"
+    },
+    {
+      "title": "@levelsio: RT @patrickc: Europe can have an amazing next few decades. I hope we can play a small role in making",
+      "url": "https://x.com/levelsio/status/2092375317889290512",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @patrickc: Europe can have an amazing next few decades. I hope we can play a small role in making that more likely.",
+      "published_at": "Tue Aug 25 22:15:24 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260826"
+    },
     {
       "title": "A techno machine in one HTML file, with verifiable renders",
       "url": "https://ssx360.github.io/rack-02/?src=hn",
@@ -450,56 +500,6 @@
       "score": 96,
       "category": "community",
       "added_date": "20260817"
-    },
-    {
-      "title": "[NousResearch/Hermes-Bot-Mode] Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
-      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 541 stars · 新建于 2026-08-13 · 语言: JavaScript",
-      "published_at": "2026-08-13T16:40:20Z",
-      "score": 104,
-      "category": "tools",
-      "added_date": "20260816"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https",
-      "url": "https://x.com/minchoi/status/2088946703990706564",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
-      "published_at": "Sun Aug 16 11:11:19 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260816"
-    },
-    {
-      "title": "@minchoi: You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.  Locally. https://t.co/wivWp",
-      "url": "https://x.com/minchoi/status/2088466273529118889",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "You can literally run Opus 4.6 Max-level intelligence on a MacBook Pro.\n\nLocally. https://t.co/wivWpOovFR",
-      "published_at": "Sat Aug 15 03:22:16 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260816"
-    },
-    {
-      "title": "@levelsio: RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand fo",
-      "url": "https://x.com/levelsio/status/2088634296365896002",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @dhh: I share because I care. I really don't need the money. So going to roll these four grand forward into the Omarchy ecosystem. It'll…",
-      "published_at": "Sat Aug 15 14:29:55 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260816"
-    },
-    {
-      "title": "[Anionex/dsh-vision-toolkit] 让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "url": "https://github.com/Anionex/dsh-vision-toolkit",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 485 stars · 新建于 2026-08-13 · 语言: TypeScript",
-      "published_at": "2026-08-13T12:36:34Z",
-      "score": 98,
-      "category": "tools",
-      "added_date": "20260816"
     }
   ]
 }
