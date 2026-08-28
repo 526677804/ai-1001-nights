@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-27T12:00:00.896644",
+  "updated_at": "2026-08-28T12:00:28.385368",
   "pearls": [
+    {
+      "title": "OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "source": "Show HN",
+      "summary": "👍 176 points · 💬 43 comments · 讨论: https://news.ycombinator.com/item?id=49471965",
+      "published_at": "2026-08-27T22:10:47Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260828"
+    },
+    {
+      "title": "We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "source": "Show HN",
+      "summary": "👍 188 points · 💬 37 comments · 讨论: https://news.ycombinator.com/item?id=49471407",
+      "published_at": "2026-08-27T21:18:35Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260828"
+    },
+    {
+      "title": "Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "source": "Show HN",
+      "summary": "👍 137 points · 💬 21 comments · 讨论: https://news.ycombinator.com/item?id=49468816",
+      "published_at": "2026-08-27T18:03:37Z",
+      "score": 137,
+      "category": "tools",
+      "added_date": "20260828"
+    },
+    {
+      "title": "@_akhaliq: RT @Thom_Wolf: we've just passed $1,000,000 in sales for Microduck",
+      "url": "https://x.com/_akhaliq/status/2093037110236180733",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @Thom_Wolf: we've just passed $1,000,000 in sales for Microduck",
+      "published_at": "Thu Aug 27 18:05:08 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260828"
+    },
+    {
+      "title": "@_akhaliq: RT @Thom_Wolf: We have a huge news to share today!  Today we are unveiling the first truly accessibl",
+      "url": "https://x.com/_akhaliq/status/2093031003975492067",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @Thom_Wolf: We have a huge news to share today!\n\nToday we are unveiling the first truly accessible RL robot - welcome Microduck\n\nA 25 cm…",
+      "published_at": "Thu Aug 27 17:40:52 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260828"
+    },
     {
       "title": "@minchoi: RT @minchoi: This Grok Bot prompt is literally $300/hr chief of staff https://t.co/dxLaVtmXVJ",
       "url": "https://x.com/minchoi/status/2092939151263854940",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260819"
-    },
-    {
-      "title": "[yetone/cumora] Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "url": "https://github.com/yetone/cumora",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 2109 stars · 新建于 2026-08-17 · 语言: TypeScript",
-      "published_at": "2026-08-17T09:13:52Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260818"
-    },
-    {
-      "title": "[decionis/agent-safe-pipeline] Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
-      "url": "https://github.com/decionis/agent-safe-pipeline",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 532 stars · 新建于 2026-08-13 · 语言: TypeScript",
-      "published_at": "2026-08-13T21:36:19Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20260818"
-    },
-    {
-      "title": "[NanmiCoder/dsh-agent-teams] AgentTeams plugin for DeepSeek Harness",
-      "url": "https://github.com/NanmiCoder/dsh-agent-teams",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 530 stars · 新建于 2026-08-12 · 语言: TypeScript",
-      "published_at": "2026-08-12T13:41:50Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20260818"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orc",
-      "url": "https://x.com/minchoi/status/2089332551286419725",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
-      "published_at": "Mon Aug 17 12:44:32 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260818"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Ok Grok 4.6 is getting scary good.  Games. 3D worlds. Game trailers. Even real-world 3D",
-      "url": "https://x.com/minchoi/status/2089332548128166168",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Ok Grok 4.6 is getting scary good.\n\nGames. 3D worlds. Game trailers. Even real-world 3D prints.\n\n10 wild examples:",
-      "published_at": "Mon Aug 17 12:44:32 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260818"
     }
   ]
 }
