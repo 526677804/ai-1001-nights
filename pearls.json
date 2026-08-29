@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-28T12:00:28.385368",
+  "updated_at": "2026-08-29T12:01:12.966253",
   "pearls": [
+    {
+      "title": "[Nanako0129/sepia] De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 551 stars · 新建于 2026-08-28 · 语言: Shell",
+      "published_at": "2026-08-28T05:56:49Z",
+      "score": 105,
+      "category": "tools",
+      "added_date": "20260829"
+    },
+    {
+      "title": "@dotey: RT @fi56622380: AI半导体终局推演2026(II)  当半导体结构性演进到AI推理主线，内存和存储成为了最大瓶颈，市场对内存和存储最大的怀疑就是：  HBM/DRAM/SSD会不会摆脱",
+      "url": "https://x.com/dotey/status/2093502292066496682",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @fi56622380: AI半导体终局推演2026(II)\n\n当半导体结构性演进到AI推理主线，内存和存储成为了最大瓶颈，市场对内存和存储最大的怀疑就是：\n\nHBM/DRAM/SSD会不会摆脱传统周期性？\n\n依赖HBM指数增长的GPU架构路线进化路线，会不会停止？什么时…",
+      "published_at": "Sat Aug 29 00:53:36 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260829"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Holy smokes... how is this AI? https://t.co/i5DVIVGvsS",
+      "url": "https://x.com/minchoi/status/2093557221623845130",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Holy smokes... how is this AI? https://t.co/i5DVIVGvsS",
+      "published_at": "Sat Aug 29 04:31:52 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260829"
+    },
+    {
+      "title": "@_akhaliq: RT @RemiFabreRobot: We sold over $2,500,000 worth of Microducks in the first 24 hours. Is this one o",
+      "url": "https://x.com/_akhaliq/status/2093537268405342579",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @RemiFabreRobot: We sold over $2,500,000 worth of Microducks in the first 24 hours. Is this one of the most successful robot launches in…",
+      "published_at": "Sat Aug 29 03:12:35 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260829"
+    },
+    {
+      "title": "@_akhaliq: RT @ClementDelangue: someone trained microduck to do somersaults 😭 https://t.co/evDlBaxhsb",
+      "url": "https://x.com/_akhaliq/status/2093312734242787500",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @ClementDelangue: someone trained microduck to do somersaults 😭 https://t.co/evDlBaxhsb",
+      "published_at": "Fri Aug 28 12:20:22 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260829"
+    },
     {
       "title": "OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
       "url": "https://github.com/elyosh/OpenTIE/",
@@ -450,56 +500,6 @@
       "score": 104,
       "category": "tools",
       "added_date": "20260820"
-    },
-    {
-      "title": "[s1dashu/ip-as-logo-skill] A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "url": "https://github.com/s1dashu/ip-as-logo-skill",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1639 stars · 新建于 2026-08-18 · 语言: N/A",
-      "published_at": "2026-08-18T13:59:23Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260819"
-    },
-    {
-      "title": "[cinderline/northcinder] Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "url": "https://github.com/cinderline/northcinder",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1162 stars · 新建于 2026-08-17 · 语言: JavaScript",
-      "published_at": "2026-08-17T11:42:31Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260819"
-    },
-    {
-      "title": "[Electricitysheep/dsh-handbook] DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "url": "https://github.com/Electricitysheep/dsh-handbook",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 523 stars · 新建于 2026-08-13 · 语言: HTML",
-      "published_at": "2026-08-13T15:22:29Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20260819"
-    },
-    {
-      "title": "@dr_cintas: RT @dr_cintas: do yourself a favor and download this ASAP",
-      "url": "https://x.com/dr_cintas/status/2089804236380930138",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @dr_cintas: do yourself a favor and download this ASAP",
-      "published_at": "Tue Aug 18 19:58:51 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260819"
-    },
-    {
-      "title": "@dr_cintas: do yourself a favor and download this ASAP",
-      "url": "https://x.com/dr_cintas/status/2089788109655323106",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "do yourself a favor and download this ASAP",
-      "published_at": "Tue Aug 18 18:54:46 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260819"
     }
   ]
 }
