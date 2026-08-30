@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-29T12:01:12.966253",
+  "updated_at": "2026-08-30T12:00:44.551495",
   "pearls": [
+    {
+      "title": "[kacperkapusciak/goldie] ✨ agentic app store previews and screenshots",
+      "url": "https://github.com/kacperkapusciak/goldie",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 547 stars · 新建于 2026-08-24 · 语言: TypeScript",
+      "published_at": "2026-08-24T12:36:59Z",
+      "score": 104,
+      "category": "tools",
+      "added_date": "20260830"
+    },
+    {
+      "title": "@venturetwins: Ngl I appreciate the strategy of hallucinating back at the AI interviewer https://t.co/QGmzWfpc5y",
+      "url": "https://x.com/venturetwins/status/2093787768455639077",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Ngl I appreciate the strategy of hallucinating back at the AI interviewer https://t.co/QGmzWfpc5y",
+      "published_at": "Sat Aug 29 19:47:59 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260830"
+    },
+    {
+      "title": "@venturetwins: RT @rehan_shei: Minimax H3 Max has generates video faster than you can watch it so I hooked it to a ",
+      "url": "https://x.com/venturetwins/status/2093711675354669557",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "RT @rehan_shei: Minimax H3 Max has generates video faster than you can watch it so I hooked it to a twitch livestream! Now you can watch in…",
+      "published_at": "Sat Aug 29 14:45:37 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260830"
+    },
+    {
+      "title": "[cbrock84/headcount] An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "url": "https://github.com/cbrock84/headcount",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 477 stars · 新建于 2026-08-28 · 语言: Markdown",
+      "published_at": "2026-08-28T18:03:04Z",
+      "score": 97,
+      "category": "tools",
+      "added_date": "20260830"
+    },
+    {
+      "title": "@levelsio: If I was Indian",
+      "url": "https://x.com/levelsio/status/2093986080491987043",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "If I was Indian",
+      "published_at": "Sun Aug 30 08:56:00 +0000 2026",
+      "score": 96,
+      "category": "community",
+      "added_date": "20260830"
+    },
     {
       "title": "[Nanako0129/sepia] De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260821"
-    },
-    {
-      "title": "[CopilotKit/openbot] Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "url": "https://github.com/CopilotKit/openbot",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1078 stars · 新建于 2026-08-17 · 语言: TypeScript",
-      "published_at": "2026-08-17T00:44:59Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260820"
-    },
-    {
-      "title": "[Leutenegger/watermarks-remover] Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "url": "https://github.com/Leutenegger/watermarks-remover",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 917 stars · 新建于 2026-08-19 · 语言: Python",
-      "published_at": "2026-08-19T15:20:24Z",
-      "score": 141,
-      "category": "tools",
-      "added_date": "20260820"
-    },
-    {
-      "title": "[wang2122/sprix-sage-router] Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "url": "https://github.com/wang2122/sprix-sage-router",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 677 stars · 新建于 2026-08-18 · 语言: Python",
-      "published_at": "2026-08-18T04:08:11Z",
-      "score": 117,
-      "category": "tools",
-      "added_date": "20260820"
-    },
-    {
-      "title": "[jeremy-prt/bloub] SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "url": "https://github.com/jeremy-prt/bloub",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 563 stars · 新建于 2026-08-15 · 语言: TypeScript",
-      "published_at": "2026-08-15T13:21:23Z",
-      "score": 106,
-      "category": "tools",
-      "added_date": "20260820"
-    },
-    {
-      "title": "[browser-use/macos-harness] The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "url": "https://github.com/browser-use/macos-harness",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 549 stars · 新建于 2026-08-17 · 语言: Python",
-      "published_at": "2026-08-17T00:22:20Z",
-      "score": 104,
-      "category": "tools",
-      "added_date": "20260820"
     }
   ]
 }
