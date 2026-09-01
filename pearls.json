@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-31T12:02:56.518841",
+  "updated_at": "2026-09-01T12:01:48.648785",
   "pearls": [
+    {
+      "title": "@levelsio: RT @eurofounder: https://t.co/ocrNndqB6r",
+      "url": "https://x.com/levelsio/status/2094454950537441388",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @eurofounder: https://t.co/ocrNndqB6r",
+      "published_at": "Mon Aug 31 15:59:07 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260901"
+    },
+    {
+      "title": "@levelsio: I keep rejected by Claude for the most benign things now  Like it wouldn't download and install a 19",
+      "url": "https://x.com/levelsio/status/2094428818026991837",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I keep rejected by Claude for the most benign things now\n\nLike it wouldn't download and install a 1990s game from archive(dot)org because of copyright\n\nThe safety guardrails in a way make it more dang",
+      "published_at": "Mon Aug 31 14:15:17 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260901"
+    },
+    {
+      "title": "@levelsio: There is no reason NOT to have every single email you get routed through an agent / LLM / API to be ",
+      "url": "https://x.com/levelsio/status/2094426696036339724",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "There is no reason NOT to have every single email you get routed through an agent / LLM / API to be scored and approved or rejected\n\nAnd then the approved emails ordered by importance\n\nIt's crazy this",
+      "published_at": "Mon Aug 31 14:06:51 +0000 2026",
+      "score": 94,
+      "category": "community",
+      "added_date": "20260901"
+    },
+    {
+      "title": "@_akhaliq: RT @zizhpan: Weights open: https://t.co/IqEznvG68g",
+      "url": "https://x.com/_akhaliq/status/2094435621054083238",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @zizhpan: Weights open: https://t.co/IqEznvG68g",
+      "published_at": "Mon Aug 31 14:42:19 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20260901"
+    },
+    {
+      "title": "[PAICNI/CFBox] 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
+      "url": "https://github.com/PAICNI/CFBox",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 420 stars · 新建于 2026-08-26 · 语言: JavaScript",
+      "published_at": "2026-08-26T21:58:54Z",
+      "score": 92,
+      "category": "tools",
+      "added_date": "20260901"
+    },
     {
       "title": "[damejan80/tokentab] A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
       "url": "https://github.com/damejan80/tokentab",
@@ -450,56 +500,6 @@
       "score": 94,
       "category": "community",
       "added_date": "20260823"
-    },
-    {
-      "title": "[Spielewoy/autoprompt-skill] Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "url": "https://github.com/Spielewoy/autoprompt-skill",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 645 stars · 新建于 2026-08-17 · 语言: JavaScript",
-      "published_at": "2026-08-17T22:40:47Z",
-      "score": 114,
-      "category": "tools",
-      "added_date": "20260822"
-    },
-    {
-      "title": "@levelsio: RT @chrissotraidis: GoldenEye 007 N64 running natively on iOS and iPadOS for the first time.  Not an",
-      "url": "https://x.com/levelsio/status/2091096663515402289",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @chrissotraidis: GoldenEye 007 N64 running natively on iOS and iPadOS for the first time.\n\nNot an emulator. The GoldenEye decompilation…",
-      "published_at": "Sat Aug 22 09:34:29 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260822"
-    },
-    {
-      "title": "@levelsio: I remember as a PC guy how I bought my first Apple device, a MacBook Pro, in 2013  I bought it becau",
-      "url": "https://x.com/levelsio/status/2090889905601757474",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I remember as a PC guy how I bought my first Apple device, a MacBook Pro, in 2013\n\nI bought it because that's what my brother had (a pro VFX guy) and also a lot of people in startups around then switc",
-      "published_at": "Fri Aug 21 19:52:55 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260822"
-    },
-    {
-      "title": "@levelsio: RT @dhh: THE ANNOUNCEMENT: We’re going to make the prophecy of The Year of Linux on the Desktop come",
-      "url": "https://x.com/levelsio/status/2090836707960574129",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @dhh: THE ANNOUNCEMENT: We’re going to make the prophecy of The Year of Linux on the Desktop come true. All the pieces are now in place.…",
-      "published_at": "Fri Aug 21 16:21:31 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260822"
-    },
-    {
-      "title": "@levelsio: I was in Lisbon yesterday where we were literally chased by drug dealers because they asked me if I ",
-      "url": "https://x.com/levelsio/status/2090913715663065185",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I was in Lisbon yesterday where we were literally chased by drug dealers because they asked me if I wanted to buy and I said \"no thanks\"\n\nI try avoid the city, obviously it's localized to a few parts,",
-      "published_at": "Fri Aug 21 21:27:31 +0000 2026",
-      "score": 93,
-      "category": "community",
-      "added_date": "20260822"
     }
   ]
 }
