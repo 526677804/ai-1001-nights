@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-01T12:01:48.648785",
+  "updated_at": "2026-09-02T12:02:04.149639",
   "pearls": [
+    {
+      "title": "Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "source": "Show HN",
+      "summary": "👍 219 points · 💬 100 comments · 讨论: https://news.ycombinator.com/item?id=49524447",
+      "published_at": "2026-09-01T16:42:46Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260902"
+    },
+    {
+      "title": "[brayonpi/hexstellar] Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "url": "https://github.com/brayonpi/hexstellar",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 635 stars · 新建于 2026-08-27 · 语言: Python",
+      "published_at": "2026-08-27T20:53:42Z",
+      "score": 113,
+      "category": "tools",
+      "added_date": "20260902"
+    },
+    {
+      "title": "@_akhaliq: RT @viskoai: Today, we are introducing Orbis 1.0, our first Live Model!  Create living worlds and st",
+      "url": "https://x.com/_akhaliq/status/2094818160482639973",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @viskoai: Today, we are introducing Orbis 1.0, our first Live Model!\n\nCreate living worlds and stream them in real time, with persistent…",
+      "published_at": "Tue Sep 01 16:02:23 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260902"
+    },
+    {
+      "title": "@levelsio: RT @theworldlabs: Introducing Atlas:  The world's first multimodal world model that generates image ",
+      "url": "https://x.com/levelsio/status/2094889320695914865",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @theworldlabs: Introducing Atlas:\n\nThe world's first multimodal world model that generates image and video frames with pixel-perfect cam…",
+      "published_at": "Tue Sep 01 20:45:09 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260902"
+    },
+    {
+      "title": "@levelsio: You stop wondering why the US is so insanely rich when you travel the rest of the world  In most of ",
+      "url": "https://x.com/levelsio/status/2094845579310649515",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "You stop wondering why the US is so insanely rich when you travel the rest of the world\n\nIn most of the world there is:\n- no real willingness to solve problems\n- nor an acceptance of people offering t",
+      "published_at": "Tue Sep 01 17:51:21 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260902"
+    },
     {
       "title": "@levelsio: RT @eurofounder: https://t.co/ocrNndqB6r",
       "url": "https://x.com/levelsio/status/2094454950537441388",
@@ -117,16 +167,6 @@
       "source": "X - @venturetwins (AI builder)",
       "summary": "Ngl I appreciate the strategy of hallucinating back at the AI interviewer https://t.co/QGmzWfpc5y",
       "published_at": "Sat Aug 29 19:47:59 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260830"
-    },
-    {
-      "title": "@venturetwins: RT @rehan_shei: Minimax H3 Max has generates video faster than you can watch it so I hooked it to a ",
-      "url": "https://x.com/venturetwins/status/2093711675354669557",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "RT @rehan_shei: Minimax H3 Max has generates video faster than you can watch it so I hooked it to a twitch livestream! Now you can watch in…",
-      "published_at": "Sat Aug 29 14:45:37 +0000 2026",
       "score": 100,
       "category": "community",
       "added_date": "20260830"
@@ -459,46 +499,6 @@
       "published_at": "2026-08-18T09:46:23Z",
       "score": 101,
       "category": "tools",
-      "added_date": "20260823"
-    },
-    {
-      "title": "@levelsio: RT @frederickjames: Yesterday, I resigned from my job.  I also hit $10,000/month.  It took me 88 day",
-      "url": "https://x.com/levelsio/status/2091174007471022399",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @frederickjames: Yesterday, I resigned from my job.\n\nI also hit $10,000/month.\n\nIt took me 88 days.\n\nKeep going friends. The world is yo…",
-      "published_at": "Sat Aug 22 14:41:50 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260823"
-    },
-    {
-      "title": "@levelsio: He's completely right!  Germany does NOT take 50% of everything you make  They take 49.3%!  Source: ",
-      "url": "https://x.com/levelsio/status/2091142818802569554",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "He's completely right!\n\nGermany does NOT take 50% of everything you make\n\nThey take 49.3%!\n\nSource: @OECD https://t.co/mzrJ9cFPv8",
-      "published_at": "Sat Aug 22 12:37:54 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260823"
-    },
-    {
-      "title": "[cclank/lanshu-create-ai-presenter-video] Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 474 stars · 新建于 2026-08-20 · 语言: Python",
-      "published_at": "2026-08-20T13:40:06Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20260823"
-    },
-    {
-      "title": "@bilawalsidhu: When bits can simulate atoms the lines between the physical &amp; digital world get rather blurry",
-      "url": "https://x.com/bilawalsidhu/status/2091327019527143919",
-      "source": "X - @bilawalsidhu (AI builder)",
-      "summary": "When bits can simulate atoms the lines between the physical &amp; digital world get rather blurry",
-      "published_at": "Sun Aug 23 00:49:51 +0000 2026",
-      "score": 94,
-      "category": "community",
       "added_date": "20260823"
     }
   ]
