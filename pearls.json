@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-02T12:02:04.149639",
+  "updated_at": "2026-09-03T12:03:40.939953",
   "pearls": [
+    {
+      "title": "[anthropics/commerce-agents] Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1105 stars · 新建于 2026-09-01 · 语言: Python",
+      "published_at": "2026-09-01T12:30:12Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260903"
+    },
+    {
+      "title": "[GangTailorUpgrade/undress-service] Dress AI Sponsor",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 975 stars · 新建于 2026-08-31 · 语言: Python",
+      "published_at": "2026-08-31T00:12:45Z",
+      "score": 147,
+      "category": "tools",
+      "added_date": "20260903"
+    },
+    {
+      "title": "[2akouwu/reverify] Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 671 stars · 新建于 2026-08-31 · 语言: Python",
+      "published_at": "2026-08-31T01:02:18Z",
+      "score": 117,
+      "category": "tools",
+      "added_date": "20260903"
+    },
+    {
+      "title": "@levelsio: RT @denisyurchak: I met a guy who makes €50,000 from a train restaurant in Poland 🇵🇱  Long-distance ",
+      "url": "https://x.com/levelsio/status/2095229600875835549",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @denisyurchak: I met a guy who makes €50,000 from a train restaurant in Poland 🇵🇱\n\nLong-distance Polish trains have a restaurant car cal…",
+      "published_at": "Wed Sep 02 19:17:18 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260903"
+    },
+    {
+      "title": "@levelsio: 153,000,000 American driver licenses leaked in KYC hack  This is 63% of all American driver licenses",
+      "url": "https://x.com/levelsio/status/2095214488664326567",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "153,000,000 American driver licenses leaked in KYC hack\n\nThis is 63% of all American driver licenses\n\nIn US driver licenses function as valid government-issues photo IDs\n\nhttps://t.co/zGltbJhf8J https",
+      "published_at": "Wed Sep 02 18:17:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260903"
+    },
     {
       "title": "Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
       "url": "https://github.com/carloslfu/slotstream",
@@ -450,56 +500,6 @@
       "score": 150,
       "category": "tools",
       "added_date": "20260824"
-    },
-    {
-      "title": "[ShadowAqueduct/watermark-remover] Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 762 stars · 新建于 2026-08-23 · 语言: Python",
-      "published_at": "2026-08-23T21:14:28Z",
-      "score": 126,
-      "category": "tools",
-      "added_date": "20260824"
-    },
-    {
-      "title": "[Forsy-AI/biosecurity-agent] AI agent that builds a live biosecurity world around any target.",
-      "url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 512 stars · 新建于 2026-08-22 · 语言: TypeScript",
-      "published_at": "2026-08-22T23:06:26Z",
-      "score": 101,
-      "category": "tools",
-      "added_date": "20260824"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Ok Grok Bot is insane.  People can’t stop finding new ways to make money, automate work",
-      "url": "https://x.com/minchoi/status/2091736506788417907",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Ok Grok Bot is insane.\n\nPeople can’t stop finding new ways to make money, automate work, and run businesses with it.\n\n10 wild…",
-      "published_at": "Mon Aug 24 03:57:00 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260824"
-    },
-    {
-      "title": "@minchoi: Ok Grok Bot is insane.  People can’t stop finding new ways to make money, automate work, and run bus",
-      "url": "https://x.com/minchoi/status/2091478181840584857",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "Ok Grok Bot is insane.\n\nPeople can’t stop finding new ways to make money, automate work, and run businesses with it.\n\n10 wild examples:",
-      "published_at": "Sun Aug 23 10:50:30 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260824"
-    },
-    {
-      "title": "[iAmCorey/Wake] Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-      "url": "https://github.com/iAmCorey/Wake",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 511 stars · 新建于 2026-08-18 · 语言: Rust",
-      "published_at": "2026-08-18T09:46:23Z",
-      "score": 101,
-      "category": "tools",
-      "added_date": "20260823"
     }
   ]
 }
