@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-03T12:03:40.939953",
+  "updated_at": "2026-09-04T12:02:10.068933",
   "pearls": [
+    {
+      "title": "@minchoi: Time to touch some grass folks... https://t.co/7jFQFMLpSy",
+      "url": "https://x.com/minchoi/status/2095527630564942244",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "Time to touch some grass folks... https://t.co/7jFQFMLpSy",
+      "published_at": "Thu Sep 03 15:01:34 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260904"
+    },
+    {
+      "title": "@_akhaliq: RT @huggingface: 🤗💚 https://t.co/coHXLgzNXh https://t.co/Ju5e0R4roZ",
+      "url": "https://x.com/_akhaliq/status/2095528743473475902",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @huggingface: 🤗💚\nhttps://t.co/coHXLgzNXh https://t.co/Ju5e0R4roZ",
+      "published_at": "Thu Sep 03 15:06:00 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260904"
+    },
+    {
+      "title": "@_akhaliq: RT @julien_c: Super happy to officially announce that we are a̶c̶q̶u̶i̶r̶i̶n̶g̶ joining forces with ",
+      "url": "https://x.com/_akhaliq/status/2095488743004340668",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @julien_c: Super happy to officially announce that we are a̶c̶q̶u̶i̶r̶i̶n̶g̶ joining forces with @nvidia 🔥\n\nHere is a more personal take…",
+      "published_at": "Thu Sep 03 12:27:03 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260904"
+    },
+    {
+      "title": "@_akhaliq: RT @Gradio: Yeah! It's official now. https://t.co/9uBlsa9l7s",
+      "url": "https://x.com/_akhaliq/status/2095488065523589276",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @Gradio: Yeah! It's official now. https://t.co/9uBlsa9l7s",
+      "published_at": "Thu Sep 03 12:24:21 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260904"
+    },
+    {
+      "title": "@_akhaliq: RT @ClementDelangue: Super happy to share our intention to join forces with NVIDIA in a $12,930,300,",
+      "url": "https://x.com/_akhaliq/status/2095483567476441538",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @ClementDelangue: Super happy to share our intention to join forces with NVIDIA in a $12,930,300,000 acquisition  💛💚\n\n10 years after sta…",
+      "published_at": "Thu Sep 03 12:06:29 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260904"
+    },
     {
       "title": "[anthropics/commerce-agents] Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "url": "https://github.com/anthropics/commerce-agents",
@@ -450,56 +500,6 @@
       "score": 150,
       "category": "tools",
       "added_date": "20260825"
-    },
-    {
-      "title": "PicoMQ – Durable Streams over HTTP, on object storage",
-      "url": "https://picomq.com/",
-      "source": "Show HN",
-      "summary": "👍 134 points · 💬 23 comments · 讨论: https://news.ycombinator.com/item?id=49421806",
-      "published_at": "2026-08-24T16:08:17Z",
-      "score": 134,
-      "category": "tools",
-      "added_date": "20260825"
-    },
-    {
-      "title": "GlassBox – what the browser reveals, and how identifiable you are",
-      "url": "https://glassbox.codecanary.org",
-      "source": "Show HN",
-      "summary": "👍 116 points · 💬 53 comments · 讨论: https://news.ycombinator.com/item?id=49421948",
-      "published_at": "2026-08-24T16:15:10Z",
-      "score": 116,
-      "category": "tools",
-      "added_date": "20260825"
-    },
-    {
-      "title": "@levelsio: RT @cdngdev: i turned the entire actual city of san francisco into a video game!  with apple maps da",
-      "url": "https://x.com/levelsio/status/2091974382583222765",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @cdngdev: i turned the entire actual city of san francisco into a video game!\n\nwith apple maps data, i made it so you can climb building…",
-      "published_at": "Mon Aug 24 19:42:14 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260825"
-    },
-    {
-      "title": "@levelsio: Never stop talking about your new projects until everyone finds out! https://t.co/UJyN9Upz69",
-      "url": "https://x.com/levelsio/status/2091900218073665623",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Never stop talking about your new projects until everyone finds out! https://t.co/UJyN9Upz69",
-      "published_at": "Mon Aug 24 14:47:32 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260825"
-    },
-    {
-      "title": "[duty1g/x64dbg-mcp-server] x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1089 stars · 新建于 2026-08-22 · 语言: Zig",
-      "published_at": "2026-08-22T14:28:41Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260824"
     }
   ]
 }
