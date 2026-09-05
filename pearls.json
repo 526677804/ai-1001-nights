@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-04T12:02:10.068933",
+  "updated_at": "2026-09-05T12:00:55.421294",
   "pearls": [
+    {
+      "title": "Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "source": "Show HN",
+      "summary": "👍 298 points · 💬 102 comments · 讨论: https://news.ycombinator.com/item?id=49567437",
+      "published_at": "2026-09-04T17:18:08Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260905"
+    },
+    {
+      "title": "TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "source": "Show HN",
+      "summary": "👍 147 points · 💬 38 comments · 讨论: https://news.ycombinator.com/item?id=49562219",
+      "published_at": "2026-09-04T09:03:00Z",
+      "score": 147,
+      "category": "tools",
+      "added_date": "20260905"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: Ok GPT-6 Astra is insane.  People can't stop building.  10 wild examples.",
+      "url": "https://x.com/minchoi/status/2096195495995523421",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Ok GPT-6 Astra is insane.\n\nPeople can't stop building.\n\n10 wild examples.",
+      "published_at": "Sat Sep 05 11:15:26 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260905"
+    },
+    {
+      "title": "@minchoi: Ok GPT-6 Astra is insane.  People can't stop building.  10 wild examples.",
+      "url": "https://x.com/minchoi/status/2095837897647686028",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "Ok GPT-6 Astra is insane.\n\nPeople can't stop building.\n\n10 wild examples.",
+      "published_at": "Fri Sep 04 11:34:28 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260905"
+    },
+    {
+      "title": "@levelsio: When I see people build a \"software factory\" https://t.co/AkbprwJ9KO",
+      "url": "https://x.com/levelsio/status/2095894567862075672",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "When I see people build a \"software factory\" https://t.co/AkbprwJ9KO",
+      "published_at": "Fri Sep 04 15:19:39 +0000 2026",
+      "score": 95,
+      "category": "community",
+      "added_date": "20260905"
+    },
     {
       "title": "@minchoi: Time to touch some grass folks... https://t.co/7jFQFMLpSy",
       "url": "https://x.com/minchoi/status/2095527630564942244",
@@ -450,56 +500,6 @@
       "score": 150,
       "category": "tools",
       "added_date": "20260826"
-    },
-    {
-      "title": "TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "source": "Show HN",
-      "summary": "👍 103 points · 💬 21 comments · 讨论: https://news.ycombinator.com/item?id=49441375",
-      "published_at": "2026-08-25T22:08:50Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20260826"
-    },
-    {
-      "title": "@dr_cintas: RT @SkildAI: Introducing S1, our new foundation model that learns from one example.  It can be taugh",
-      "url": "https://x.com/dr_cintas/status/2092307895555698989",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @SkildAI: Introducing S1, our new foundation model that learns from one example.\n\nIt can be taught 10-minute long tasks that it has neve…",
-      "published_at": "Tue Aug 25 17:47:30 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260826"
-    },
-    {
-      "title": "@_akhaliq: RT @EinsiaAI: The ultimate test for coding agents isn't local editing— it's whole-repo evolution, an",
-      "url": "https://x.com/_akhaliq/status/2092259435347349551",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @EinsiaAI: The ultimate test for coding agents isn't local editing—\nit's whole-repo evolution, and right now, the survival rate is 5.4%.…",
-      "published_at": "Tue Aug 25 14:34:56 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260826"
-    },
-    {
-      "title": "@levelsio: RT @patrickc: Europe can have an amazing next few decades. I hope we can play a small role in making",
-      "url": "https://x.com/levelsio/status/2092375317889290512",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @patrickc: Europe can have an amazing next few decades. I hope we can play a small role in making that more likely.",
-      "published_at": "Tue Aug 25 22:15:24 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260826"
-    },
-    {
-      "title": "A techno machine in one HTML file, with verifiable renders",
-      "url": "https://ssx360.github.io/rack-02/?src=hn",
-      "source": "Show HN",
-      "summary": "👍 204 points · 💬 38 comments · 讨论: https://news.ycombinator.com/item?id=49419351",
-      "published_at": "2026-08-24T13:17:11Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260825"
     }
   ]
 }
