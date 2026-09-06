@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-05T12:00:55.421294",
+  "updated_at": "2026-09-06T12:00:30.241864",
   "pearls": [
+    {
+      "title": "@dotey: RT @glitter_11924: 自分のプロフィール画面のアイコンを 動かしていたずらさせちゃいました👻 プロンプトはリプ欄に貼っときます～ あそんでみてね💛 https://t.co/15Vjs",
+      "url": "https://x.com/dotey/status/2096463777298284947",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @glitter_11924: 自分のプロフィール画面のアイコンを\n動かしていたずらさせちゃいました👻\nプロンプトはリプ欄に貼っときます～\nあそんでみてね💛 https://t.co/15Vjsf1l7z",
+      "published_at": "Sun Sep 06 05:01:29 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260906"
+    },
+    {
+      "title": "@levelsio: RT @Milo_H4: Watching El Salvador completely unfuck itself in like a 2 year span by actually enforci",
+      "url": "https://x.com/levelsio/status/2096324618441146814",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @Milo_H4: Watching El Salvador completely unfuck itself in like a 2 year span by actually enforcing the law and having a non corrupt lea…",
+      "published_at": "Sat Sep 05 19:48:31 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260906"
+    },
+    {
+      "title": "@venturetwins: My entire feed today https://t.co/hRbppfu79s",
+      "url": "https://x.com/venturetwins/status/2096287202703761720",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "My entire feed today https://t.co/hRbppfu79s",
+      "published_at": "Sat Sep 05 17:19:50 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260906"
+    },
+    {
+      "title": "[pierrenade/short-video-generator-AI] Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 487 stars · 新建于 2026-09-05 · 语言: Python",
+      "published_at": "2026-09-05T11:55:18Z",
+      "score": 98,
+      "category": "tools",
+      "added_date": "20260906"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: GPT-6 Astra broke the Internet just 2 days ago.  People can't believe how powerful and ",
+      "url": "https://x.com/minchoi/status/2096549373106602087",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: GPT-6 Astra broke the Internet just 2 days ago.\n\nPeople can't believe how powerful and \"intelligent\" it is.  Unlocking new pos…",
+      "published_at": "Sun Sep 06 10:41:37 +0000 2026",
+      "score": 92,
+      "category": "community",
+      "added_date": "20260906"
+    },
     {
       "title": "Open-Source eInk Bike Computer",
       "url": "https://opentrailpaper.com",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260827"
-    },
-    {
-      "title": "@_akhaliq: RT @Zai_org: More good news: GLM-5.3’s weights will be released tomorrow.  https://t.co/v1IbWMXxg4",
-      "url": "https://x.com/_akhaliq/status/2092825752777490842",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @Zai_org: More good news: GLM-5.3’s weights will be released tomorrow.\n\nhttps://t.co/v1IbWMXxg4",
-      "published_at": "Thu Aug 27 04:05:16 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260827"
-    },
-    {
-      "title": "@levelsio: RT @lexfridman: Here's my conversation with @DHH. He is back for round 2! It was an epic fun 5 hour ",
-      "url": "https://x.com/levelsio/status/2092921048215724408",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @lexfridman: Here's my conversation with @DHH. He is back for round 2! It was an epic fun 5 hour conversation about the future of progra…",
-      "published_at": "Thu Aug 27 10:23:57 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260827"
-    },
-    {
-      "title": "@levelsio: RT @alexanderrX_: only low iq westerners still say this. they’re stuck in the 80s and 90s when the w",
-      "url": "https://x.com/levelsio/status/2092920500833927498",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @alexanderrX_: only low iq westerners still say this. they’re stuck in the 80s and 90s when the west was untouchable. go to bangkok, sin…",
-      "published_at": "Thu Aug 27 10:21:46 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260827"
-    },
-    {
-      "title": "@venturetwins: This is an insane model from @fal 🤯  I can't describe how wild it feels to generate a long clip in j",
-      "url": "https://x.com/venturetwins/status/2092718597533835364",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "This is an insane model from @fal 🤯\n\nI can't describe how wild it feels to generate a long clip in just 15 seconds - this will be transformative for the space.\n\nPrompt: \"Sheldon and Leonard from the B",
-      "published_at": "Wed Aug 26 20:59:29 +0000 2026",
-      "score": 96,
-      "category": "community",
-      "added_date": "20260827"
-    },
-    {
-      "title": "LatticeDB – Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "source": "Show HN",
-      "summary": "👍 160 points · 💬 41 comments · 讨论: https://news.ycombinator.com/item?id=49437049",
-      "published_at": "2026-08-25T16:52:05Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260826"
     }
   ]
 }
