@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-06T12:00:30.241864",
+  "updated_at": "2026-09-07T12:04:31.160074",
   "pearls": [
+    {
+      "title": "@minchoi: RT @minchoi: Less than 91 hours ago, OpenAI dropped GPT-6 Astra.  Some are \"feeling\" GPT-6 Astra has",
+      "url": "https://x.com/minchoi/status/2096915404727697413",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: Less than 91 hours ago, OpenAI dropped GPT-6 Astra.\n\nSome are \"feeling\" GPT-6 Astra has reached AGI level.\n\nAnatomy. LEGO sets…",
+      "published_at": "Mon Sep 07 10:56:05 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260907"
+    },
+    {
+      "title": "@minchoi: Less than 91 hours ago, OpenAI dropped GPT-6 Astra.  Some are \"feeling\" GPT-6 Astra has reached AGI ",
+      "url": "https://x.com/minchoi/status/2096620477619810739",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "Less than 91 hours ago, OpenAI dropped GPT-6 Astra.\n\nSome are \"feeling\" GPT-6 Astra has reached AGI level.\n\nAnatomy. LEGO sets. GTA games. V8 engines. Entire forests.\n\n10 wild examples:",
+      "published_at": "Sun Sep 06 15:24:09 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260907"
+    },
+    {
+      "title": "@venturetwins: Using GPT-6 Astra Max to make my wedding website https://t.co/2bTQX8HUb4",
+      "url": "https://x.com/venturetwins/status/2096659577660203436",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Using GPT-6 Astra Max to make my wedding website https://t.co/2bTQX8HUb4",
+      "published_at": "Sun Sep 06 17:59:32 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260907"
+    },
+    {
+      "title": "Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "source": "Show HN",
+      "summary": "👍 92 points · 💬 31 comments · 讨论: https://news.ycombinator.com/item?id=49590738",
+      "published_at": "2026-09-06T20:45:13Z",
+      "score": 92,
+      "category": "tools",
+      "added_date": "20260907"
+    },
+    {
+      "title": "[okf-memory/okf-agent-memory] Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 422 stars · 新建于 2026-09-05 · 语言: Go",
+      "published_at": "2026-09-05T21:26:04Z",
+      "score": 92,
+      "category": "tools",
+      "added_date": "20260907"
+    },
     {
       "title": "@dotey: RT @glitter_11924: 自分のプロフィール画面のアイコンを 動かしていたずらさせちゃいました👻 プロンプトはリプ欄に貼っときます～ あそんでみてね💛 https://t.co/15Vjs",
       "url": "https://x.com/dotey/status/2096463777298284947",
@@ -450,56 +500,6 @@
       "score": 150,
       "category": "tools",
       "added_date": "20260828"
-    },
-    {
-      "title": "We built open OpenRouter that turns usage into a better model",
-      "url": "https://github.com/experientiallabs/experiential",
-      "source": "Show HN",
-      "summary": "👍 188 points · 💬 37 comments · 讨论: https://news.ycombinator.com/item?id=49471407",
-      "published_at": "2026-08-27T21:18:35Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260828"
-    },
-    {
-      "title": "Voronoi Go",
-      "url": "https://voronoigo.com/",
-      "source": "Show HN",
-      "summary": "👍 137 points · 💬 21 comments · 讨论: https://news.ycombinator.com/item?id=49468816",
-      "published_at": "2026-08-27T18:03:37Z",
-      "score": 137,
-      "category": "tools",
-      "added_date": "20260828"
-    },
-    {
-      "title": "@_akhaliq: RT @Thom_Wolf: we've just passed $1,000,000 in sales for Microduck",
-      "url": "https://x.com/_akhaliq/status/2093037110236180733",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @Thom_Wolf: we've just passed $1,000,000 in sales for Microduck",
-      "published_at": "Thu Aug 27 18:05:08 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260828"
-    },
-    {
-      "title": "@_akhaliq: RT @Thom_Wolf: We have a huge news to share today!  Today we are unveiling the first truly accessibl",
-      "url": "https://x.com/_akhaliq/status/2093031003975492067",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @Thom_Wolf: We have a huge news to share today!\n\nToday we are unveiling the first truly accessible RL robot - welcome Microduck\n\nA 25 cm…",
-      "published_at": "Thu Aug 27 17:40:52 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260828"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: This Grok Bot prompt is literally $300/hr chief of staff https://t.co/dxLaVtmXVJ",
-      "url": "https://x.com/minchoi/status/2092939151263854940",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: This Grok Bot prompt is literally $300/hr chief of staff https://t.co/dxLaVtmXVJ",
-      "published_at": "Thu Aug 27 11:35:53 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260827"
     }
   ]
 }
