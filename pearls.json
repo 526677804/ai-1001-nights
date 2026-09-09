@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-08T12:01:24.009593",
+  "updated_at": "2026-09-09T12:01:16.217457",
   "pearls": [
+    {
+      "title": "LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "source": "Show HN",
+      "summary": "👍 156 points · 💬 24 comments · 讨论: https://news.ycombinator.com/item?id=49613068",
+      "published_at": "2026-09-08T16:59:41Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260909"
+    },
+    {
+      "title": "@levelsio: Thanks everyone for recommending me to buy an LG TV two years ago but especially everyone for recomm",
+      "url": "https://x.com/levelsio/status/2097390820093804977",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Thanks everyone for recommending me to buy an LG TV two years ago but especially everyone for recommending me to NEVER ever connect it to the internet\n\nBut instead to get an Apple TV and connect that ",
+      "published_at": "Tue Sep 08 18:25:13 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260909"
+    },
+    {
+      "title": "@dotey: RT @tombkeeper: 刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输",
+      "url": "https://x.com/dotey/status/2097327134163247489",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @tombkeeper: 刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输入文字的程序，也成功了。最后我让祂生成一个计算器，居然也成功了。\n\n我的人类朋…",
+      "published_at": "Tue Sep 08 14:12:09 +0000 2026",
+      "score": 90,
+      "category": "community",
+      "added_date": "20260909"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: If you think AI video can't act then explain this https://t.co/8GAHpZa6Tu",
+      "url": "https://x.com/minchoi/status/2097635012443087037",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: If you think AI video can't act then explain this\nhttps://t.co/8GAHpZa6Tu",
+      "published_at": "Wed Sep 09 10:35:33 +0000 2026",
+      "score": 90,
+      "category": "community",
+      "added_date": "20260909"
+    },
+    {
+      "title": "@minchoi: If you think AI video can't act then explain this https://t.co/8GAHpZa6Tu",
+      "url": "https://x.com/minchoi/status/2097140842133627182",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "If you think AI video can't act then explain this\nhttps://t.co/8GAHpZa6Tu",
+      "published_at": "Tue Sep 08 01:51:54 +0000 2026",
+      "score": 90,
+      "category": "community",
+      "added_date": "20260909"
+    },
     {
       "title": "Stuxnet – A reconstructed source code of the infamous cyber-weapon",
       "url": "https://github.com/Sadpainy/Stuxnet",
@@ -450,56 +500,6 @@
       "score": 96,
       "category": "community",
       "added_date": "20260831"
-    },
-    {
-      "title": "[kacperkapusciak/goldie] ✨ agentic app store previews and screenshots",
-      "url": "https://github.com/kacperkapusciak/goldie",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 547 stars · 新建于 2026-08-24 · 语言: TypeScript",
-      "published_at": "2026-08-24T12:36:59Z",
-      "score": 104,
-      "category": "tools",
-      "added_date": "20260830"
-    },
-    {
-      "title": "@venturetwins: Ngl I appreciate the strategy of hallucinating back at the AI interviewer https://t.co/QGmzWfpc5y",
-      "url": "https://x.com/venturetwins/status/2093787768455639077",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "Ngl I appreciate the strategy of hallucinating back at the AI interviewer https://t.co/QGmzWfpc5y",
-      "published_at": "Sat Aug 29 19:47:59 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260830"
-    },
-    {
-      "title": "[cbrock84/headcount] An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "url": "https://github.com/cbrock84/headcount",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 477 stars · 新建于 2026-08-28 · 语言: Markdown",
-      "published_at": "2026-08-28T18:03:04Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20260830"
-    },
-    {
-      "title": "@levelsio: If I was Indian",
-      "url": "https://x.com/levelsio/status/2093986080491987043",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "If I was Indian",
-      "published_at": "Sun Aug 30 08:56:00 +0000 2026",
-      "score": 96,
-      "category": "community",
-      "added_date": "20260830"
-    },
-    {
-      "title": "[Nanako0129/sepia] De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "url": "https://github.com/Nanako0129/sepia",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 551 stars · 新建于 2026-08-28 · 语言: Shell",
-      "published_at": "2026-08-28T05:56:49Z",
-      "score": 105,
-      "category": "tools",
-      "added_date": "20260829"
     }
   ]
 }
