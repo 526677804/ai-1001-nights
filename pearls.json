@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-09T12:01:16.217457",
+  "updated_at": "2026-09-10T12:03:22.092686",
   "pearls": [
+    {
+      "title": "What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "source": "Show HN",
+      "summary": "👍 395 points · 💬 160 comments · 讨论: https://news.ycombinator.com/item?id=49637385",
+      "published_at": "2026-09-10T01:58:00Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260910"
+    },
+    {
+      "title": "@xiaohu: 苹果为你准备了能说服你老婆  让你买 iPhone Duo 的理由 https://t.co/ezGbNM0YxQ",
+      "url": "https://x.com/xiaohu/status/2097844256245428402",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "苹果为你准备了能说服你老婆\n\n让你买 iPhone Duo 的理由 https://t.co/ezGbNM0YxQ",
+      "published_at": "Thu Sep 10 00:27:01 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260910"
+    },
+    {
+      "title": "@dotey: RT @tianyi: 鉴于 DS V4.1 Flash 模型在性能、费用、速度、总用时等各项指标上都全面超越了 V4 Pro。再以更高的价格、更慢的速度和更多的算力消耗给 DS 用户提供原有的性能较",
+      "url": "https://x.com/dotey/status/2097703234139763089",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @tianyi: 鉴于 DS V4.1 Flash 模型在性能、费用、速度、总用时等各项指标上都全面超越了 V4 Pro。再以更高的价格、更慢的速度和更多的算力消耗给 DS 用户提供原有的性能较差的 V4 Pro 模型会不太合适。V4.1 Flash 正式上线之后，V4.…",
+      "published_at": "Wed Sep 09 15:06:39 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260910"
+    },
+    {
+      "title": "@levelsio: ✨ I replaced all these SaaS with my own vibe coded now, so about $25,000/mo savings:  - Weather API ",
+      "url": "https://x.com/levelsio/status/2097692685775565031",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "✨ I replaced all these SaaS with my own vibe coded now, so about $25,000/mo savings:\n\n- Weather API -> My own vibe coded weather service using Norway's meteorology API\n- Image resizing API -> My own v",
+      "published_at": "Wed Sep 09 14:24:44 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260910"
+    },
+    {
+      "title": "@venturetwins: OpenAI: “We’ve solved math”   Anthropic: “Our AI is so powerful it’s going to kill you”  Google: “In",
+      "url": "https://x.com/venturetwins/status/2097769059937047002",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "OpenAI: “We’ve solved math” \n\nAnthropic: “Our AI is so powerful it’s going to kill you”\n\nGoogle: “Introducing Gemini 3.9 Flash! It’s 30% faster and 15% worse than the last Gemini”",
+      "published_at": "Wed Sep 09 19:28:13 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260910"
+    },
     {
       "title": "LLM Attention Visualization",
       "url": "https://ishamf.dev/p/llm-attention-visualizer/",
@@ -450,56 +500,6 @@
       "score": 92,
       "category": "tools",
       "added_date": "20260901"
-    },
-    {
-      "title": "[damejan80/tokentab] A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "url": "https://github.com/damejan80/tokentab",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 504 stars · 新建于 2026-08-27 · 语言: Python",
-      "published_at": "2026-08-27T14:16:09Z",
-      "score": 100,
-      "category": "tools",
-      "added_date": "20260831"
-    },
-    {
-      "title": "@levelsio: I made https://t.co/uga6Of19Cx yesterday completely on my phone with @TermiusHQ on my @Hetzner_Onlin",
-      "url": "https://x.com/levelsio/status/2094113698453360663",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I made https://t.co/uga6Of19Cx yesterday completely on my phone with @TermiusHQ on my @Hetzner_Online VPS with @claudeai Code in the sauna while in a group chat of my friends with @marcantoinefon in i",
-      "published_at": "Sun Aug 30 17:23:07 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260831"
-    },
-    {
-      "title": "@levelsio: The lack of automation here is a bit disturbing? Shouldn't this be like 99% automated?",
-      "url": "https://x.com/levelsio/status/2094009952197046470",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "The lack of automation here is a bit disturbing? Shouldn't this be like 99% automated?",
-      "published_at": "Sun Aug 30 10:30:52 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260831"
-    },
-    {
-      "title": "@_akhaliq: RT @HannesVonEssen: How fast can we make it run?? My current best is 1.6 m/s https://t.co/gV4KjK7OfK",
-      "url": "https://x.com/_akhaliq/status/2094285941854904501",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @HannesVonEssen: How fast can we make it run?? My current best is 1.6 m/s https://t.co/gV4KjK7OfK",
-      "published_at": "Mon Aug 31 04:47:33 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20260831"
-    },
-    {
-      "title": "@levelsio: I think the hate for Dubai is mostly a Eurocope that can't deal with how dirty and unsafe Europe's c",
-      "url": "https://x.com/levelsio/status/2094023174945993154",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I think the hate for Dubai is mostly a Eurocope that can't deal with how dirty and unsafe Europe's cities have become in the last 10 years\n\n\"Dubai doesn't have culture!!!!!!\"\n\nTrue but at least it's s",
-      "published_at": "Sun Aug 30 11:23:24 +0000 2026",
-      "score": 96,
-      "category": "community",
-      "added_date": "20260831"
     }
   ]
 }
