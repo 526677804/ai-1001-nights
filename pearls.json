@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-10T12:03:22.092686",
+  "updated_at": "2026-09-11T12:03:35.296986",
   "pearls": [
+    {
+      "title": "[iamzulx/crypto-rag] Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 901 stars · 新建于 2026-09-05 · 语言: Python",
+      "published_at": "2026-09-05T06:20:08Z",
+      "score": 140,
+      "category": "tools",
+      "added_date": "20260911"
+    },
+    {
+      "title": "@levelsio: I am so confused why people don't understand this, I keep getting these replies  Don't you get it?  ",
+      "url": "https://x.com/levelsio/status/2098181881023844392",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I am so confused why people don't understand this, I keep getting these replies\n\nDon't you get it?\n\nNormies don't vibe code, they just ask something like \"do my bookkeeping\" or \"file my tax\" or \"organ",
+      "published_at": "Thu Sep 10 22:48:37 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260911"
+    },
+    {
+      "title": "@dotey: RT @tianyi: DeepSeek 开源了一些新的代码仓库，方便更容易地部署 V4.1 Flash 以及后续的开源模型：  https://t.co/rPbPtWOFYi https://t.c",
+      "url": "https://x.com/dotey/status/2098059537181728921",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @tianyi: DeepSeek 开源了一些新的代码仓库，方便更容易地部署 V4.1 Flash 以及后续的开源模型：\n\nhttps://t.co/rPbPtWOFYi\nhttps://t.co/6Qrd21r3mG\nhttps://t.co/RFo1xIhV8h",
+      "published_at": "Thu Sep 10 14:42:28 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20260911"
+    },
+    {
+      "title": "@bilawalsidhu: Created a 3D scan of the Amazon Prime Air crash site in Miami using newly released NTSB footage.  Yo",
+      "url": "https://x.com/bilawalsidhu/status/2097881148164886889",
+      "source": "X - @bilawalsidhu (AI builder)",
+      "summary": "Created a 3D scan of the Amazon Prime Air crash site in Miami using newly released NTSB footage.\n\nYou can see the two vehicles impacted after 21 Air Flight 7598 overshot the runway, and the skid marks",
+      "published_at": "Thu Sep 10 02:53:37 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20260911"
+    },
+    {
+      "title": "@op7418: Anthropic 这个报告基本上就已经坐实了他们可以完全看到用户的信息了，而且收集的信息远超聊天记录本身。  也没有执法机构授权和要求，他们就这么公布了这些他们认为可能违法的信息。",
+      "url": "https://x.com/op7418/status/2098269498986180886",
+      "source": "X - @op7418 (中文 AI 造物聚合)",
+      "summary": "Anthropic 这个报告基本上就已经坐实了他们可以完全看到用户的信息了，而且收集的信息远超聊天记录本身。\n\n也没有执法机构授权和要求，他们就这么公布了这些他们认为可能违法的信息。",
+      "published_at": "Fri Sep 11 04:36:47 +0000 2026",
+      "score": 92,
+      "category": "community",
+      "added_date": "20260911"
+    },
     {
       "title": "What if the speed of light was 5 km/h?",
       "url": "https://rivendell.dmitrybrant.com/relativity/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260902"
-    },
-    {
-      "title": "@levelsio: RT @eurofounder: https://t.co/ocrNndqB6r",
-      "url": "https://x.com/levelsio/status/2094454950537441388",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @eurofounder: https://t.co/ocrNndqB6r",
-      "published_at": "Mon Aug 31 15:59:07 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260901"
-    },
-    {
-      "title": "@levelsio: I keep rejected by Claude for the most benign things now  Like it wouldn't download and install a 19",
-      "url": "https://x.com/levelsio/status/2094428818026991837",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I keep rejected by Claude for the most benign things now\n\nLike it wouldn't download and install a 1990s game from archive(dot)org because of copyright\n\nThe safety guardrails in a way make it more dang",
-      "published_at": "Mon Aug 31 14:15:17 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260901"
-    },
-    {
-      "title": "@levelsio: There is no reason NOT to have every single email you get routed through an agent / LLM / API to be ",
-      "url": "https://x.com/levelsio/status/2094426696036339724",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "There is no reason NOT to have every single email you get routed through an agent / LLM / API to be scored and approved or rejected\n\nAnd then the approved emails ordered by importance\n\nIt's crazy this",
-      "published_at": "Mon Aug 31 14:06:51 +0000 2026",
-      "score": 94,
-      "category": "community",
-      "added_date": "20260901"
-    },
-    {
-      "title": "@_akhaliq: RT @zizhpan: Weights open: https://t.co/IqEznvG68g",
-      "url": "https://x.com/_akhaliq/status/2094435621054083238",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @zizhpan: Weights open: https://t.co/IqEznvG68g",
-      "published_at": "Mon Aug 31 14:42:19 +0000 2026",
-      "score": 93,
-      "category": "community",
-      "added_date": "20260901"
-    },
-    {
-      "title": "[PAICNI/CFBox] 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
-      "url": "https://github.com/PAICNI/CFBox",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 420 stars · 新建于 2026-08-26 · 语言: JavaScript",
-      "published_at": "2026-08-26T21:58:54Z",
-      "score": 92,
-      "category": "tools",
-      "added_date": "20260901"
     }
   ]
 }
