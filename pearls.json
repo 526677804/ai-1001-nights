@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-11T12:03:35.296986",
+  "updated_at": "2026-09-12T12:01:54.692464",
   "pearls": [
+    {
+      "title": "Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "source": "Show HN",
+      "summary": "👍 186 points · 💬 79 comments · 讨论: https://news.ycombinator.com/item?id=49660783",
+      "published_at": "2026-09-11T16:08:50Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260912"
+    },
+    {
+      "title": "Bodily Oddities",
+      "url": "https://vester.si/bodily-oddities/",
+      "source": "Show HN",
+      "summary": "👍 271 points · 💬 174 comments · 讨论: https://news.ycombinator.com/item?id=49649789",
+      "published_at": "2026-09-10T20:33:11Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260912"
+    },
+    {
+      "title": "@venturetwins: Damn somehow I missed that Bernie's AI bill proposes to sentence developers &amp; researchers workin",
+      "url": "https://x.com/venturetwins/status/2098456905526211026",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Damn somehow I missed that Bernie's AI bill proposes to sentence developers &amp; researchers working on \"advanced AI\" to 20 years in prison (!!) https://t.co/u5hfMrv6hC",
+      "published_at": "Fri Sep 11 17:01:28 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260912"
+    },
+    {
+      "title": "@dotey: 菲尔兹奖得主邓煜宣布，如果人工智能能够解决所有数学问题，他将从数学界退休，并开始创作百合小说（Romance Novel）。 https://t.co/GPDNkVvCrV",
+      "url": "https://x.com/dotey/status/2098546430646395259",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "菲尔兹奖得主邓煜宣布，如果人工智能能够解决所有数学问题，他将从数学界退休，并开始创作百合小说（Romance Novel）。 https://t.co/GPDNkVvCrV",
+      "published_at": "Fri Sep 11 22:57:12 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20260912"
+    },
+    {
+      "title": "@mckaywrigley: forgive me if i don't care that ai curing cancer might disrupt your \"process of understanding\" and \"",
+      "url": "https://x.com/mckaywrigley/status/2098498691200164210",
+      "source": "X - @mckaywrigley (AI builder)",
+      "summary": "forgive me if i don't care that ai curing cancer might disrupt your \"process of understanding\" and \"raise attribution questions.\"\n\nbuilding ai that solves all our greatest problems would be a miraculo",
+      "published_at": "Fri Sep 11 19:47:30 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20260912"
+    },
     {
       "title": "[iamzulx/crypto-rag] Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
       "url": "https://github.com/iamzulx/crypto-rag",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260903"
-    },
-    {
-      "title": "Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "source": "Show HN",
-      "summary": "👍 219 points · 💬 100 comments · 讨论: https://news.ycombinator.com/item?id=49524447",
-      "published_at": "2026-09-01T16:42:46Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260902"
-    },
-    {
-      "title": "[brayonpi/hexstellar] Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
-      "url": "https://github.com/brayonpi/hexstellar",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 635 stars · 新建于 2026-08-27 · 语言: Python",
-      "published_at": "2026-08-27T20:53:42Z",
-      "score": 113,
-      "category": "tools",
-      "added_date": "20260902"
-    },
-    {
-      "title": "@_akhaliq: RT @viskoai: Today, we are introducing Orbis 1.0, our first Live Model!  Create living worlds and st",
-      "url": "https://x.com/_akhaliq/status/2094818160482639973",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @viskoai: Today, we are introducing Orbis 1.0, our first Live Model!\n\nCreate living worlds and stream them in real time, with persistent…",
-      "published_at": "Tue Sep 01 16:02:23 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260902"
-    },
-    {
-      "title": "@levelsio: RT @theworldlabs: Introducing Atlas:  The world's first multimodal world model that generates image ",
-      "url": "https://x.com/levelsio/status/2094889320695914865",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @theworldlabs: Introducing Atlas:\n\nThe world's first multimodal world model that generates image and video frames with pixel-perfect cam…",
-      "published_at": "Tue Sep 01 20:45:09 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260902"
-    },
-    {
-      "title": "@levelsio: You stop wondering why the US is so insanely rich when you travel the rest of the world  In most of ",
-      "url": "https://x.com/levelsio/status/2094845579310649515",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "You stop wondering why the US is so insanely rich when you travel the rest of the world\n\nIn most of the world there is:\n- no real willingness to solve problems\n- nor an acceptance of people offering t",
-      "published_at": "Tue Sep 01 17:51:21 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260902"
     }
   ]
 }
