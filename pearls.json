@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-12T12:01:54.692464",
+  "updated_at": "2026-09-13T12:01:43.781399",
   "pearls": [
+    {
+      "title": "[rizqinrr/viserys-agent] No description",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 627 stars · 新建于 2026-09-12 · 语言: JavaScript",
+      "published_at": "2026-09-12T16:51:29Z",
+      "score": 112,
+      "category": "tools",
+      "added_date": "20260913"
+    },
+    {
+      "title": "@levelsio: RT @DavidSacks: Dario has written that we need to “pace the frontier,” and Sam has agreed. People ma",
+      "url": "https://x.com/levelsio/status/2099064556320395625",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @DavidSacks: Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead…",
+      "published_at": "Sun Sep 13 09:16:03 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260913"
+    },
+    {
+      "title": "@levelsio: https://t.co/lGeV8DaM2z",
+      "url": "https://x.com/levelsio/status/2098847895227077090",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "https://t.co/lGeV8DaM2z",
+      "published_at": "Sat Sep 12 18:55:07 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260913"
+    },
+    {
+      "title": "@levelsio: He's right  Rockerfeller did it first a century ago  https://t.co/kjKN6lSID8 https://t.co/B24jOYDbZ3",
+      "url": "https://x.com/levelsio/status/2098845926739603637",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "He's right\n\nRockerfeller did it first a century ago\n\nhttps://t.co/kjKN6lSID8 https://t.co/B24jOYDbZ3",
+      "published_at": "Sat Sep 12 18:47:18 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260913"
+    },
+    {
+      "title": "@levelsio: This whole thing feels super organized indeed  I don't buy any of it",
+      "url": "https://x.com/levelsio/status/2098840628658307246",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "This whole thing feels super organized indeed\n\nI don't buy any of it",
+      "published_at": "Sat Sep 12 18:26:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260913"
+    },
     {
       "title": "Hacker News, Without AI",
       "url": "https://www.unslop.news/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260904"
-    },
-    {
-      "title": "[anthropics/commerce-agents] Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1105 stars · 新建于 2026-09-01 · 语言: Python",
-      "published_at": "2026-09-01T12:30:12Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260903"
-    },
-    {
-      "title": "[GangTailorUpgrade/undress-service] Dress AI Sponsor",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 975 stars · 新建于 2026-08-31 · 语言: Python",
-      "published_at": "2026-08-31T00:12:45Z",
-      "score": 147,
-      "category": "tools",
-      "added_date": "20260903"
-    },
-    {
-      "title": "[2akouwu/reverify] Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-      "url": "https://github.com/2akouwu/reverify",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 671 stars · 新建于 2026-08-31 · 语言: Python",
-      "published_at": "2026-08-31T01:02:18Z",
-      "score": 117,
-      "category": "tools",
-      "added_date": "20260903"
-    },
-    {
-      "title": "@levelsio: RT @denisyurchak: I met a guy who makes €50,000 from a train restaurant in Poland 🇵🇱  Long-distance ",
-      "url": "https://x.com/levelsio/status/2095229600875835549",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @denisyurchak: I met a guy who makes €50,000 from a train restaurant in Poland 🇵🇱\n\nLong-distance Polish trains have a restaurant car cal…",
-      "published_at": "Wed Sep 02 19:17:18 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260903"
-    },
-    {
-      "title": "@levelsio: 153,000,000 American driver licenses leaked in KYC hack  This is 63% of all American driver licenses",
-      "url": "https://x.com/levelsio/status/2095214488664326567",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "153,000,000 American driver licenses leaked in KYC hack\n\nThis is 63% of all American driver licenses\n\nIn US driver licenses function as valid government-issues photo IDs\n\nhttps://t.co/zGltbJhf8J https",
-      "published_at": "Wed Sep 02 18:17:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260903"
     }
   ]
 }
