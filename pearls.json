@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-15T12:02:28.339505",
+  "updated_at": "2026-09-16T12:02:08.117147",
   "pearls": [
+    {
+      "title": "Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "source": "Show HN",
+      "summary": "👍 338 points · 💬 143 comments · 讨论: https://news.ycombinator.com/item?id=49712278",
+      "published_at": "2026-09-15T13:31:40Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260916"
+    },
+    {
+      "title": "Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "source": "Show HN",
+      "summary": "👍 191 points · 💬 34 comments · 讨论: https://news.ycombinator.com/item?id=49712102",
+      "published_at": "2026-09-15T13:20:24Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260916"
+    },
+    {
+      "title": "@_akhaliq: RT @CompleteSkeptic: After co-inventing ChatGPT, I kept asking myself: why have superhuman chat mode",
+      "url": "https://x.com/_akhaliq/status/2099927729047249104",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @CompleteSkeptic: After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\n\nI’ve spent the last…",
+      "published_at": "Tue Sep 15 18:26:00 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260916"
+    },
+    {
+      "title": "@_akhaliq: RT @odysseyml: Today we’re unveiling Odyssey-3, a big step forward for foundation world models.  It ",
+      "url": "https://x.com/_akhaliq/status/2099902663739736183",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @odysseyml: Today we’re unveiling Odyssey-3, a big step forward for foundation world models.\n\nIt can control robots, power humanoids, dr…",
+      "published_at": "Tue Sep 15 16:46:23 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260916"
+    },
+    {
+      "title": "@levelsio: 🇪🇺 Great data and actually I think we should use this kinds of data to completely turn around Europe",
+      "url": "https://x.com/levelsio/status/2099981037140852925",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "🇪🇺 Great data and actually I think we should use this kinds of data to completely turn around Europe's immigration policy:\n\n- We should have super easy inflow for immigrants from countries whose previ",
+      "published_at": "Tue Sep 15 21:57:49 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260916"
+    },
     {
       "title": "Neobrutalism.dev – Just added Base UI support and added new color theme",
       "url": "https://www.neobrutalism.dev/",
@@ -450,56 +500,6 @@
       "score": 92,
       "category": "tools",
       "added_date": "20260907"
-    },
-    {
-      "title": "@dotey: RT @glitter_11924: 自分のプロフィール画面のアイコンを 動かしていたずらさせちゃいました👻 プロンプトはリプ欄に貼っときます～ あそんでみてね💛 https://t.co/15Vjs",
-      "url": "https://x.com/dotey/status/2096463777298284947",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @glitter_11924: 自分のプロフィール画面のアイコンを\n動かしていたずらさせちゃいました👻\nプロンプトはリプ欄に貼っときます～\nあそんでみてね💛 https://t.co/15Vjsf1l7z",
-      "published_at": "Sun Sep 06 05:01:29 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20260906"
-    },
-    {
-      "title": "@levelsio: RT @Milo_H4: Watching El Salvador completely unfuck itself in like a 2 year span by actually enforci",
-      "url": "https://x.com/levelsio/status/2096324618441146814",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @Milo_H4: Watching El Salvador completely unfuck itself in like a 2 year span by actually enforcing the law and having a non corrupt lea…",
-      "published_at": "Sat Sep 05 19:48:31 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260906"
-    },
-    {
-      "title": "@venturetwins: My entire feed today https://t.co/hRbppfu79s",
-      "url": "https://x.com/venturetwins/status/2096287202703761720",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "My entire feed today https://t.co/hRbppfu79s",
-      "published_at": "Sat Sep 05 17:19:50 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260906"
-    },
-    {
-      "title": "[pierrenade/short-video-generator-AI] Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "url": "https://github.com/pierrenade/short-video-generator-AI",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 487 stars · 新建于 2026-09-05 · 语言: Python",
-      "published_at": "2026-09-05T11:55:18Z",
-      "score": 98,
-      "category": "tools",
-      "added_date": "20260906"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: GPT-6 Astra broke the Internet just 2 days ago.  People can't believe how powerful and ",
-      "url": "https://x.com/minchoi/status/2096549373106602087",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: GPT-6 Astra broke the Internet just 2 days ago.\n\nPeople can't believe how powerful and \"intelligent\" it is.  Unlocking new pos…",
-      "published_at": "Sun Sep 06 10:41:37 +0000 2026",
-      "score": 92,
-      "category": "community",
-      "added_date": "20260906"
     }
   ]
 }
