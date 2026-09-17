@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-16T12:02:08.117147",
+  "updated_at": "2026-09-17T12:04:29.363339",
   "pearls": [
+    {
+      "title": "@xiaohu: RT @gpumaxxer: Please build a Higgsfield competitor. We’ll even power it.  Higgsfield API is live. C",
+      "url": "https://x.com/xiaohu/status/2100391830840074601",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "RT @gpumaxxer: Please build a Higgsfield competitor. We’ll even power it.\n\nHiggsfield API is live. Cheapest on the market. Seedance 2.5 in…",
+      "published_at": "Thu Sep 17 01:10:10 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260917"
+    },
+    {
+      "title": "@dr_cintas: RT @higgsfield: Introducing Higgsfield API.  50+ frontier models in one API, at lower prices than a ",
+      "url": "https://x.com/dr_cintas/status/2100307879060271243",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @higgsfield: Introducing Higgsfield API.\n\n50+ frontier models in one API, at lower prices than a subscription.\n\n&gt; Get up to 50% OFF disc…",
+      "published_at": "Wed Sep 16 19:36:34 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260917"
+    },
+    {
+      "title": "@levelsio: RT @philz1337x: My upscaler made \"computer, enhance\" real https://t.co/GqYCMifD8p",
+      "url": "https://x.com/levelsio/status/2100454335452704975",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @philz1337x: My upscaler made \"computer, enhance\" real https://t.co/GqYCMifD8p",
+      "published_at": "Thu Sep 17 05:18:32 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260917"
+    },
+    {
+      "title": "@levelsio: RT @nikitabier: I recently got a dog and I quickly learned that a puppy needs to be taken out every ",
+      "url": "https://x.com/levelsio/status/2100253828478009763",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @nikitabier: I recently got a dog and I quickly learned that a puppy needs to be taken out every hour to pee for up to 6 months. Otherwi…",
+      "published_at": "Wed Sep 16 16:01:48 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260917"
+    },
+    {
+      "title": "@levelsio: RT @teslaeurope: 2 years of testing FSD Supervised all over Spain  Across 460,000 km, we have seen i",
+      "url": "https://x.com/levelsio/status/2100208087009276181",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @teslaeurope: 2 years of testing FSD Supervised all over Spain\n\nAcross 460,000 km, we have seen it all https://t.co/RyyRME0r5D",
+      "published_at": "Wed Sep 16 13:00:02 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260917"
+    },
     {
       "title": "Capsule – Single-file web apps that save their data into SQLite",
       "url": "https://withcapsule.app/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260908"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Less than 91 hours ago, OpenAI dropped GPT-6 Astra.  Some are \"feeling\" GPT-6 Astra has",
-      "url": "https://x.com/minchoi/status/2096915404727697413",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Less than 91 hours ago, OpenAI dropped GPT-6 Astra.\n\nSome are \"feeling\" GPT-6 Astra has reached AGI level.\n\nAnatomy. LEGO sets…",
-      "published_at": "Mon Sep 07 10:56:05 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260907"
-    },
-    {
-      "title": "@minchoi: Less than 91 hours ago, OpenAI dropped GPT-6 Astra.  Some are \"feeling\" GPT-6 Astra has reached AGI ",
-      "url": "https://x.com/minchoi/status/2096620477619810739",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "Less than 91 hours ago, OpenAI dropped GPT-6 Astra.\n\nSome are \"feeling\" GPT-6 Astra has reached AGI level.\n\nAnatomy. LEGO sets. GTA games. V8 engines. Entire forests.\n\n10 wild examples:",
-      "published_at": "Sun Sep 06 15:24:09 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260907"
-    },
-    {
-      "title": "@venturetwins: Using GPT-6 Astra Max to make my wedding website https://t.co/2bTQX8HUb4",
-      "url": "https://x.com/venturetwins/status/2096659577660203436",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "Using GPT-6 Astra Max to make my wedding website https://t.co/2bTQX8HUb4",
-      "published_at": "Sun Sep 06 17:59:32 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260907"
-    },
-    {
-      "title": "Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
-      "source": "Show HN",
-      "summary": "👍 92 points · 💬 31 comments · 讨论: https://news.ycombinator.com/item?id=49590738",
-      "published_at": "2026-09-06T20:45:13Z",
-      "score": 92,
-      "category": "tools",
-      "added_date": "20260907"
-    },
-    {
-      "title": "[okf-memory/okf-agent-memory] Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 422 stars · 新建于 2026-09-05 · 语言: Go",
-      "published_at": "2026-09-05T21:26:04Z",
-      "score": 92,
-      "category": "tools",
-      "added_date": "20260907"
     }
   ]
 }
