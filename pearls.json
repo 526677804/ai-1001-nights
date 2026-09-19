@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-18T12:02:47.009718",
+  "updated_at": "2026-09-19T12:02:25.833034",
   "pearls": [
+    {
+      "title": "@dotey: RT @claudeai: A thread of our favorite things people built with Claude recently:  https://t.co/bLVml",
+      "url": "https://x.com/dotey/status/2101207695546015904",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @claudeai: A thread of our favorite things people built with Claude recently:\n\nhttps://t.co/bLVmlNj5ew",
+      "published_at": "Sat Sep 19 07:12:07 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260919"
+    },
+    {
+      "title": "@levelsio: RT @banteg: &gt;be me &gt;discover effective altruism &gt;apparently normal charity is inefficient &",
+      "url": "https://x.com/levelsio/status/2101090507728556518",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @banteg: &gt;be me\n&gt;discover effective altruism\n&gt;apparently normal charity is inefficient\n&gt;why donate to random sad thing when spreadsheet…",
+      "published_at": "Fri Sep 18 23:26:28 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260919"
+    },
+    {
+      "title": "@levelsio: This is why I never have and never will do calls https://t.co/coN9OyrLYe",
+      "url": "https://x.com/levelsio/status/2100914782979117409",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "This is why I never have and never will do calls https://t.co/coN9OyrLYe",
+      "published_at": "Fri Sep 18 11:48:12 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260919"
+    },
+    {
+      "title": "@venturetwins: Big Tech engineering org charts in 2026 https://t.co/lVjoGLyd2r",
+      "url": "https://x.com/venturetwins/status/2101032189374963860",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Big Tech engineering org charts in 2026 https://t.co/lVjoGLyd2r",
+      "published_at": "Fri Sep 18 19:34:43 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260919"
+    },
+    {
+      "title": "@levelsio: If you enjoy calls, you're probably a manager not a maker  https://t.co/CmUTfFxVgZ https://t.co/ZslI",
+      "url": "https://x.com/levelsio/status/2100954231393984923",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "If you enjoy calls, you're probably a manager not a maker\n\nhttps://t.co/CmUTfFxVgZ https://t.co/ZslI1JXbZW",
+      "published_at": "Fri Sep 18 14:24:57 +0000 2026",
+      "score": 95,
+      "category": "community",
+      "added_date": "20260919"
+    },
     {
       "title": "Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260910"
-    },
-    {
-      "title": "LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "source": "Show HN",
-      "summary": "👍 156 points · 💬 24 comments · 讨论: https://news.ycombinator.com/item?id=49613068",
-      "published_at": "2026-09-08T16:59:41Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260909"
-    },
-    {
-      "title": "@levelsio: Thanks everyone for recommending me to buy an LG TV two years ago but especially everyone for recomm",
-      "url": "https://x.com/levelsio/status/2097390820093804977",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Thanks everyone for recommending me to buy an LG TV two years ago but especially everyone for recommending me to NEVER ever connect it to the internet\n\nBut instead to get an Apple TV and connect that ",
-      "published_at": "Tue Sep 08 18:25:13 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260909"
-    },
-    {
-      "title": "@dotey: RT @tombkeeper: 刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输",
-      "url": "https://x.com/dotey/status/2097327134163247489",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @tombkeeper: 刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输入文字的程序，也成功了。最后我让祂生成一个计算器，居然也成功了。\n\n我的人类朋…",
-      "published_at": "Tue Sep 08 14:12:09 +0000 2026",
-      "score": 90,
-      "category": "community",
-      "added_date": "20260909"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: If you think AI video can't act then explain this https://t.co/8GAHpZa6Tu",
-      "url": "https://x.com/minchoi/status/2097635012443087037",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: If you think AI video can't act then explain this\nhttps://t.co/8GAHpZa6Tu",
-      "published_at": "Wed Sep 09 10:35:33 +0000 2026",
-      "score": 90,
-      "category": "community",
-      "added_date": "20260909"
-    },
-    {
-      "title": "@minchoi: If you think AI video can't act then explain this https://t.co/8GAHpZa6Tu",
-      "url": "https://x.com/minchoi/status/2097140842133627182",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "If you think AI video can't act then explain this\nhttps://t.co/8GAHpZa6Tu",
-      "published_at": "Tue Sep 08 01:51:54 +0000 2026",
-      "score": 90,
-      "category": "community",
-      "added_date": "20260909"
     }
   ]
 }
