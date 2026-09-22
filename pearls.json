@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-21T12:02:55.141319",
+  "updated_at": "2026-09-22T12:02:02.112562",
   "pearls": [
+    {
+      "title": "[browser-use/jev-ultrafast] Fastest and cheapest web agent",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 17386 stars · 新建于 2026-09-16 · 语言: Python",
+      "published_at": "2026-09-16T21:30:12Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260922"
+    },
+    {
+      "title": "[hydra-db/open-glean] An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+      "url": "https://github.com/hydra-db/open-glean",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 731 stars · 新建于 2026-09-17 · 语言: TypeScript",
+      "published_at": "2026-09-17T05:22:08Z",
+      "score": 123,
+      "category": "tools",
+      "added_date": "20260922"
+    },
+    {
+      "title": "[Lumid-Off/AirCard-Windows] No description",
+      "url": "https://github.com/Lumid-Off/AirCard-Windows",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 572 stars · 新建于 2026-09-18 · 语言: Rust",
+      "published_at": "2026-09-18T14:27:48Z",
+      "score": 107,
+      "category": "tools",
+      "added_date": "20260922"
+    },
+    {
+      "title": "@xiaohu: 兄弟们 好东西  Qwen-Image-2.1无审查版本  移除了安全过滤 可以生成成人、NSFW等图像内容  而且优化了生成速度：  主模型放进显卡里跑保证速度，把巨大的“文本编码器”扔给普通电脑内",
+      "url": "https://x.com/xiaohu/status/2102286309335191634",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "兄弟们 好东西\n\nQwen-Image-2.1无审查版本\n\n移除了安全过滤\n可以生成成人、NSFW等图像内容\n\n而且优化了生成速度：\n\n主模型放进显卡里跑保证速度，把巨大的“文本编码器”扔给普通电脑内存（CPU）去跑。 这样能帮你省出 9 到 17 GB 的显存，而且几乎不会拖慢出图速度！\n\nhttps://t.co/xB8A5M6L8U\n\nQwen-Image-2.1同时把“文生图”和“图像编辑",
+      "published_at": "Tue Sep 22 06:38:09 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260922"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orc",
+      "url": "https://x.com/minchoi/status/2102340577610047881",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
+      "published_at": "Tue Sep 22 10:13:47 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260922"
+    },
     {
       "title": "[zai-org/ZCode] Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260913"
-    },
-    {
-      "title": "Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "source": "Show HN",
-      "summary": "👍 186 points · 💬 79 comments · 讨论: https://news.ycombinator.com/item?id=49660783",
-      "published_at": "2026-09-11T16:08:50Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260912"
-    },
-    {
-      "title": "Bodily Oddities",
-      "url": "https://vester.si/bodily-oddities/",
-      "source": "Show HN",
-      "summary": "👍 271 points · 💬 174 comments · 讨论: https://news.ycombinator.com/item?id=49649789",
-      "published_at": "2026-09-10T20:33:11Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260912"
-    },
-    {
-      "title": "@venturetwins: Damn somehow I missed that Bernie's AI bill proposes to sentence developers &amp; researchers workin",
-      "url": "https://x.com/venturetwins/status/2098456905526211026",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "Damn somehow I missed that Bernie's AI bill proposes to sentence developers &amp; researchers working on \"advanced AI\" to 20 years in prison (!!) https://t.co/u5hfMrv6hC",
-      "published_at": "Fri Sep 11 17:01:28 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260912"
-    },
-    {
-      "title": "@dotey: 菲尔兹奖得主邓煜宣布，如果人工智能能够解决所有数学问题，他将从数学界退休，并开始创作百合小说（Romance Novel）。 https://t.co/GPDNkVvCrV",
-      "url": "https://x.com/dotey/status/2098546430646395259",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "菲尔兹奖得主邓煜宣布，如果人工智能能够解决所有数学问题，他将从数学界退休，并开始创作百合小说（Romance Novel）。 https://t.co/GPDNkVvCrV",
-      "published_at": "Fri Sep 11 22:57:12 +0000 2026",
-      "score": 93,
-      "category": "community",
-      "added_date": "20260912"
-    },
-    {
-      "title": "@mckaywrigley: forgive me if i don't care that ai curing cancer might disrupt your \"process of understanding\" and \"",
-      "url": "https://x.com/mckaywrigley/status/2098498691200164210",
-      "source": "X - @mckaywrigley (AI builder)",
-      "summary": "forgive me if i don't care that ai curing cancer might disrupt your \"process of understanding\" and \"raise attribution questions.\"\n\nbuilding ai that solves all our greatest problems would be a miraculo",
-      "published_at": "Fri Sep 11 19:47:30 +0000 2026",
-      "score": 93,
-      "category": "community",
-      "added_date": "20260912"
     }
   ]
 }
