@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-22T12:02:02.112562",
+  "updated_at": "2026-09-23T12:01:42.663894",
   "pearls": [
+    {
+      "title": "Drop – A rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "source": "Show HN",
+      "summary": "👍 174 points · 💬 59 comments · 讨论: https://news.ycombinator.com/item?id=49801329",
+      "published_at": "2026-09-22T13:52:47Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260923"
+    },
+    {
+      "title": "[unreallabsai/unreal-agent] Async-first agent harness",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1445 stars · 新建于 2026-09-21 · 语言: Go",
+      "published_at": "2026-09-21T23:14:02Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260923"
+    },
+    {
+      "title": "[kerpopule/hermes-jev-skills] Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 674 stars · 新建于 2026-09-18 · 语言: Python",
+      "published_at": "2026-09-18T20:01:29Z",
+      "score": 117,
+      "category": "tools",
+      "added_date": "20260923"
+    },
+    {
+      "title": "JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "source": "Show HN",
+      "summary": "👍 113 points · 💬 32 comments · 讨论: https://news.ycombinator.com/item?id=49800574",
+      "published_at": "2026-09-22T13:01:03Z",
+      "score": 113,
+      "category": "tools",
+      "added_date": "20260923"
+    },
+    {
+      "title": "[Mak5er/AirCard-iOS]  Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "url": "https://github.com/Mak5er/AirCard-iOS",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 566 stars · 新建于 2026-09-19 · 语言: Swift",
+      "published_at": "2026-09-19T09:22:23Z",
+      "score": 106,
+      "category": "tools",
+      "added_date": "20260923"
+    },
     {
       "title": "[browser-use/jev-ultrafast] Fastest and cheapest web agent",
       "url": "https://github.com/browser-use/jev-ultrafast",
@@ -450,56 +500,6 @@
       "score": 92,
       "category": "community",
       "added_date": "20260914"
-    },
-    {
-      "title": "[rizqinrr/viserys-agent] No description",
-      "url": "https://github.com/rizqinrr/viserys-agent",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 627 stars · 新建于 2026-09-12 · 语言: JavaScript",
-      "published_at": "2026-09-12T16:51:29Z",
-      "score": 112,
-      "category": "tools",
-      "added_date": "20260913"
-    },
-    {
-      "title": "@levelsio: RT @DavidSacks: Dario has written that we need to “pace the frontier,” and Sam has agreed. People ma",
-      "url": "https://x.com/levelsio/status/2099064556320395625",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @DavidSacks: Dario has written that we need to “pace the frontier,” and Sam has agreed. People may be surprised by my response: go ahead…",
-      "published_at": "Sun Sep 13 09:16:03 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260913"
-    },
-    {
-      "title": "@levelsio: https://t.co/lGeV8DaM2z",
-      "url": "https://x.com/levelsio/status/2098847895227077090",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "https://t.co/lGeV8DaM2z",
-      "published_at": "Sat Sep 12 18:55:07 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260913"
-    },
-    {
-      "title": "@levelsio: He's right  Rockerfeller did it first a century ago  https://t.co/kjKN6lSID8 https://t.co/B24jOYDbZ3",
-      "url": "https://x.com/levelsio/status/2098845926739603637",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "He's right\n\nRockerfeller did it first a century ago\n\nhttps://t.co/kjKN6lSID8 https://t.co/B24jOYDbZ3",
-      "published_at": "Sat Sep 12 18:47:18 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260913"
-    },
-    {
-      "title": "@levelsio: This whole thing feels super organized indeed  I don't buy any of it",
-      "url": "https://x.com/levelsio/status/2098840628658307246",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "This whole thing feels super organized indeed\n\nI don't buy any of it",
-      "published_at": "Sat Sep 12 18:26:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260913"
     }
   ]
 }
