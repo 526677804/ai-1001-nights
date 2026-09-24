@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-23T12:01:42.663894",
+  "updated_at": "2026-09-24T12:01:34.266067",
   "pearls": [
+    {
+      "title": "[freestylefly/WeChatBridge] 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 640 stars · 新建于 2026-09-21 · 语言: Swift",
+      "published_at": "2026-09-21T02:54:51Z",
+      "score": 114,
+      "category": "tools",
+      "added_date": "20260924"
+    },
+    {
+      "title": "[rmalde/minecraft-agent] Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 538 stars · 新建于 2026-09-20 · 语言: JavaScript",
+      "published_at": "2026-09-20T05:05:12Z",
+      "score": 103,
+      "category": "tools",
+      "added_date": "20260924"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: This is wild.  Claude just found something humans missed.  It spotted a hidden repeat p",
+      "url": "https://x.com/minchoi/status/2103073601372971214",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: This is wild.\n\nClaude just found something humans missed.\n\nIt spotted a hidden repeat pattern in raw bacteriophage DNA…\n\n…and…",
+      "published_at": "Thu Sep 24 10:46:34 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260924"
+    },
+    {
+      "title": "@minchoi: This is wild.  Claude just found something humans missed.  It spotted a hidden repeat pattern in raw",
+      "url": "https://x.com/minchoi/status/2102838725722198064",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "This is wild.\n\nClaude just found something humans missed.\n\nIt spotted a hidden repeat pattern in raw bacteriophage DNA…\n\n…and uncovered a previously unknown enzyme system in bacteriophages with CRISPR",
+      "published_at": "Wed Sep 23 19:13:15 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260924"
+    },
+    {
+      "title": "@levelsio: 💰 Passed $10M/y in revenue + investment gains this year  I've always been aggressively increasing my",
+      "url": "https://x.com/levelsio/status/2102739359715774665",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "💰 Passed $10M/y in revenue + investment gains this year\n\nI've always been aggressively increasing my profit margins to as high as possible, especially the last few years, and especially this year wher",
+      "published_at": "Wed Sep 23 12:38:25 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260924"
+    },
     {
       "title": "Drop – A rootless Linux sandbox with gVisor support",
       "url": "https://droprun.sh/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260915"
-    },
-    {
-      "title": "@levelsio: YESSSS!!! 💪",
-      "url": "https://x.com/levelsio/status/2099181630719934786",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "YESSSS!!! 💪",
-      "published_at": "Sun Sep 13 17:01:16 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260914"
-    },
-    {
-      "title": "@levelsio: I just saw this @ycombinator's batch literally only has harness startups or hardware startups  So th",
-      "url": "https://x.com/levelsio/status/2099098086035382334",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I just saw this @ycombinator's batch literally only has harness startups or hardware startups\n\nSo the proof is in the pudding\n\nIn the most early adopting tech pioneering place that's Silicon Valley ne",
-      "published_at": "Sun Sep 13 11:29:17 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260914"
-    },
-    {
-      "title": "[zjwzcx/Awesome-Astra-Embodied-AI] GPT-6 Astra for embodied AI and robotics.",
-      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 482 stars · 新建于 2026-09-12 · 语言: N/A",
-      "published_at": "2026-09-12T12:20:24Z",
-      "score": 98,
-      "category": "tools",
-      "added_date": "20260914"
-    },
-    {
-      "title": "@dr_cintas: RT @DeryaTR_: Thank you, Mr. President @POTUS @realDonaldTrump 🙏  History will remember this as the ",
-      "url": "https://x.com/dr_cintas/status/2099269012139958513",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @DeryaTR_: Thank you, Mr. President @POTUS @realDonaldTrump 🙏\n\nHistory will remember this as the moment America was prevented from being…",
-      "published_at": "Sun Sep 13 22:48:29 +0000 2026",
-      "score": 95,
-      "category": "community",
-      "added_date": "20260914"
-    },
-    {
-      "title": "@levelsio: Very very true  Lots of money if you go IRL industries now   Instead of selling tech to tech people ",
-      "url": "https://x.com/levelsio/status/2099129344454996090",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Very very true\n\nLots of money if you go IRL industries now \n\nInstead of selling tech to tech people who won't buy anything because they just vibe code it themselves",
-      "published_at": "Sun Sep 13 13:33:30 +0000 2026",
-      "score": 92,
-      "category": "community",
-      "added_date": "20260914"
     }
   ]
 }
