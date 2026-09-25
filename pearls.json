@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-24T12:01:34.266067",
+  "updated_at": "2026-09-25T12:02:54.749686",
   "pearls": [
+    {
+      "title": "Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "source": "Show HN",
+      "summary": "👍 328 points · 💬 120 comments · 讨论: https://news.ycombinator.com/item?id=49833867",
+      "published_at": "2026-09-24T17:21:36Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260925"
+    },
+    {
+      "title": "[mikehasa/golive-skill] Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 924 stars · 新建于 2026-09-23 · 语言: TypeScript",
+      "published_at": "2026-09-23T13:37:26Z",
+      "score": 142,
+      "category": "tools",
+      "added_date": "20260925"
+    },
+    {
+      "title": "[yetone/magpie] Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 744 stars · 新建于 2026-09-23 · 语言: Go",
+      "published_at": "2026-09-23T16:22:35Z",
+      "score": 124,
+      "category": "tools",
+      "added_date": "20260925"
+    },
+    {
+      "title": "[nokia-applied-research/AnyJev] Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 573 stars · 新建于 2026-09-21 · 语言: Python",
+      "published_at": "2026-09-21T05:55:40Z",
+      "score": 107,
+      "category": "tools",
+      "added_date": "20260925"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: xAI launched ~3 years ago  Since then:  Colossus 1 + Colossus 2 ≈ 670k GPUs  Grok Imagi",
+      "url": "https://x.com/minchoi/status/2103453794097140218",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: xAI launched ~3 years ago\n\nSince then:\n\nColossus 1 + Colossus 2 ≈ 670k GPUs\n\nGrok Imagine\nGrok Voice \nGrok Build\nGrok Bot\nGrok…",
+      "published_at": "Fri Sep 25 11:57:19 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260925"
+    },
     {
       "title": "[freestylefly/WeChatBridge] 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
       "url": "https://github.com/freestylefly/WeChatBridge",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260916"
-    },
-    {
-      "title": "Neobrutalism.dev – Just added Base UI support and added new color theme",
-      "url": "https://www.neobrutalism.dev/",
-      "source": "Show HN",
-      "summary": "👍 156 points · 💬 73 comments · 讨论: https://news.ycombinator.com/item?id=49699159",
-      "published_at": "2026-09-14T16:02:02Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260915"
-    },
-    {
-      "title": "Pelican-bicycle alternatives",
-      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-      "source": "Show HN",
-      "summary": "👍 122 points · 💬 44 comments · 讨论: https://news.ycombinator.com/item?id=49696402",
-      "published_at": "2026-09-14T13:20:22Z",
-      "score": 122,
-      "category": "tools",
-      "added_date": "20260915"
-    },
-    {
-      "title": "@xiaohu: 卧槽，美国人真有意思  在洛杉矶的 All-In Summit 大会上 黄仁勋的手机突然响了 是特朗普打来的  黄仁勋接起电话 给切成了免提....  特朗普当着几千人说，AI 危险论和反对建数据中心",
-      "url": "https://x.com/xiaohu/status/2099650526837371378",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "卧槽，美国人真有意思\n\n在洛杉矶的 All-In Summit 大会上\n黄仁勋的手机突然响了\n是特朗普打来的\n\n黄仁勋接起电话\n给切成了免提....\n\n特朗普当着几千人说，AI 危险论和反对建数据中心都是\"骗局\"，黄仁勋在旁边一直附和...\n\n黄仁勋上手忙脚乱找免提，特朗普调侃：\"Jensen 造得出十年没人能抄的芯片，却不会开免提。\"\n\n哈哈哈哈\n\n然后特朗普一顿疯狂输出：\n\n   - 反对建数",
-      "published_at": "Tue Sep 15 00:04:29 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20260915"
-    },
-    {
-      "title": "@dotey: RT @OrionSheepVerse: 苹果在AI时代走了狗屎运的两大事情  1.M系列芯片的统一内存架构，让 Mac 有巨大的 内存（显存） 优势来跑大模型。现在一个稍微高端一点的mac 就可以拥",
-      "url": "https://x.com/dotey/status/2099613411675877849",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @OrionSheepVerse: 苹果在AI时代走了狗屎运的两大事情\n\n1.M系列芯片的统一内存架构，让 Mac 有巨大的 内存（显存） 优势来跑大模型。现在一个稍微高端一点的mac 就可以拥有 48g以上的内存（显存），而相反 价格已经5w块的 RTX5090却只有3…",
-      "published_at": "Mon Sep 14 21:37:00 +0000 2026",
-      "score": 101,
-      "category": "community",
-      "added_date": "20260915"
-    },
-    {
-      "title": "@_akhaliq: RT @boltdotnew: Introducing Bolt Forge. Free until Oct 14th:  - Up to 50x more usage - The new front",
-      "url": "https://x.com/_akhaliq/status/2099534184460976514",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @boltdotnew: Introducing Bolt Forge. Free until Oct 14th:\n\n- Up to 50x more usage\n- The new frontier: GLM, DeepSeek, Kimi\n- Zero usage c…",
-      "published_at": "Mon Sep 14 16:22:11 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260915"
     }
   ]
 }
