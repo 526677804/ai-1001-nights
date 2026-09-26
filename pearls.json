@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-25T12:02:54.749686",
+  "updated_at": "2026-09-26T12:03:34.630639",
   "pearls": [
+    {
+      "title": "[asokurasu/text-humanizer] A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 722 stars · 新建于 2026-09-23 · 语言: Python",
+      "published_at": "2026-09-23T17:32:37Z",
+      "score": 122,
+      "category": "tools",
+      "added_date": "20260926"
+    },
+    {
+      "title": "[yukitorido/short-video-generator-AI] AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 714 stars · 新建于 2026-09-23 · 语言: Python",
+      "published_at": "2026-09-23T18:11:57Z",
+      "score": 121,
+      "category": "tools",
+      "added_date": "20260926"
+    },
+    {
+      "title": "[jev-chat/jev-chat-windows] JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "url": "https://github.com/jev-chat/jev-chat-windows",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 578 stars · 新建于 2026-09-21 · 语言: Python",
+      "published_at": "2026-09-21T14:37:14Z",
+      "score": 107,
+      "category": "tools",
+      "added_date": "20260926"
+    },
+    {
+      "title": "@venturetwins: RT @eriktorenberg: Excited to introduce @Cosign: the curated professional network for the startup co",
+      "url": "https://x.com/venturetwins/status/2103563878416408700",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "RT @eriktorenberg: Excited to introduce @Cosign: the curated professional network for the startup community: https://t.co/yAnRgqRifu\n\nOur g…",
+      "published_at": "Fri Sep 25 19:14:45 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260926"
+    },
+    {
+      "title": "@dotey: 《什么是 Transformer》由 Claude Code + Opus 5.5 制作  --- 提示词 ---  帮我用js制作一个视频，主题是：什么是 Transformer 要深入浅出，让高中",
+      "url": "https://x.com/dotey/status/2103683057689522564",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "《什么是 Transformer》由 Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜 https://t.co/D4R85BOEn3",
+      "published_at": "Sat Sep 26 03:08:20 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20260926"
+    },
     {
       "title": "Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260917"
-    },
-    {
-      "title": "Capsule – Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "source": "Show HN",
-      "summary": "👍 338 points · 💬 143 comments · 讨论: https://news.ycombinator.com/item?id=49712278",
-      "published_at": "2026-09-15T13:31:40Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260916"
-    },
-    {
-      "title": "Hacking a $20 4G wireless hotspot into a texting device",
-      "url": "https://bkovac.github.io/modem-thing/",
-      "source": "Show HN",
-      "summary": "👍 191 points · 💬 34 comments · 讨论: https://news.ycombinator.com/item?id=49712102",
-      "published_at": "2026-09-15T13:20:24Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260916"
-    },
-    {
-      "title": "@_akhaliq: RT @CompleteSkeptic: After co-inventing ChatGPT, I kept asking myself: why have superhuman chat mode",
-      "url": "https://x.com/_akhaliq/status/2099927729047249104",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @CompleteSkeptic: After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\n\nI’ve spent the last…",
-      "published_at": "Tue Sep 15 18:26:00 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260916"
-    },
-    {
-      "title": "@_akhaliq: RT @odysseyml: Today we’re unveiling Odyssey-3, a big step forward for foundation world models.  It ",
-      "url": "https://x.com/_akhaliq/status/2099902663739736183",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @odysseyml: Today we’re unveiling Odyssey-3, a big step forward for foundation world models.\n\nIt can control robots, power humanoids, dr…",
-      "published_at": "Tue Sep 15 16:46:23 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260916"
-    },
-    {
-      "title": "@levelsio: 🇪🇺 Great data and actually I think we should use this kinds of data to completely turn around Europe",
-      "url": "https://x.com/levelsio/status/2099981037140852925",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "🇪🇺 Great data and actually I think we should use this kinds of data to completely turn around Europe's immigration policy:\n\n- We should have super easy inflow for immigrants from countries whose previ",
-      "published_at": "Tue Sep 15 21:57:49 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260916"
     }
   ]
 }
