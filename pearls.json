@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-26T12:03:34.630639",
+  "updated_at": "2026-09-27T11:59:38.842711",
   "pearls": [
+    {
+      "title": "Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "source": "Show HN",
+      "summary": "👍 323 points · 💬 88 comments · 讨论: https://news.ycombinator.com/item?id=49858513",
+      "published_at": "2026-09-26T17:10:40Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260927"
+    },
+    {
+      "title": "[Rizzo-AI-Academy/rizzo-flow] The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 652 stars · 新建于 2026-09-21 · 语言: Python",
+      "published_at": "2026-09-21T00:00:02Z",
+      "score": 115,
+      "category": "tools",
+      "added_date": "20260927"
+    },
+    {
+      "title": "@levelsio: Got a package from @DHH 🫨 https://t.co/Qa18Dn2YoK",
+      "url": "https://x.com/levelsio/status/2103917038972354703",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Got a package from @DHH 🫨 https://t.co/Qa18Dn2YoK",
+      "published_at": "Sat Sep 26 18:38:05 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260927"
+    },
+    {
+      "title": "@levelsio: It's really crazy how strongly wealth inverse correlates with regulatory burden  If you make it easy",
+      "url": "https://x.com/levelsio/status/2103855452828147936",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "It's really crazy how strongly wealth inverse correlates with regulatory burden\n\nIf you make it easy for people to start and run businesses and don't get in their way too much, everyone gets wealthier",
+      "published_at": "Sat Sep 26 14:33:22 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260927"
+    },
+    {
+      "title": "@venturetwins: Marketing my cat like a new Apple product https://t.co/6S5y7mWzOu",
+      "url": "https://x.com/venturetwins/status/2103947617227194791",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Marketing my cat like a new Apple product https://t.co/6S5y7mWzOu",
+      "published_at": "Sat Sep 26 20:39:36 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260927"
+    },
     {
       "title": "[asokurasu/text-humanizer] A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
       "url": "https://github.com/asokurasu/text-humanizer",
@@ -450,56 +500,6 @@
       "score": 110,
       "category": "tools",
       "added_date": "20260918"
-    },
-    {
-      "title": "@xiaohu: RT @gpumaxxer: Please build a Higgsfield competitor. We’ll even power it.  Higgsfield API is live. C",
-      "url": "https://x.com/xiaohu/status/2100391830840074601",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "RT @gpumaxxer: Please build a Higgsfield competitor. We’ll even power it.\n\nHiggsfield API is live. Cheapest on the market. Seedance 2.5 in…",
-      "published_at": "Thu Sep 17 01:10:10 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20260917"
-    },
-    {
-      "title": "@dr_cintas: RT @higgsfield: Introducing Higgsfield API.  50+ frontier models in one API, at lower prices than a ",
-      "url": "https://x.com/dr_cintas/status/2100307879060271243",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @higgsfield: Introducing Higgsfield API.\n\n50+ frontier models in one API, at lower prices than a subscription.\n\n&gt; Get up to 50% OFF disc…",
-      "published_at": "Wed Sep 16 19:36:34 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260917"
-    },
-    {
-      "title": "@levelsio: RT @philz1337x: My upscaler made \"computer, enhance\" real https://t.co/GqYCMifD8p",
-      "url": "https://x.com/levelsio/status/2100454335452704975",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @philz1337x: My upscaler made \"computer, enhance\" real https://t.co/GqYCMifD8p",
-      "published_at": "Thu Sep 17 05:18:32 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260917"
-    },
-    {
-      "title": "@levelsio: RT @nikitabier: I recently got a dog and I quickly learned that a puppy needs to be taken out every ",
-      "url": "https://x.com/levelsio/status/2100253828478009763",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @nikitabier: I recently got a dog and I quickly learned that a puppy needs to be taken out every hour to pee for up to 6 months. Otherwi…",
-      "published_at": "Wed Sep 16 16:01:48 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260917"
-    },
-    {
-      "title": "@levelsio: RT @teslaeurope: 2 years of testing FSD Supervised all over Spain  Across 460,000 km, we have seen i",
-      "url": "https://x.com/levelsio/status/2100208087009276181",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @teslaeurope: 2 years of testing FSD Supervised all over Spain\n\nAcross 460,000 km, we have seen it all https://t.co/RyyRME0r5D",
-      "published_at": "Wed Sep 16 13:00:02 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260917"
     }
   ]
 }
