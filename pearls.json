@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-29T12:00:12.973748",
+  "updated_at": "2026-09-30T12:00:12.937957",
   "pearls": [
+    {
+      "title": "Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "source": "Show HN",
+      "summary": "👍 275 points · 💬 67 comments · 讨论: https://news.ycombinator.com/item?id=49898778",
+      "published_at": "2026-09-29T19:08:01Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20260930"
+    },
+    {
+      "title": "[feder-cr/dots] Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "url": "https://github.com/feder-cr/dots",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 941 stars · 新建于 2026-09-29 · 语言: Python",
+      "published_at": "2026-09-29T23:06:00Z",
+      "score": 144,
+      "category": "tools",
+      "added_date": "20260930"
+    },
+    {
+      "title": "NSL – WSL for Linux",
+      "url": "https://frostyard.github.io/nsl/",
+      "source": "Show HN",
+      "summary": "👍 140 points · 💬 83 comments · 讨论: https://news.ycombinator.com/item?id=49894351",
+      "published_at": "2026-09-29T14:51:36Z",
+      "score": 140,
+      "category": "tools",
+      "added_date": "20260930"
+    },
+    {
+      "title": "@xiaohu: RT @higgsfield: Introducing OpenAI’s Dots x Higgsfield.  Your always-on Higgsfield creative crew kee",
+      "url": "https://x.com/xiaohu/status/2105096088118255921",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "RT @higgsfield: Introducing OpenAI’s Dots x Higgsfield.\n\nYour always-on Higgsfield creative crew keeps working while you’re away.\n\nCheck in…",
+      "published_at": "Wed Sep 30 00:43:12 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20260930"
+    },
+    {
+      "title": "@dr_cintas: RT @ManusAI: Introducing Manus 2.0 https://t.co/Hy4TI2a71m",
+      "url": "https://x.com/dr_cintas/status/2104924302319514095",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @ManusAI: Introducing Manus 2.0 https://t.co/Hy4TI2a71m",
+      "published_at": "Tue Sep 29 13:20:35 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20260930"
+    },
     {
       "title": "HN.watch – Videos of all Hacker News posts",
       "url": "https://hn.watch/",
@@ -450,56 +500,6 @@
       "score": 98,
       "category": "community",
       "added_date": "20260921"
-    },
-    {
-      "title": "@levelsio: RT @Rainmaker1973: Arthur C. Clarke on BBC's Horizon in 1964, when he gave some astonishing predicti",
-      "url": "https://x.com/levelsio/status/2101460853589520690",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @Rainmaker1973: Arthur C. Clarke on BBC's Horizon in 1964, when he gave some astonishing predictions about the future. https://t.co/PGaM…",
-      "published_at": "Sat Sep 19 23:58:05 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260920"
-    },
-    {
-      "title": "@bilawalsidhu: Navier stokes fluid simulations of epic fucking explosions baked into 3d gaussian splats that can re",
-      "url": "https://x.com/bilawalsidhu/status/2101172864590184878",
-      "source": "X - @bilawalsidhu (AI builder)",
-      "summary": "Navier stokes fluid simulations of epic fucking explosions baked into 3d gaussian splats that can render at 120 fps",
-      "published_at": "Sat Sep 19 04:53:43 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260920"
-    },
-    {
-      "title": "@dotey: RT @karminski3: 看到了个Fable5.1弄的神奇项目, 是一个标签打印机的固件, 作者说他在速卖通上买了个热敏标签打印机, 然后打印机耗材用光了, 他就买了点第三方的热敏纸. 结果这个",
-      "url": "https://x.com/dotey/status/2101455809917911304",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @karminski3: 看到了个Fable5.1弄的神奇项目, 是一个标签打印机的固件, 作者说他在速卖通上买了个热敏标签打印机, 然后打印机耗材用光了, 他就买了点第三方的热敏纸. 结果这个标签打印机很鸡贼, 耗材是有RFID的(让我想起了空气净化器的滤芯), 检测到…",
-      "published_at": "Sat Sep 19 23:38:02 +0000 2026",
-      "score": 99,
-      "category": "community",
-      "added_date": "20260920"
-    },
-    {
-      "title": "[v-modal/awesome-jev-tools] A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-      "url": "https://github.com/v-modal/awesome-jev-tools",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 444 stars · 新建于 2026-09-19 · 语言: N/A",
-      "published_at": "2026-09-19T16:48:59Z",
-      "score": 94,
-      "category": "tools",
-      "added_date": "20260920"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Ok Muse is actually useful.  People are using Muse to get their money back, save on bil",
-      "url": "https://x.com/minchoi/status/2101640001578582045",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Ok Muse is actually useful.\n\nPeople are using Muse to get their money back, save on bills, get efunds.\n\n10 wild examples:",
-      "published_at": "Sun Sep 20 11:49:57 +0000 2026",
-      "score": 93,
-      "category": "community",
-      "added_date": "20260920"
     }
   ]
 }
