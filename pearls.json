@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-30T12:00:12.937957",
+  "updated_at": "2026-10-01T12:00:25.867365",
   "pearls": [
+    {
+      "title": "[nanaism/yomiyasu] AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 763 stars · 新建于 2026-09-30 · 语言: Python",
+      "published_at": "2026-09-30T11:49:32Z",
+      "score": 126,
+      "category": "tools",
+      "added_date": "20261001"
+    },
+    {
+      "title": "[echris6/motion-video-kit] Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 734 stars · 新建于 2026-09-27 · 语言: Python",
+      "published_at": "2026-09-27T14:11:14Z",
+      "score": 123,
+      "category": "tools",
+      "added_date": "20261001"
+    },
+    {
+      "title": "@xiaohu: RT @claudesfun: Claim your spots  Apply: https://t.co/RrAbXVkZjN  Fcfs https://t.co/Zco7NhxwXZ",
+      "url": "https://x.com/xiaohu/status/2105620185633964100",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "RT @claudesfun: Claim your spots\n\nApply: https://t.co/RrAbXVkZjN\n\nFcfs https://t.co/Zco7NhxwXZ",
+      "published_at": "Thu Oct 01 11:25:47 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261001"
+    },
+    {
+      "title": "@dotey: Figure AI 让旗下的 Figure 02 人形机器人自己跳进芬兰一家铸造厂的钢水里，以此让这一代机器人退役。熔出来的金属会被加工成限量纪念品。  Figure 02 是 Figure 的第二代",
+      "url": "https://x.com/dotey/status/2105430166876869113",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "Figure AI 让旗下的 Figure 02 人形机器人自己跳进芬兰一家铸造厂的钢水里，以此让这一代机器人退役。熔出来的金属会被加工成限量纪念品。\n\nFigure 02 是 Figure 的第二代人形机器人，公司很多第一次都由它完成：第一次进 BMW 工厂上岗，第一次运行 Helix（Figure 自研的机器人 AI 模型，负责看画面、理解指令并控制动作），第一次做家务，第一次做物流工作。现在",
+      "published_at": "Wed Sep 30 22:50:43 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261001"
+    },
+    {
+      "title": "@levelsio: I've been actively fighting almost guaranteed age-related loneliness for years, studies show after a",
+      "url": "https://x.com/levelsio/status/2105276466019672559",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I've been actively fighting almost guaranteed age-related loneliness for years, studies show after age 30 you start seeing friends less and when you get older especially men don't have any social life",
+      "published_at": "Wed Sep 30 12:39:58 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261001"
+    },
     {
       "title": "Real-time Solar System with 526k asteroids and all tracked satellites",
       "url": "https://space.bl2.net/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260922"
-    },
-    {
-      "title": "[zai-org/ZCode] Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-      "url": "https://github.com/zai-org/ZCode",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 4917 stars · 新建于 2026-09-20 · 语言: TypeScript",
-      "published_at": "2026-09-20T12:01:16Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260921"
-    },
-    {
-      "title": "Radius – A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "source": "Show HN",
-      "summary": "👍 148 points · 💬 64 comments · 讨论: https://news.ycombinator.com/item?id=49777539",
-      "published_at": "2026-09-20T16:51:26Z",
-      "score": 148,
-      "category": "tools",
-      "added_date": "20260921"
-    },
-    {
-      "title": "@levelsio: You're right, it was an elementary school not a military base. I'm sorry for the confusion.   Would ",
-      "url": "https://x.com/levelsio/status/2101687558006526036",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "You're right, it was an elementary school not a military base. I'm sorry for the confusion. \n\nWould you like to learn more about elementary schools?",
-      "published_at": "Sun Sep 20 14:58:55 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260921"
-    },
-    {
-      "title": "@venturetwins: RT @allegrajacchia: The Creators Product team at 𝕏 is growing.  I’m hiring someone to help bring mor",
-      "url": "https://x.com/venturetwins/status/2101865857685340216",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "RT @allegrajacchia: The Creators Product team at 𝕏 is growing.\n\nI’m hiring someone to help bring more great creators to 𝕏 and help existing…",
-      "published_at": "Mon Sep 21 02:47:25 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260921"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: This is literally my new workflow now:  Realtime Research → Grok Bot Planning &amp; Orc",
-      "url": "https://x.com/minchoi/status/2101881086670246160",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
-      "published_at": "Mon Sep 21 03:47:56 +0000 2026",
-      "score": 98,
-      "category": "community",
-      "added_date": "20260921"
     }
   ]
 }
