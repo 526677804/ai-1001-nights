@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-02T11:59:36.092288",
+  "updated_at": "2026-10-03T12:00:30.491674",
   "pearls": [
+    {
+      "title": "[Edwardxlai/easyread] 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "url": "https://github.com/Edwardxlai/easyread",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 651 stars · 新建于 2026-09-30 · 语言: Python",
+      "published_at": "2026-09-30T12:52:24Z",
+      "score": 115,
+      "category": "tools",
+      "added_date": "20261003"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: I gave Opus 5.5 one prompt + music.  12 hours later, I woke up to this. https://t.co/mV",
+      "url": "https://x.com/minchoi/status/2106348365017747663",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: I gave Opus 5.5 one prompt + music.\n\n12 hours later, I woke up to this. https://t.co/mVeVANYNjR",
+      "published_at": "Sat Oct 03 11:39:18 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261003"
+    },
+    {
+      "title": "@minchoi: I gave Opus 5.5 one prompt + music.  12 hours later, I woke up to this. https://t.co/mVeVANYNjR",
+      "url": "https://x.com/minchoi/status/2106027834217259394",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "I gave Opus 5.5 one prompt + music.\n\n12 hours later, I woke up to this. https://t.co/mVeVANYNjR",
+      "published_at": "Fri Oct 02 14:25:38 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261003"
+    },
+    {
+      "title": "@levelsio: RT @JadenJTW: The Death of Software. https://t.co/huFboeZVk9",
+      "url": "https://x.com/levelsio/status/2106343155297570916",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @JadenJTW: The Death of Software. https://t.co/huFboeZVk9",
+      "published_at": "Sat Oct 03 11:18:36 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261003"
+    },
+    {
+      "title": "@levelsio: It's such a weird experience that I can now build things faster than I get new ideas for things",
+      "url": "https://x.com/levelsio/status/2106138101043044498",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "It's such a weird experience that I can now build things faster than I get new ideas for things",
+      "published_at": "Fri Oct 02 21:43:48 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261003"
+    },
     {
       "title": "[CopilotKit/OpenDots] Your always-on AI coworkers that move between text, calls, and Slack.",
       "url": "https://github.com/CopilotKit/OpenDots",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260924"
-    },
-    {
-      "title": "Drop – A rootless Linux sandbox with gVisor support",
-      "url": "https://droprun.sh/",
-      "source": "Show HN",
-      "summary": "👍 174 points · 💬 59 comments · 讨论: https://news.ycombinator.com/item?id=49801329",
-      "published_at": "2026-09-22T13:52:47Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260923"
-    },
-    {
-      "title": "[unreallabsai/unreal-agent] Async-first agent harness",
-      "url": "https://github.com/unreallabsai/unreal-agent",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1445 stars · 新建于 2026-09-21 · 语言: Go",
-      "published_at": "2026-09-21T23:14:02Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260923"
-    },
-    {
-      "title": "[kerpopule/hermes-jev-skills] Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
-      "url": "https://github.com/kerpopule/hermes-jev-skills",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 674 stars · 新建于 2026-09-18 · 语言: Python",
-      "published_at": "2026-09-18T20:01:29Z",
-      "score": 117,
-      "category": "tools",
-      "added_date": "20260923"
-    },
-    {
-      "title": "JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "source": "Show HN",
-      "summary": "👍 113 points · 💬 32 comments · 讨论: https://news.ycombinator.com/item?id=49800574",
-      "published_at": "2026-09-22T13:01:03Z",
-      "score": 113,
-      "category": "tools",
-      "added_date": "20260923"
-    },
-    {
-      "title": "[Mak5er/AirCard-iOS]  Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-      "url": "https://github.com/Mak5er/AirCard-iOS",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 566 stars · 新建于 2026-09-19 · 语言: Swift",
-      "published_at": "2026-09-19T09:22:23Z",
-      "score": 106,
-      "category": "tools",
-      "added_date": "20260923"
     }
   ]
 }
