@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-03T12:00:30.491674",
+  "updated_at": "2026-10-04T12:01:02.923680",
   "pearls": [
+    {
+      "title": "[nykooi1/vibe-wise] A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "url": "https://github.com/nykooi1/vibe-wise",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 834 stars · 新建于 2026-09-29 · 语言: Python",
+      "published_at": "2026-09-29T01:29:57Z",
+      "score": 133,
+      "category": "tools",
+      "added_date": "20261004"
+    },
+    {
+      "title": "[QingYunA/answer-me-with-html] Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "url": "https://github.com/QingYunA/answer-me-with-html",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 741 stars · 新建于 2026-10-02 · 语言: JavaScript",
+      "published_at": "2026-10-02T09:57:40Z",
+      "score": 124,
+      "category": "tools",
+      "added_date": "20261004"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: I gave Opus 5.5 one prompt + music.  12 hours later, I woke up to this. https://t.co/mV",
+      "url": "https://x.com/minchoi/status/2106694937236722163",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: I gave Opus 5.5 one prompt + music.\n\n12 hours later, I woke up to this. https://t.co/mVeVANYNjR",
+      "published_at": "Sun Oct 04 10:36:28 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261004"
+    },
+    {
+      "title": "@levelsio: This is great and another example of city states attracting all the skilled Europeans with better li",
+      "url": "https://x.com/levelsio/status/2106376810305040731",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "This is great and another example of city states attracting all the skilled Europeans with better living, working and regulatory conditions!",
+      "published_at": "Sat Oct 03 13:32:20 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261004"
+    },
+    {
+      "title": "[oil-oil/oil-ui] 把 AI 的 UI 设计能力推到极限。",
+      "url": "https://github.com/oil-oil/oil-ui",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 424 stars · 新建于 2026-09-30 · 语言: Python",
+      "published_at": "2026-09-30T03:55:35Z",
+      "score": 92,
+      "category": "tools",
+      "added_date": "20261004"
+    },
     {
       "title": "[Edwardxlai/easyread] 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
       "url": "https://github.com/Edwardxlai/easyread",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260925"
-    },
-    {
-      "title": "[freestylefly/WeChatBridge] 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
-      "url": "https://github.com/freestylefly/WeChatBridge",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 640 stars · 新建于 2026-09-21 · 语言: Swift",
-      "published_at": "2026-09-21T02:54:51Z",
-      "score": 114,
-      "category": "tools",
-      "added_date": "20260924"
-    },
-    {
-      "title": "[rmalde/minecraft-agent] Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
-      "url": "https://github.com/rmalde/minecraft-agent",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 538 stars · 新建于 2026-09-20 · 语言: JavaScript",
-      "published_at": "2026-09-20T05:05:12Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20260924"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: This is wild.  Claude just found something humans missed.  It spotted a hidden repeat p",
-      "url": "https://x.com/minchoi/status/2103073601372971214",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: This is wild.\n\nClaude just found something humans missed.\n\nIt spotted a hidden repeat pattern in raw bacteriophage DNA…\n\n…and…",
-      "published_at": "Thu Sep 24 10:46:34 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260924"
-    },
-    {
-      "title": "@minchoi: This is wild.  Claude just found something humans missed.  It spotted a hidden repeat pattern in raw",
-      "url": "https://x.com/minchoi/status/2102838725722198064",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "This is wild.\n\nClaude just found something humans missed.\n\nIt spotted a hidden repeat pattern in raw bacteriophage DNA…\n\n…and uncovered a previously unknown enzyme system in bacteriophages with CRISPR",
-      "published_at": "Wed Sep 23 19:13:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260924"
-    },
-    {
-      "title": "@levelsio: 💰 Passed $10M/y in revenue + investment gains this year  I've always been aggressively increasing my",
-      "url": "https://x.com/levelsio/status/2102739359715774665",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "💰 Passed $10M/y in revenue + investment gains this year\n\nI've always been aggressively increasing my profit margins to as high as possible, especially the last few years, and especially this year wher",
-      "published_at": "Wed Sep 23 12:38:25 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260924"
     }
   ]
 }
