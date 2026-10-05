@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-04T12:01:02.923680",
+  "updated_at": "2026-10-05T11:59:26.942505",
   "pearls": [
+    {
+      "title": "[omlahore/RemoveMacAI] Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1048 stars · 新建于 2026-09-29 · 语言: Swift",
+      "published_at": "2026-09-29T11:02:39Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261005"
+    },
+    {
+      "title": "@levelsio: Just a day later and now Javier Milei is offering full Argentinean citizenship with residence and pa",
+      "url": "https://x.com/levelsio/status/2106695234990063921",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Just a day later and now Javier Milei is offering full Argentinean citizenship with residence and passport for $350,000\n\nCountries will keep plucking out the high skilled and wealthy from around the w",
+      "published_at": "Sun Oct 04 10:37:39 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261005"
+    },
+    {
+      "title": "@venturetwins: Once in a while you stumble upon true weapons-grade autism that makes everyone else look like LARPer",
+      "url": "https://x.com/venturetwins/status/2106788740563873837",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Once in a while you stumble upon true weapons-grade autism that makes everyone else look like LARPers.\n\nIncredible work. https://t.co/P7W6K23xIj",
+      "published_at": "Sun Oct 04 16:49:12 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261005"
+    },
+    {
+      "title": "[whirlchat/whirl] The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "url": "https://github.com/whirlchat/whirl",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 463 stars · 新建于 2026-10-02 · 语言: TypeScript",
+      "published_at": "2026-10-02T13:50:42Z",
+      "score": 96,
+      "category": "tools",
+      "added_date": "20261005"
+    },
+    {
+      "title": "@levelsio: Airbnb's entire rating scale is now 4.5 to 5.0  You can't make this up 😂 https://t.co/43Nsjuaktb",
+      "url": "https://x.com/levelsio/status/2107055382459732293",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Airbnb's entire rating scale is now 4.5 to 5.0\n\nYou can't make this up 😂 https://t.co/43Nsjuaktb",
+      "published_at": "Mon Oct 05 10:28:45 +0000 2026",
+      "score": 92,
+      "category": "community",
+      "added_date": "20261005"
+    },
     {
       "title": "[nykooi1/vibe-wise] A Claude Code plugin that helps you learn how to build while AI writes the code.",
       "url": "https://github.com/nykooi1/vibe-wise",
@@ -450,56 +500,6 @@
       "score": 93,
       "category": "community",
       "added_date": "20260926"
-    },
-    {
-      "title": "Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "source": "Show HN",
-      "summary": "👍 328 points · 💬 120 comments · 讨论: https://news.ycombinator.com/item?id=49833867",
-      "published_at": "2026-09-24T17:21:36Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260925"
-    },
-    {
-      "title": "[mikehasa/golive-skill] Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-      "url": "https://github.com/mikehasa/golive-skill",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 924 stars · 新建于 2026-09-23 · 语言: TypeScript",
-      "published_at": "2026-09-23T13:37:26Z",
-      "score": 142,
-      "category": "tools",
-      "added_date": "20260925"
-    },
-    {
-      "title": "[yetone/magpie] Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "url": "https://github.com/yetone/magpie",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 744 stars · 新建于 2026-09-23 · 语言: Go",
-      "published_at": "2026-09-23T16:22:35Z",
-      "score": 124,
-      "category": "tools",
-      "added_date": "20260925"
-    },
-    {
-      "title": "[nokia-applied-research/AnyJev] Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
-      "url": "https://github.com/nokia-applied-research/AnyJev",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 573 stars · 新建于 2026-09-21 · 语言: Python",
-      "published_at": "2026-09-21T05:55:40Z",
-      "score": 107,
-      "category": "tools",
-      "added_date": "20260925"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: xAI launched ~3 years ago  Since then:  Colossus 1 + Colossus 2 ≈ 670k GPUs  Grok Imagi",
-      "url": "https://x.com/minchoi/status/2103453794097140218",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: xAI launched ~3 years ago\n\nSince then:\n\nColossus 1 + Colossus 2 ≈ 670k GPUs\n\nGrok Imagine\nGrok Voice \nGrok Build\nGrok Bot\nGrok…",
-      "published_at": "Fri Sep 25 11:57:19 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260925"
     }
   ]
 }
