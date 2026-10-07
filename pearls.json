@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-06T12:01:01.722156",
+  "updated_at": "2026-10-07T12:01:10.274113",
   "pearls": [
+    {
+      "title": "@_akhaliq: RT @ayanb: Your AI is vaporware without deep integrations with your customers’ systems of record.  I",
+      "url": "https://x.com/_akhaliq/status/2107506826904572267",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @ayanb: Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration…",
+      "published_at": "Tue Oct 06 16:22:37 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261007"
+    },
+    {
+      "title": "@levelsio: RT @jaivinwylde: I put the entire game of Minecraft inside twitter.. with WORKING multiplayer 💀 http",
+      "url": "https://x.com/levelsio/status/2107789062316716444",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @jaivinwylde: I put the entire game of Minecraft inside twitter.. with WORKING multiplayer 💀 https://t.co/dpCLo0PvLp",
+      "published_at": "Wed Oct 07 11:04:07 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261007"
+    },
+    {
+      "title": "@levelsio: I own land and property in exactly these areas and will keep buying land and property in these areas",
+      "url": "https://x.com/levelsio/status/2107501437135520070",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I own land and property in exactly these areas and will keep buying land and property in these areas\n\nThis is exactly my post-AGI thesis too\n\nScarse coastal or mountain land with clean air",
+      "published_at": "Tue Oct 06 16:01:12 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261007"
+    },
+    {
+      "title": "@bilawalsidhu: RT @bilawalsidhu: Procedural 3D modeling is super cool, but you don't need to be a Houdini expert to",
+      "url": "https://x.com/bilawalsidhu/status/2107734055622156320",
+      "source": "X - @bilawalsidhu (AI builder)",
+      "summary": "RT @bilawalsidhu: Procedural 3D modeling is super cool, but you don't need to be a Houdini expert to take advantage of it. Here's a stellar…",
+      "published_at": "Wed Oct 07 07:25:33 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261007"
+    },
+    {
+      "title": "@venturetwins: Someone discovered a new Amazon AI feature that summarizes what it knows about you and I am crying o",
+      "url": "https://x.com/venturetwins/status/2107673005732311301",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Someone discovered a new Amazon AI feature that summarizes what it knows about you and I am crying of laughter https://t.co/KbwX2SpCMu",
+      "published_at": "Wed Oct 07 03:22:57 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261007"
+    },
     {
       "title": "[Jakeschincariol/replica-skill] Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "url": "https://github.com/Jakeschincariol/replica-skill",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260928"
-    },
-    {
-      "title": "Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "source": "Show HN",
-      "summary": "👍 323 points · 💬 88 comments · 讨论: https://news.ycombinator.com/item?id=49858513",
-      "published_at": "2026-09-26T17:10:40Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260927"
-    },
-    {
-      "title": "[Rizzo-AI-Academy/rizzo-flow] The open, local take on Jev: typed decisions from an LLM, without generating a single token",
-      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 652 stars · 新建于 2026-09-21 · 语言: Python",
-      "published_at": "2026-09-21T00:00:02Z",
-      "score": 115,
-      "category": "tools",
-      "added_date": "20260927"
-    },
-    {
-      "title": "@levelsio: Got a package from @DHH 🫨 https://t.co/Qa18Dn2YoK",
-      "url": "https://x.com/levelsio/status/2103917038972354703",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Got a package from @DHH 🫨 https://t.co/Qa18Dn2YoK",
-      "published_at": "Sat Sep 26 18:38:05 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260927"
-    },
-    {
-      "title": "@levelsio: It's really crazy how strongly wealth inverse correlates with regulatory burden  If you make it easy",
-      "url": "https://x.com/levelsio/status/2103855452828147936",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "It's really crazy how strongly wealth inverse correlates with regulatory burden\n\nIf you make it easy for people to start and run businesses and don't get in their way too much, everyone gets wealthier",
-      "published_at": "Sat Sep 26 14:33:22 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260927"
-    },
-    {
-      "title": "@venturetwins: Marketing my cat like a new Apple product https://t.co/6S5y7mWzOu",
-      "url": "https://x.com/venturetwins/status/2103947617227194791",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "Marketing my cat like a new Apple product https://t.co/6S5y7mWzOu",
-      "published_at": "Sat Sep 26 20:39:36 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260927"
     }
   ]
 }
