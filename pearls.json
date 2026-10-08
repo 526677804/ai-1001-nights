@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-07T12:01:10.274113",
+  "updated_at": "2026-10-08T11:59:47.091553",
   "pearls": [
+    {
+      "title": "Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "source": "Show HN",
+      "summary": "👍 535 points · 💬 143 comments · 讨论: https://news.ycombinator.com/item?id=49994443",
+      "published_at": "2026-10-07T15:44:21Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261008"
+    },
+    {
+      "title": "A walkable 3D art history museum built from Wikipedia",
+      "url": "https://artmuseum.artfrompixels.com/",
+      "source": "Show HN",
+      "summary": "👍 157 points · 💬 62 comments · 讨论: https://news.ycombinator.com/item?id=49992057",
+      "published_at": "2026-10-07T12:51:08Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261008"
+    },
+    {
+      "title": "@levelsio: RT @dhh: Thrilled to welcome @SpaceXAI as a Founding Corporate Patron for the Omacom Foundation. Tha",
+      "url": "https://x.com/levelsio/status/2108164889394999474",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @dhh: Thrilled to welcome @SpaceXAI as a Founding Corporate Patron for the Omacom Foundation. That's $1,500,000 in @grok tokens for the…",
+      "published_at": "Thu Oct 08 11:57:32 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261008"
+    },
+    {
+      "title": "@levelsio: RT @MsMelChen: Which way, Western man? https://t.co/lejZ5d2oYP",
+      "url": "https://x.com/levelsio/status/2108122439443947560",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @MsMelChen: Which way, Western man? https://t.co/lejZ5d2oYP",
+      "published_at": "Thu Oct 08 09:08:51 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261008"
+    },
+    {
+      "title": "@levelsio: Inspired by @jaivinwylde I put the entire game of Quake III with WORKING multiplayer inside this twe",
+      "url": "https://x.com/levelsio/status/2107815963269685485",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Inspired by @jaivinwylde I put the entire game of Quake III with WORKING multiplayer inside this tweet 🐣\n\nJust click below to play!\n\nhttps://t.co/34vymMfzTr",
+      "published_at": "Wed Oct 07 12:51:01 +0000 2026",
+      "score": 99,
+      "category": "community",
+      "added_date": "20261008"
+    },
     {
       "title": "@_akhaliq: RT @ayanb: Your AI is vaporware without deep integrations with your customers’ systems of record.  I",
       "url": "https://x.com/_akhaliq/status/2107506826904572267",
@@ -450,56 +500,6 @@
       "score": 121,
       "category": "tools",
       "added_date": "20260929"
-    },
-    {
-      "title": "[dzhng/jevgrep] Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-      "url": "https://github.com/dzhng/jevgrep",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1094 stars · 新建于 2026-09-26 · 语言: TypeScript",
-      "published_at": "2026-09-26T04:06:56Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260928"
-    },
-    {
-      "title": "[feitangyuan/onetake] Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "url": "https://github.com/feitangyuan/onetake",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 634 stars · 新建于 2026-09-26 · 语言: Python",
-      "published_at": "2026-09-26T05:35:17Z",
-      "score": 113,
-      "category": "tools",
-      "added_date": "20260928"
-    },
-    {
-      "title": "TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com/",
-      "source": "Show HN",
-      "summary": "👍 110 points · 💬 44 comments · 讨论: https://news.ycombinator.com/item?id=49867775",
-      "published_at": "2026-09-27T15:51:28Z",
-      "score": 110,
-      "category": "tools",
-      "added_date": "20260928"
-    },
-    {
-      "title": "[kydlikebtc/awesome-jev] 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
-      "url": "https://github.com/kydlikebtc/awesome-jev",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 582 stars · 新建于 2026-09-22 · 语言: Python",
-      "published_at": "2026-09-22T02:22:54Z",
-      "score": 108,
-      "category": "tools",
-      "added_date": "20260928"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: Opus 5.5 is pretty wild.  People just dropped some new insane results  1. AI solved mot",
-      "url": "https://x.com/minchoi/status/2104517100773761238",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: Opus 5.5 is pretty wild.\n\nPeople just dropped some new insane results\n\n1. AI solved motion graphic 🤯\nhttps://t.co/L9RfSxsA9g",
-      "published_at": "Mon Sep 28 10:22:31 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20260928"
     }
   ]
 }
