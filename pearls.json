@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-08T11:59:47.091553",
+  "updated_at": "2026-10-09T12:00:41.254221",
   "pearls": [
+    {
+      "title": "Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "source": "Show HN",
+      "summary": "👍 180 points · 💬 140 comments · 讨论: https://news.ycombinator.com/item?id=50016312",
+      "published_at": "2026-10-09T05:22:58Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261009"
+    },
+    {
+      "title": "Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "source": "Show HN",
+      "summary": "👍 178 points · 💬 30 comments · 讨论: https://news.ycombinator.com/item?id=50008047",
+      "published_at": "2026-10-08T16:37:24Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261009"
+    },
+    {
+      "title": "[mhtsec/ARTEX] AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1834 stars · 新建于 2026-10-08 · 语言: Go",
+      "published_at": "2026-10-08T05:33:06Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261009"
+    },
+    {
+      "title": "[LosaLosSantos/aurelio-finance] Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 808 stars · 新建于 2026-10-06 · 语言: Python",
+      "published_at": "2026-10-06T20:14:19Z",
+      "score": 130,
+      "category": "tools",
+      "added_date": "20261009"
+    },
+    {
+      "title": "@_akhaliq: RT @anvisha: Introducing Voyager: the open harness for S-tier video, graphics and games.  The Codex ",
+      "url": "https://x.com/_akhaliq/status/2108255934388818031",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @anvisha: Introducing Voyager: the open harness for S-tier video, graphics and games.\n\nThe Codex for creative work.\n\nMost AI tools are b…",
+      "published_at": "Thu Oct 08 17:59:18 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261009"
+    },
     {
       "title": "Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20260930"
-    },
-    {
-      "title": "HN.watch – Videos of all Hacker News posts",
-      "url": "https://hn.watch/",
-      "source": "Show HN",
-      "summary": "👍 194 points · 💬 96 comments · 讨论: https://news.ycombinator.com/item?id=49879401",
-      "published_at": "2026-09-28T15:16:13Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260929"
-    },
-    {
-      "title": "[KKKKhazix/AIHOT] 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 2381 stars · 新建于 2026-09-28 · 语言: TypeScript",
-      "published_at": "2026-09-28T23:40:05Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20260929"
-    },
-    {
-      "title": "Destroy Any Website with Stickman",
-      "url": "https://destroy.spritefusion.com/",
-      "source": "Show HN",
-      "summary": "👍 145 points · 💬 36 comments · 讨论: https://news.ycombinator.com/item?id=49880601",
-      "published_at": "2026-09-28T16:31:28Z",
-      "score": 145,
-      "category": "tools",
-      "added_date": "20260929"
-    },
-    {
-      "title": "PaperMono, e-ink fridge magnet shopping list with mobile web page",
-      "url": "https://github.com/seamusc/papermono-shopping-list",
-      "source": "Show HN",
-      "summary": "👍 138 points · 💬 58 comments · 讨论: https://news.ycombinator.com/item?id=49875801",
-      "published_at": "2026-09-28T10:14:41Z",
-      "score": 138,
-      "category": "tools",
-      "added_date": "20260929"
-    },
-    {
-      "title": "Free alternative to graphics design giants",
-      "url": "https://scissor.studio/",
-      "source": "Show HN",
-      "summary": "👍 121 points · 💬 49 comments · 讨论: https://news.ycombinator.com/item?id=49875308",
-      "published_at": "2026-09-28T08:55:31Z",
-      "score": 121,
-      "category": "tools",
-      "added_date": "20260929"
     }
   ]
 }
