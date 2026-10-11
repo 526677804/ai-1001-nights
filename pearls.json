@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-10T11:59:58.150943",
+  "updated_at": "2026-10-11T13:07:38.618114",
   "pearls": [
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "source": "Show HN",
+      "summary": "👍 256 points · 💬 109 comments · 讨论: https://news.ycombinator.com/item?id=50038634",
+      "published_at": "2026-10-11T00:46:48Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261011"
+    },
+    {
+      "title": "[rociiu/talorys] Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 628 stars · 新建于 2026-10-10 · 语言: TypeScript",
+      "published_at": "2026-10-10T09:46:56Z",
+      "score": 112,
+      "category": "tools",
+      "added_date": "20261011"
+    },
+    {
+      "title": "@dotey: RT @yetone: 这条推文的建议很好，但\"把压缩调到 400K\"对每个人都成立吗？不一定。  这就是 magpie 要做本地 agent 可观测性分析的原因。每个 agent 都有自己独特的行为",
+      "url": "https://x.com/dotey/status/2108972823440220375",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @yetone: 这条推文的建议很好，但\"把压缩调到 400K\"对每个人都成立吗？不一定。\n\n这就是 magpie 要做本地 agent 可观测性分析的原因。每个 agent 都有自己独特的行为，每个用户也有自己的使用习惯，任务难度也因人而异，所以不存在一份对所有人都最优…",
+      "published_at": "Sat Oct 10 17:27:58 +0000 2026",
+      "score": 88,
+      "category": "community",
+      "added_date": "20261011"
+    },
+    {
+      "title": "@xiaohu: 上周参加了LibTV AI短片黑客松活动...  嘿嘿，只是去现场观摩，不是去比赛啊  感叹高手就是高手啊，也感叹，即使AI能力再强，如果想再短时间内完成好的作品，审美和专业知识经验还是非常重要的..",
+      "url": "https://x.com/xiaohu/status/2108884435487908043",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "上周参加了LibTV AI短片黑客松活动...\n\n嘿嘿，只是去现场观摩，不是去比赛啊\n\n感叹高手就是高手啊，也感叹，即使AI能力再强，如果想再短时间内完成好的作品，审美和专业知识经验还是非常重要的...\n\n下面这些AI短片都是通过LibTV的工具在48小时内容完成的，你们看看...\n\n虽然现在的工具能让人人都制作一些小短片了，但是要达到能看好看的，还是需要经验加成的...\n\n比如下面这部\n\n金奖/",
+      "published_at": "Sat Oct 10 11:36:45 +0000 2026",
+      "score": 87,
+      "category": "community",
+      "added_date": "20261011"
+    },
+    {
+      "title": "@xiaohu: 牛P，可以确定Grok Bot现在就是由Opus 5.5驱动的  让Grok Bot 学习了指南  一击命中生成视频  我上传了我的形象让它给我配音，直接就是下面的效果↓ https://t.co/2",
+      "url": "https://x.com/xiaohu/status/2108754371609813340",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "牛P，可以确定Grok Bot现在就是由Opus 5.5驱动的\n\n让Grok Bot 学习了指南\n\n一击命中生成视频\n\n我上传了我的形象让它给我配音，直接就是下面的效果↓ https://t.co/2HFYmvGFga",
+      "published_at": "Sat Oct 10 02:59:55 +0000 2026",
+      "score": 86,
+      "category": "community",
+      "added_date": "20261011"
+    },
     {
       "title": "Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
       "url": "https://carrierexplode.com/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261002"
-    },
-    {
-      "title": "[nanaism/yomiyasu] AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 763 stars · 新建于 2026-09-30 · 语言: Python",
-      "published_at": "2026-09-30T11:49:32Z",
-      "score": 126,
-      "category": "tools",
-      "added_date": "20261001"
-    },
-    {
-      "title": "[echris6/motion-video-kit] Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "url": "https://github.com/echris6/motion-video-kit",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 734 stars · 新建于 2026-09-27 · 语言: Python",
-      "published_at": "2026-09-27T14:11:14Z",
-      "score": 123,
-      "category": "tools",
-      "added_date": "20261001"
-    },
-    {
-      "title": "@xiaohu: RT @claudesfun: Claim your spots  Apply: https://t.co/RrAbXVkZjN  Fcfs https://t.co/Zco7NhxwXZ",
-      "url": "https://x.com/xiaohu/status/2105620185633964100",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "RT @claudesfun: Claim your spots\n\nApply: https://t.co/RrAbXVkZjN\n\nFcfs https://t.co/Zco7NhxwXZ",
-      "published_at": "Thu Oct 01 11:25:47 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261001"
-    },
-    {
-      "title": "@dotey: Figure AI 让旗下的 Figure 02 人形机器人自己跳进芬兰一家铸造厂的钢水里，以此让这一代机器人退役。熔出来的金属会被加工成限量纪念品。  Figure 02 是 Figure 的第二代",
-      "url": "https://x.com/dotey/status/2105430166876869113",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "Figure AI 让旗下的 Figure 02 人形机器人自己跳进芬兰一家铸造厂的钢水里，以此让这一代机器人退役。熔出来的金属会被加工成限量纪念品。\n\nFigure 02 是 Figure 的第二代人形机器人，公司很多第一次都由它完成：第一次进 BMW 工厂上岗，第一次运行 Helix（Figure 自研的机器人 AI 模型，负责看画面、理解指令并控制动作），第一次做家务，第一次做物流工作。现在",
-      "published_at": "Wed Sep 30 22:50:43 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261001"
-    },
-    {
-      "title": "@levelsio: I've been actively fighting almost guaranteed age-related loneliness for years, studies show after a",
-      "url": "https://x.com/levelsio/status/2105276466019672559",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I've been actively fighting almost guaranteed age-related loneliness for years, studies show after age 30 you start seeing friends less and when you get older especially men don't have any social life",
-      "published_at": "Wed Sep 30 12:39:58 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261001"
     }
   ]
 }
