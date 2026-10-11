@@ -8,6 +8,7 @@ import json
 import subprocess
 import sys
 import os
+import time
 from datetime import datetime
 
 
@@ -18,36 +19,40 @@ def load_config() -> dict:
         return json.load(f)
 
 
-def send_to_feishu(chat_id: str, content: str, msg_type: str = 'markdown') -> bool:
+def send_to_feishu(chat_id: str, content: str, msg_type: str = 'markdown',
+                   max_retries: int = 2, retry_delay: int = 10) -> bool:
     """
-    发送消息到飞书群
-    使用 lark-cli 命令行工具
+    发送消息到飞书群（lark-cli，bot 身份）
+    网络瞬时故障（如 transport EOF）时自动重试——实测 2026-10-11 曾因一次
+    网络抖动导致当晚推送失败，告警私信几秒后却发送成功，重试即可自愈。
     """
-    try:
-        # 使用 lark-cli 以机器人身份发送消息
-        cmd = [
-            'lark-cli', 'im', '+messages-send', '--as', 'bot',
-            '--chat-id', chat_id,
-            '--markdown', content
-        ]
-        
-        result = subprocess.run(
-            cmd,
-            capture_output=True,
-            text=True,
-            timeout=60
-        )
-        
-        if result.returncode == 0:
-            print("✅ 飞书消息发送成功")
-            return True
-        else:
-            print(f"❌ 飞书消息发送失败: {result.stderr}")
-            return False
-            
-    except Exception as e:
-        print(f"❌ 发送异常: {e}")
-        return False
+    cmd = [
+        'lark-cli', 'im', '+messages-send', '--as', 'bot',
+        '--chat-id', chat_id,
+        '--markdown', content
+    ]
+
+    for attempt in range(max_retries + 1):
+        try:
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                timeout=60
+            )
+
+            if result.returncode == 0:
+                print("✅ 飞书消息发送成功")
+                return True
+            print(f"❌ 飞书消息发送失败（第 {attempt + 1} 次）: {result.stderr}")
+        except Exception as e:
+            print(f"❌ 发送异常（第 {attempt + 1} 次）: {e}")
+
+        if attempt < max_retries:
+            print(f"   ⏳ {retry_delay} 秒后重试...")
+            time.sleep(retry_delay)
+
+    return False
 
 
 def send_text_message(chat_id: str, text: str) -> bool:
