@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-11T13:07:38.618114",
+  "updated_at": "2026-10-12T12:00:25.986284",
   "pearls": [
+    {
+      "title": "BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "source": "Show HN",
+      "summary": "👍 196 points · 💬 117 comments · 讨论: https://news.ycombinator.com/item?id=50042333",
+      "published_at": "2026-10-11T12:01:28Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261012"
+    },
+    {
+      "title": "@levelsio: RT @signulll: it’s clear we need to retire the term vibe coding because the models now produce bette",
+      "url": "https://x.com/levelsio/status/2109409869845737936",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @signulll: it’s clear we need to retire the term vibe coding because the models now produce better architecture &amp; way more coherent code…",
+      "published_at": "Sun Oct 11 22:24:38 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261012"
+    },
+    {
+      "title": "@levelsio: As I posted before, I've cancelled almost all of the SaaS subscriptions for my business  The only th",
+      "url": "https://x.com/levelsio/status/2109352968122515681",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "As I posted before, I've cancelled almost all of the SaaS subscriptions for my business\n\nThe only thing I still pay for as a business:\n- AI inference\n- Hetzner server hosting\n- Cloudflare storage\n- Ba",
+      "published_at": "Sun Oct 11 18:38:32 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261012"
+    },
+    {
+      "title": "[jwuthri-cloud/Tracely-ai] No description",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 469 stars · 新建于 2026-10-11 · 语言: N/A",
+      "published_at": "2026-10-11T15:38:03Z",
+      "score": 96,
+      "category": "tools",
+      "added_date": "20261012"
+    },
+    {
+      "title": "@levelsio: I know what this guy feels very well, but it's not like I can control how the world changes  Do you ",
+      "url": "https://x.com/levelsio/status/2109386634080686276",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I know what this guy feels very well, but it's not like I can control how the world changes\n\nDo you want me to instead lie about where I think things are going or tell you what I think?\n\nI prefer we c",
+      "published_at": "Sun Oct 11 20:52:18 +0000 2026",
+      "score": 93,
+      "category": "community",
+      "added_date": "20261012"
+    },
     {
       "title": "WallHop – 12ft.io is gone, so I built a replacement",
       "url": "https://wallhop.io/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261003"
-    },
-    {
-      "title": "[CopilotKit/OpenDots] Your always-on AI coworkers that move between text, calls, and Slack.",
-      "url": "https://github.com/CopilotKit/OpenDots",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 898 stars · 新建于 2026-09-29 · 语言: TypeScript",
-      "published_at": "2026-09-29T17:13:58Z",
-      "score": 139,
-      "category": "tools",
-      "added_date": "20261002"
-    },
-    {
-      "title": "@_akhaliq: RT @tavus: Introducing Griffin, the first model to pass the video Turing test.  48% of people who ta",
-      "url": "https://x.com/_akhaliq/status/2105710101525045396",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @tavus: Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real h…",
-      "published_at": "Thu Oct 01 17:23:05 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261002"
-    },
-    {
-      "title": "@levelsio: RT @AtelierMissor_: The statue of Prometheus is finally finished.  It was cast in Paris, crossed the",
-      "url": "https://x.com/levelsio/status/2105904393644122420",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @AtelierMissor_: The statue of Prometheus is finally finished.\n\nIt was cast in Paris, crossed the Atlantic, and was assembled at Starbas…",
-      "published_at": "Fri Oct 02 06:15:07 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261002"
-    },
-    {
-      "title": "@levelsio: A good example @johnonolan sent me today  An Apple Store in Dubai where you have Apple Watches lying",
-      "url": "https://x.com/levelsio/status/2105649487788036574",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "A good example @johnonolan sent me today\n\nAn Apple Store in Dubai where you have Apple Watches lying around freely with the door open, not secured, not behind glass\n\nRight by the front door!\n\nA high t",
-      "published_at": "Thu Oct 01 13:22:13 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261002"
-    },
-    {
-      "title": "@levelsio: I'm noticing Westerners are continously having lower standards every year and seem to not even notic",
-      "url": "https://x.com/levelsio/status/2105629993749369122",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I'm noticing Westerners are continously having lower standards every year and seem to not even notice the declining quality standards of everything around them\n\nI do notice it and when I tell them (IR",
-      "published_at": "Thu Oct 01 12:04:45 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261002"
     }
   ]
 }
