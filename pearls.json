@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-13T12:00:07.842316",
+  "updated_at": "2026-10-14T12:00:47.478932",
   "pearls": [
+    {
+      "title": "Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "source": "Show HN",
+      "summary": "👍 465 points · 💬 121 comments · 讨论: https://news.ycombinator.com/item?id=50077020",
+      "published_at": "2026-10-13T19:11:48Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261014"
+    },
+    {
+      "title": "How random are you?",
+      "url": "https://lab.specr.net/rigged-draw/",
+      "source": "Show HN",
+      "summary": "👍 162 points · 💬 82 comments · 讨论: https://news.ycombinator.com/item?id=50074909",
+      "published_at": "2026-10-13T16:57:57Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261014"
+    },
+    {
+      "title": "[deeplethe/solid-glass] A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 580 stars · 新建于 2026-10-12 · 语言: TypeScript",
+      "published_at": "2026-10-12T09:19:02Z",
+      "score": 108,
+      "category": "tools",
+      "added_date": "20261014"
+    },
+    {
+      "title": "Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "source": "Show HN",
+      "summary": "👍 107 points · 💬 68 comments · 讨论: https://news.ycombinator.com/item?id=50080275",
+      "published_at": "2026-10-13T23:13:23Z",
+      "score": 107,
+      "category": "tools",
+      "added_date": "20261014"
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change",
+      "url": "https://blumify.io/people",
+      "source": "Show HN",
+      "summary": "👍 103 points · 💬 68 comments · 讨论: https://news.ycombinator.com/item?id=50081151",
+      "published_at": "2026-10-14T01:09:13Z",
+      "score": 103,
+      "category": "tools",
+      "added_date": "20261014"
+    },
     {
       "title": "[zhuyansen/new-term-radar] Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "url": "https://github.com/zhuyansen/new-term-radar",
@@ -450,56 +500,6 @@
       "score": 92,
       "category": "community",
       "added_date": "20261005"
-    },
-    {
-      "title": "[nykooi1/vibe-wise] A Claude Code plugin that helps you learn how to build while AI writes the code.",
-      "url": "https://github.com/nykooi1/vibe-wise",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 834 stars · 新建于 2026-09-29 · 语言: Python",
-      "published_at": "2026-09-29T01:29:57Z",
-      "score": 133,
-      "category": "tools",
-      "added_date": "20261004"
-    },
-    {
-      "title": "[QingYunA/answer-me-with-html] Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 741 stars · 新建于 2026-10-02 · 语言: JavaScript",
-      "published_at": "2026-10-02T09:57:40Z",
-      "score": 124,
-      "category": "tools",
-      "added_date": "20261004"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: I gave Opus 5.5 one prompt + music.  12 hours later, I woke up to this. https://t.co/mV",
-      "url": "https://x.com/minchoi/status/2106694937236722163",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: I gave Opus 5.5 one prompt + music.\n\n12 hours later, I woke up to this. https://t.co/mVeVANYNjR",
-      "published_at": "Sun Oct 04 10:36:28 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261004"
-    },
-    {
-      "title": "@levelsio: This is great and another example of city states attracting all the skilled Europeans with better li",
-      "url": "https://x.com/levelsio/status/2106376810305040731",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "This is great and another example of city states attracting all the skilled Europeans with better living, working and regulatory conditions!",
-      "published_at": "Sat Oct 03 13:32:20 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261004"
-    },
-    {
-      "title": "[oil-oil/oil-ui] 把 AI 的 UI 设计能力推到极限。",
-      "url": "https://github.com/oil-oil/oil-ui",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 424 stars · 新建于 2026-09-30 · 语言: Python",
-      "published_at": "2026-09-30T03:55:35Z",
-      "score": 92,
-      "category": "tools",
-      "added_date": "20261004"
     }
   ]
 }
