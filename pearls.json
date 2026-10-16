@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-15T12:00:48.513308",
+  "updated_at": "2026-10-16T12:00:55.147211",
   "pearls": [
+    {
+      "title": "Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "source": "Show HN",
+      "summary": "👍 297 points · 💬 192 comments · 讨论: https://news.ycombinator.com/item?id=50102247",
+      "published_at": "2026-10-15T11:38:57Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261016"
+    },
+    {
+      "title": "[feder-cr/open_scion] Open-source version of Scion: version control built for coding agents.",
+      "url": "https://github.com/feder-cr/open_scion",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1028 stars · 新建于 2026-10-15 · 语言: Go",
+      "published_at": "2026-10-15T13:12:02Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261016"
+    },
+    {
+      "title": "[Zfinix/eleven] Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "url": "https://github.com/Zfinix/eleven",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 560 stars · 新建于 2026-10-13 · 语言: TypeScript",
+      "published_at": "2026-10-13T13:47:31Z",
+      "score": 106,
+      "category": "tools",
+      "added_date": "20261016"
+    },
+    {
+      "title": "@xiaohu: 特斯拉发布全新的Roadste跑车  现场直接飞起来了😂  镁、钛、碳纤维，配合线控转向  三个版本：Performance 是双座公路版，Thrust 是双座推进增强版，Rocket 是单座邀请制版",
+      "url": "https://x.com/xiaohu/status/2110913842402484454",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "特斯拉发布全新的Roadste跑车\n\n现场直接飞起来了😂\n\n镁、钛、碳纤维，配合线控转向\n\n三个版本：Performance 是双座公路版，Thrust 是双座推进增强版，Rocket 是单座邀请制版本\n\nThrust 套件：0–60 mph（约 96.6 km/h）不到 1 秒\n\n反重力地面密封吸附：多模式底盘主动抽气系统，即便在静止状态下，产生的极致下压力也足以将整车吸附在天花板上倒挂。\n\n可",
+      "published_at": "Fri Oct 16 02:00:53 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261016"
+    },
+    {
+      "title": "@dotey: RT @Saccc_c: https://t.co/9E8UhyOWsX",
+      "url": "https://x.com/dotey/status/2110726230760624560",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @Saccc_c: https://t.co/9E8UhyOWsX",
+      "published_at": "Thu Oct 15 13:35:23 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261016"
+    },
     {
       "title": "Petal, open-source CoScreen/ScreenHero finally free",
       "url": "https://petal.live/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261007"
-    },
-    {
-      "title": "[Jakeschincariol/replica-skill] Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 607 stars · 新建于 2026-10-03 · 语言: Python",
-      "published_at": "2026-10-03T12:07:49Z",
-      "score": 110,
-      "category": "tools",
-      "added_date": "20261006"
-    },
-    {
-      "title": "@xiaohu: RT @higgsfield_ai: Introducing Higgsfield Ads Studio.  The first ROAS-driven static ads content mach",
-      "url": "https://x.com/xiaohu/status/2107371581848875401",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "RT @higgsfield_ai: Introducing Higgsfield Ads Studio.\n\nThe first ROAS-driven static ads content machine.\n\n&gt; Does 10,000 hours worth of deep…",
-      "published_at": "Tue Oct 06 07:25:12 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261006"
-    },
-    {
-      "title": "[elstongun/leviathan] **Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "url": "https://github.com/elstongun/leviathan",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 524 stars · 新建于 2026-10-05 · 语言: Rust",
-      "published_at": "2026-10-05T08:57:44Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20261006"
-    },
-    {
-      "title": "@_akhaliq: RT @ClementDelangue: We turned Claude Code, Codex, Hermes, Pi, @opencode and other coding harnesses ",
-      "url": "https://x.com/_akhaliq/status/2107124726006940040",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @ClementDelangue: We turned Claude Code, Codex, Hermes, Pi, @opencode and other coding harnesses into RL environments. No changes to the…",
-      "published_at": "Mon Oct 05 15:04:17 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261006"
-    },
-    {
-      "title": "@levelsio: RT @Baconbrix: I added Starships to Apple Maps so you can watch reusable rockets launch endlessly fr",
-      "url": "https://x.com/levelsio/status/2107242859044786620",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @Baconbrix: I added Starships to Apple Maps so you can watch reusable rockets launch endlessly from Starbase, TX. https://t.co/lQchyY80HX",
-      "published_at": "Mon Oct 05 22:53:42 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261006"
     }
   ]
 }
