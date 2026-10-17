@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-16T12:00:55.147211",
+  "updated_at": "2026-10-17T12:00:50.447403",
   "pearls": [
+    {
+      "title": "@dotey: RT @Khazix0918: https://t.co/lqZ5vGWM0J",
+      "url": "https://x.com/dotey/status/2111141214150164570",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @Khazix0918: https://t.co/lqZ5vGWM0J",
+      "published_at": "Fri Oct 16 17:04:23 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261017"
+    },
+    {
+      "title": "Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "source": "Show HN",
+      "summary": "👍 103 points · 💬 40 comments · 讨论: https://news.ycombinator.com/item?id=50127979",
+      "published_at": "2026-10-17T04:36:53Z",
+      "score": 103,
+      "category": "tools",
+      "added_date": "20261017"
+    },
+    {
+      "title": "@_akhaliq: RT @AndrewDai: Spent years watching models ace a single image and completely whiff on anything that ",
+      "url": "https://x.com/_akhaliq/status/2111145675400581487",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @AndrewDai: Spent years watching models ace a single image and completely whiff on anything that moves or changes angle. Today we’re fix…",
+      "published_at": "Fri Oct 16 17:22:06 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261017"
+    },
+    {
+      "title": "@levelsio: In a similar scramble I did to jump on AI in late 2022 (moving from remote work and nomads to AI app",
+      "url": "https://x.com/levelsio/status/2111142856094265595",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "In a similar scramble I did to jump on AI in late 2022 (moving from remote work and nomads to AI apps), I am now scrambling to chase any remaining moats\n\nAs AI companies will suck up everything else (",
+      "published_at": "Fri Oct 16 17:10:54 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261017"
+    },
+    {
+      "title": "@levelsio: RT @walterkirn: My wife just told me that it's eccentric of me to take baths instead of showers. Tha",
+      "url": "https://x.com/levelsio/status/2111140115108053266",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @walterkirn: My wife just told me that it's eccentric of me to take baths instead of showers. That it's especially eccentric because I'm…",
+      "published_at": "Fri Oct 16 17:00:01 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261017"
+    },
     {
       "title": "Unfenced – Land for sale that borders public land",
       "url": "https://unfenced.land/",
@@ -450,56 +500,6 @@
       "score": 99,
       "category": "community",
       "added_date": "20261008"
-    },
-    {
-      "title": "@_akhaliq: RT @ayanb: Your AI is vaporware without deep integrations with your customers’ systems of record.  I",
-      "url": "https://x.com/_akhaliq/status/2107506826904572267",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @ayanb: Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration…",
-      "published_at": "Tue Oct 06 16:22:37 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261007"
-    },
-    {
-      "title": "@levelsio: RT @jaivinwylde: I put the entire game of Minecraft inside twitter.. with WORKING multiplayer 💀 http",
-      "url": "https://x.com/levelsio/status/2107789062316716444",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @jaivinwylde: I put the entire game of Minecraft inside twitter.. with WORKING multiplayer 💀 https://t.co/dpCLo0PvLp",
-      "published_at": "Wed Oct 07 11:04:07 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261007"
-    },
-    {
-      "title": "@levelsio: I own land and property in exactly these areas and will keep buying land and property in these areas",
-      "url": "https://x.com/levelsio/status/2107501437135520070",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I own land and property in exactly these areas and will keep buying land and property in these areas\n\nThis is exactly my post-AGI thesis too\n\nScarse coastal or mountain land with clean air",
-      "published_at": "Tue Oct 06 16:01:12 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261007"
-    },
-    {
-      "title": "@bilawalsidhu: RT @bilawalsidhu: Procedural 3D modeling is super cool, but you don't need to be a Houdini expert to",
-      "url": "https://x.com/bilawalsidhu/status/2107734055622156320",
-      "source": "X - @bilawalsidhu (AI builder)",
-      "summary": "RT @bilawalsidhu: Procedural 3D modeling is super cool, but you don't need to be a Houdini expert to take advantage of it. Here's a stellar…",
-      "published_at": "Wed Oct 07 07:25:33 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261007"
-    },
-    {
-      "title": "@venturetwins: Someone discovered a new Amazon AI feature that summarizes what it knows about you and I am crying o",
-      "url": "https://x.com/venturetwins/status/2107673005732311301",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "Someone discovered a new Amazon AI feature that summarizes what it knows about you and I am crying of laughter https://t.co/KbwX2SpCMu",
-      "published_at": "Wed Oct 07 03:22:57 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261007"
     }
   ]
 }
