@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-17T12:00:50.447403",
+  "updated_at": "2026-10-18T12:00:41.681714",
   "pearls": [
+    {
+      "title": "Esp32sim – Run ESP32 firmware in the browser",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "source": "Show HN",
+      "summary": "👍 174 points · 💬 32 comments · 讨论: https://news.ycombinator.com/item?id=50131189",
+      "published_at": "2026-10-17T13:51:08Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261018"
+    },
+    {
+      "title": "[feder-cr/git-ai] Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1161 stars · 新建于 2026-10-15 · 语言: Go",
+      "published_at": "2026-10-15T13:12:02Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261018"
+    },
+    {
+      "title": "High-quality duck audio synthesizer",
+      "url": "https://celphase.github.io/duck-pond/",
+      "source": "Show HN",
+      "summary": "👍 143 points · 💬 31 comments · 讨论: https://news.ycombinator.com/item?id=50131006",
+      "published_at": "2026-10-17T13:28:46Z",
+      "score": 143,
+      "category": "tools",
+      "added_date": "20261018"
+    },
+    {
+      "title": "[Leonxlnx/earshot] Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 724 stars · 新建于 2026-10-15 · 语言: Python",
+      "published_at": "2026-10-15T06:52:46Z",
+      "score": 122,
+      "category": "tools",
+      "added_date": "20261018"
+    },
+    {
+      "title": "[LiCinCan/blender-ai-mcp-addon] AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 721 stars · 新建于 2026-10-15 · 语言: Python",
+      "published_at": "2026-10-15T22:30:47Z",
+      "score": 122,
+      "category": "tools",
+      "added_date": "20261018"
+    },
     {
       "title": "@dotey: RT @Khazix0918: https://t.co/lqZ5vGWM0J",
       "url": "https://x.com/dotey/status/2111141214150164570",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261009"
-    },
-    {
-      "title": "Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "source": "Show HN",
-      "summary": "👍 535 points · 💬 143 comments · 讨论: https://news.ycombinator.com/item?id=49994443",
-      "published_at": "2026-10-07T15:44:21Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261008"
-    },
-    {
-      "title": "A walkable 3D art history museum built from Wikipedia",
-      "url": "https://artmuseum.artfrompixels.com/",
-      "source": "Show HN",
-      "summary": "👍 157 points · 💬 62 comments · 讨论: https://news.ycombinator.com/item?id=49992057",
-      "published_at": "2026-10-07T12:51:08Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261008"
-    },
-    {
-      "title": "@levelsio: RT @dhh: Thrilled to welcome @SpaceXAI as a Founding Corporate Patron for the Omacom Foundation. Tha",
-      "url": "https://x.com/levelsio/status/2108164889394999474",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @dhh: Thrilled to welcome @SpaceXAI as a Founding Corporate Patron for the Omacom Foundation. That's $1,500,000 in @grok tokens for the…",
-      "published_at": "Thu Oct 08 11:57:32 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261008"
-    },
-    {
-      "title": "@levelsio: RT @MsMelChen: Which way, Western man? https://t.co/lejZ5d2oYP",
-      "url": "https://x.com/levelsio/status/2108122439443947560",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @MsMelChen: Which way, Western man? https://t.co/lejZ5d2oYP",
-      "published_at": "Thu Oct 08 09:08:51 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261008"
-    },
-    {
-      "title": "@levelsio: Inspired by @jaivinwylde I put the entire game of Quake III with WORKING multiplayer inside this twe",
-      "url": "https://x.com/levelsio/status/2107815963269685485",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Inspired by @jaivinwylde I put the entire game of Quake III with WORKING multiplayer inside this tweet 🐣\n\nJust click below to play!\n\nhttps://t.co/34vymMfzTr",
-      "published_at": "Wed Oct 07 12:51:01 +0000 2026",
-      "score": 99,
-      "category": "community",
-      "added_date": "20261008"
     }
   ]
 }
