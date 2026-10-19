@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-18T12:00:41.681714",
+  "updated_at": "2026-10-19T12:00:33.435301",
   "pearls": [
+    {
+      "title": "The Zelda timeline to catch up before the Ocarina of Time remake",
+      "url": "https://legendofhyrule.com/",
+      "source": "Show HN",
+      "summary": "👍 194 points · 💬 115 comments · 讨论: https://news.ycombinator.com/item?id=50140769",
+      "published_at": "2026-10-18T13:06:54Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261019"
+    },
+    {
+      "title": "WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "Show HN",
+      "summary": "👍 115 points · 💬 66 comments · 讨论: https://news.ycombinator.com/item?id=50145715",
+      "published_at": "2026-10-18T21:36:10Z",
+      "score": 115,
+      "category": "tools",
+      "added_date": "20261019"
+    },
+    {
+      "title": "@levelsio: RT @ExistentialEnso: You Can Eat Anything  (by tommcgovern27 on IG) https://t.co/JJxFyae2z0",
+      "url": "https://x.com/levelsio/status/2112123839673213105",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @ExistentialEnso: You Can Eat Anything\n\n(by tommcgovern27 on IG) https://t.co/JJxFyae2z0",
+      "published_at": "Mon Oct 19 10:08:59 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261019"
+    },
+    {
+      "title": "@levelsio: RT @TimSweeneyEpic: The games we've long wanted, which didn't exist because they'd cost several time",
+      "url": "https://x.com/levelsio/status/2112120758885335494",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @TimSweeneyEpic: The games we've long wanted, which didn't exist because they'd cost several times more to make than they'd earn back, w…",
+      "published_at": "Mon Oct 19 09:56:44 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261019"
+    },
+    {
+      "title": "@levelsio: When you sell your business, never ever agree on an earn out  Always get it in cash!  I know lots of",
+      "url": "https://x.com/levelsio/status/2111956757073596904",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "When you sell your business, never ever agree on an earn out\n\nAlways get it in cash!\n\nI know lots of horror stories of earn outs and have always rejected them",
+      "published_at": "Sun Oct 18 23:05:03 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261019"
+    },
     {
       "title": "Esp32sim – Run ESP32 firmware in the browser",
       "url": "https://github.com/mikroverk/esp32sim",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261010"
-    },
-    {
-      "title": "Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
-      "source": "Show HN",
-      "summary": "👍 180 points · 💬 140 comments · 讨论: https://news.ycombinator.com/item?id=50016312",
-      "published_at": "2026-10-09T05:22:58Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261009"
-    },
-    {
-      "title": "Making a flexible \"neon\" t-shirt with LED filaments",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "source": "Show HN",
-      "summary": "👍 178 points · 💬 30 comments · 讨论: https://news.ycombinator.com/item?id=50008047",
-      "published_at": "2026-10-08T16:37:24Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261009"
-    },
-    {
-      "title": "[mhtsec/ARTEX] AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1834 stars · 新建于 2026-10-08 · 语言: Go",
-      "published_at": "2026-10-08T05:33:06Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261009"
-    },
-    {
-      "title": "[LosaLosSantos/aurelio-finance] Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 808 stars · 新建于 2026-10-06 · 语言: Python",
-      "published_at": "2026-10-06T20:14:19Z",
-      "score": 130,
-      "category": "tools",
-      "added_date": "20261009"
-    },
-    {
-      "title": "@_akhaliq: RT @anvisha: Introducing Voyager: the open harness for S-tier video, graphics and games.  The Codex ",
-      "url": "https://x.com/_akhaliq/status/2108255934388818031",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @anvisha: Introducing Voyager: the open harness for S-tier video, graphics and games.\n\nThe Codex for creative work.\n\nMost AI tools are b…",
-      "published_at": "Thu Oct 08 17:59:18 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261009"
     }
   ]
 }
