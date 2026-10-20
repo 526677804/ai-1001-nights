@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-19T12:00:33.435301",
+  "updated_at": "2026-10-20T12:01:02.366567",
   "pearls": [
+    {
+      "title": "[mistralai/timestral] Repository for Timestral, the time-series foundation model by Mistral AI",
+      "url": "https://github.com/mistralai/timestral",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 631 stars · 新建于 2026-10-15 · 语言: Python",
+      "published_at": "2026-10-15T10:20:18Z",
+      "score": 113,
+      "category": "tools",
+      "added_date": "20261020"
+    },
+    {
+      "title": "[kitlangton/scrawl] Show an agent a problem: mark up, record, send",
+      "url": "https://github.com/kitlangton/scrawl",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 525 stars · 新建于 2026-10-14 · 语言: Rust",
+      "published_at": "2026-10-14T23:21:44Z",
+      "score": 102,
+      "category": "tools",
+      "added_date": "20261020"
+    },
+    {
+      "title": "[VITASID57/bluntcore-intimacy-lab] 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+      "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 507 stars · 新建于 2026-10-16 · 语言: N/A",
+      "published_at": "2026-10-16T15:46:10Z",
+      "score": 100,
+      "category": "tools",
+      "added_date": "20261020"
+    },
+    {
+      "title": "@_akhaliq: RT @spisallyouneed: Introducing SKY-001, the first Engineering World Model. On CAD and BIM tasks, it",
+      "url": "https://x.com/_akhaliq/status/2112244359546482702",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @spisallyouneed: Introducing SKY-001, the first Engineering World Model.\nOn CAD and BIM tasks, it beats GPT-6 Astra and every frontier m…",
+      "published_at": "Mon Oct 19 18:07:53 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261020"
+    },
+    {
+      "title": "@venturetwins: RT @ViggleAI: Today we are releasing JST-2, the world's first full-stack physics-native world founda",
+      "url": "https://x.com/venturetwins/status/2112228936323387861",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "RT @ViggleAI: Today we are releasing JST-2, the world's first full-stack physics-native world foundation model.  \n\nMany world models learn…",
+      "published_at": "Mon Oct 19 17:06:36 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261020"
+    },
     {
       "title": "The Zelda timeline to catch up before the Ocarina of Time remake",
       "url": "https://legendofhyrule.com/",
@@ -450,56 +500,6 @@
       "score": 86,
       "category": "community",
       "added_date": "20261011"
-    },
-    {
-      "title": "Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "source": "Show HN",
-      "summary": "👍 338 points · 💬 42 comments · 讨论: https://news.ycombinator.com/item?id=50024499",
-      "published_at": "2026-10-09T18:10:55Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261010"
-    },
-    {
-      "title": "The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
-      "source": "Show HN",
-      "summary": "👍 141 points · 💬 51 comments · 讨论: https://news.ycombinator.com/item?id=50024055",
-      "published_at": "2026-10-09T17:39:44Z",
-      "score": 141,
-      "category": "tools",
-      "added_date": "20261010"
-    },
-    {
-      "title": "[navyofficerpipe/Discord-Server-Raider] Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it...",
-      "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 605 stars · 新建于 2026-10-09 · 语言: N/A",
-      "published_at": "2026-10-09T13:50:19Z",
-      "score": 110,
-      "category": "tools",
-      "added_date": "20261010"
-    },
-    {
-      "title": "@dotey: RT @Yuchenj_UW: Saw a video yesterday:  A math PhD and her advisor spent 6 months proving a theorem.",
-      "url": "https://x.com/dotey/status/2108690833008640006",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @Yuchenj_UW: Saw a video yesterday:\n\nA math PhD and her advisor spent 6 months proving a theorem. Before publishing, they asked ChatGPT.…",
-      "published_at": "Fri Oct 09 22:47:26 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261010"
-    },
-    {
-      "title": "@_akhaliq: RT @StanleyWei4748: AI is already smart enough.  Real-world tasks are still slow, expensive and unre",
-      "url": "https://x.com/_akhaliq/status/2108598862508380175",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @StanleyWei4748: AI is already smart enough.\n\nReal-world tasks are still slow, expensive and unreliable, because we hand AI a computer b…",
-      "published_at": "Fri Oct 09 16:41:59 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261010"
     }
   ]
 }
