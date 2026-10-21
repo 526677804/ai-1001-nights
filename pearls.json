@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-20T12:01:02.366567",
+  "updated_at": "2026-10-21T12:00:50.537725",
   "pearls": [
+    {
+      "title": "SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source": "Show HN",
+      "summary": "👍 825 points · 💬 384 comments · 讨论: https://news.ycombinator.com/item?id=50170593",
+      "published_at": "2026-10-20T18:29:09Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261021"
+    },
+    {
+      "title": "VoidAccess – open-source dark web OSINT, from query to a graph",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "source": "Show HN",
+      "summary": "👍 185 points · 💬 13 comments · 讨论: https://news.ycombinator.com/item?id=50167286",
+      "published_at": "2026-10-20T14:49:33Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261021"
+    },
+    {
+      "title": "@dotey: RT @swyx: deepseek posted way more alpha on their zhihu page, if you only read twitter you are readi",
+      "url": "https://x.com/dotey/status/2112599620346069295",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @swyx: deepseek posted way more alpha on their zhihu page, if you only read twitter you are reading the laowai approved stuff\n\n\"Based on…",
+      "published_at": "Tue Oct 20 17:39:34 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261021"
+    },
+    {
+      "title": "@_akhaliq: RT @make_robot_go: Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz",
+      "url": "https://x.com/_akhaliq/status/2112565862691377462",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @make_robot_go: Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz",
+      "published_at": "Tue Oct 20 15:25:25 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261021"
+    },
+    {
+      "title": "@levelsio: 🇵🇱 Okay my final Poland video because we're leaving soon!  It was really fun and we had a great time",
+      "url": "https://x.com/levelsio/status/2112596438525817121",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "🇵🇱 Okay my final Poland video because we're leaving soon!\n\nIt was really fun and we had a great time\n\nI liked Warsaw most to be honest, a very modern city, a bit like East Asia in terms of modernity, ",
+      "published_at": "Tue Oct 20 17:26:55 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261021"
+    },
     {
       "title": "[mistralai/timestral] Repository for Timestral, the time-series foundation model by Mistral AI",
       "url": "https://github.com/mistralai/timestral",
@@ -450,56 +500,6 @@
       "score": 93,
       "category": "community",
       "added_date": "20261012"
-    },
-    {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "source": "Show HN",
-      "summary": "👍 256 points · 💬 109 comments · 讨论: https://news.ycombinator.com/item?id=50038634",
-      "published_at": "2026-10-11T00:46:48Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261011"
-    },
-    {
-      "title": "[rociiu/talorys] Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "url": "https://github.com/rociiu/talorys",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 628 stars · 新建于 2026-10-10 · 语言: TypeScript",
-      "published_at": "2026-10-10T09:46:56Z",
-      "score": 112,
-      "category": "tools",
-      "added_date": "20261011"
-    },
-    {
-      "title": "@dotey: RT @yetone: 这条推文的建议很好，但\"把压缩调到 400K\"对每个人都成立吗？不一定。  这就是 magpie 要做本地 agent 可观测性分析的原因。每个 agent 都有自己独特的行为",
-      "url": "https://x.com/dotey/status/2108972823440220375",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @yetone: 这条推文的建议很好，但\"把压缩调到 400K\"对每个人都成立吗？不一定。\n\n这就是 magpie 要做本地 agent 可观测性分析的原因。每个 agent 都有自己独特的行为，每个用户也有自己的使用习惯，任务难度也因人而异，所以不存在一份对所有人都最优…",
-      "published_at": "Sat Oct 10 17:27:58 +0000 2026",
-      "score": 88,
-      "category": "community",
-      "added_date": "20261011"
-    },
-    {
-      "title": "@xiaohu: 上周参加了LibTV AI短片黑客松活动...  嘿嘿，只是去现场观摩，不是去比赛啊  感叹高手就是高手啊，也感叹，即使AI能力再强，如果想再短时间内完成好的作品，审美和专业知识经验还是非常重要的..",
-      "url": "https://x.com/xiaohu/status/2108884435487908043",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "上周参加了LibTV AI短片黑客松活动...\n\n嘿嘿，只是去现场观摩，不是去比赛啊\n\n感叹高手就是高手啊，也感叹，即使AI能力再强，如果想再短时间内完成好的作品，审美和专业知识经验还是非常重要的...\n\n下面这些AI短片都是通过LibTV的工具在48小时内容完成的，你们看看...\n\n虽然现在的工具能让人人都制作一些小短片了，但是要达到能看好看的，还是需要经验加成的...\n\n比如下面这部\n\n金奖/",
-      "published_at": "Sat Oct 10 11:36:45 +0000 2026",
-      "score": 87,
-      "category": "community",
-      "added_date": "20261011"
-    },
-    {
-      "title": "@xiaohu: 牛P，可以确定Grok Bot现在就是由Opus 5.5驱动的  让Grok Bot 学习了指南  一击命中生成视频  我上传了我的形象让它给我配音，直接就是下面的效果↓ https://t.co/2",
-      "url": "https://x.com/xiaohu/status/2108754371609813340",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "牛P，可以确定Grok Bot现在就是由Opus 5.5驱动的\n\n让Grok Bot 学习了指南\n\n一击命中生成视频\n\n我上传了我的形象让它给我配音，直接就是下面的效果↓ https://t.co/2HFYmvGFga",
-      "published_at": "Sat Oct 10 02:59:55 +0000 2026",
-      "score": 86,
-      "category": "community",
-      "added_date": "20261011"
     }
   ]
 }
