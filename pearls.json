@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-22T12:00:08.156297",
+  "updated_at": "2026-10-23T12:00:23.486234",
   "pearls": [
+    {
+      "title": "@dotey: RT @damonchen: running a US company being a US permanent resident using claude only for personal + b",
+      "url": "https://x.com/dotey/status/2113276138055233776",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @damonchen: running a US company\nbeing a US permanent resident\nusing claude only for personal + business work\ntemporarily staying in Chi…",
+      "published_at": "Thu Oct 22 14:27:48 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261023"
+    },
+    {
+      "title": "@_akhaliq: RT @envato: You know us as your creative asset toolkit.  Now meet @_MonoDesk, a whole new app from o",
+      "url": "https://x.com/_akhaliq/status/2113362216192004234",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @envato: You know us as your creative asset toolkit.\n\nNow meet @_MonoDesk, a whole new app from our team, built to handle the boring bit…",
+      "published_at": "Thu Oct 22 20:09:51 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261023"
+    },
+    {
+      "title": "@_akhaliq: RT @canva: Introducing Canva Craft 🚀  Extraordinary image generation is now available to everyone, p",
+      "url": "https://x.com/_akhaliq/status/2113351450768367907",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @canva: Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model buil…",
+      "published_at": "Thu Oct 22 19:27:04 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261023"
+    },
+    {
+      "title": "@_akhaliq: RT @datavendor_ai: We're announcing the public beta of https://t.co/Gl49rPfk9L  We spent the last tw",
+      "url": "https://x.com/_akhaliq/status/2113316920992707050",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @datavendor_ai: We're announcing the public beta of https://t.co/Gl49rPfk9L\n\nWe spent the last two years building the best solution for…",
+      "published_at": "Thu Oct 22 17:09:52 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261023"
+    },
+    {
+      "title": "@levelsio: It's interesting every time I post about the issues with low quality immigration in Europe  I see mo",
+      "url": "https://x.com/levelsio/status/2113266130584297708",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "It's interesting every time I post about the issues with low quality immigration in Europe\n\nI see most people on here agree\n\nAnd then the only people that disagree keep coming back to this argument wh",
+      "published_at": "Thu Oct 22 13:48:02 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261023"
+    },
     {
       "title": "[dominikmartn/harp] Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
       "url": "https://github.com/dominikmartn/harp",
@@ -450,56 +500,6 @@
       "score": 103,
       "category": "tools",
       "added_date": "20261014"
-    },
-    {
-      "title": "[zhuyansen/new-term-radar] Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 785 stars · 新建于 2026-10-12 · 语言: Python",
-      "published_at": "2026-10-12T07:11:01Z",
-      "score": 128,
-      "category": "tools",
-      "added_date": "20261013"
-    },
-    {
-      "title": "[trhhubsd/ARTEXX] AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "url": "https://github.com/trhhubsd/ARTEXX",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 777 stars · 新建于 2026-10-08 · 语言: Go",
-      "published_at": "2026-10-08T20:35:22Z",
-      "score": 127,
-      "category": "tools",
-      "added_date": "20261013"
-    },
-    {
-      "title": "@dotey: RT @yetone: 很多人想让我分享一下工作流，我一直没想好怎么分享，因为其实我没有任何的魔法，甚至还特别简陋，总觉得分享出来毫无意义。其实我就是用 Claude Code，然后用官方的 Opus",
-      "url": "https://x.com/dotey/status/2109871297060839710",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @yetone: 很多人想让我分享一下工作流，我一直没想好怎么分享，因为其实我没有任何的魔法，甚至还特别简陋，总觉得分享出来毫无意义。其实我就是用 Claude Code，然后用官方的 Opus 5.5 模型执行 loop 就可以了。\n\n我会并行执行图里的 3 个 loo…",
-      "published_at": "Tue Oct 13 04:58:11 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261013"
-    },
-    {
-      "title": "@_akhaliq: RT @gkoberger: Your API is now your product, and it needs to move as fast as you do.  Introducing Re",
-      "url": "https://x.com/_akhaliq/status/2109710688818286865",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @gkoberger: Your API is now your product, and it needs to move as fast as you do.\n\nIntroducing Restless.\n\nEvery call, support question,…",
-      "published_at": "Mon Oct 12 18:19:59 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261013"
-    },
-    {
-      "title": "@levelsio: Every guy I know (and me too) had to experience this once to then never do make the same mistake aga",
-      "url": "https://x.com/levelsio/status/2109658835493462465",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Every guy I know (and me too) had to experience this once to then never do make the same mistake again",
-      "published_at": "Mon Oct 12 14:53:56 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261013"
     }
   ]
 }
