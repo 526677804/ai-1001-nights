@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-23T12:00:23.486234",
+  "updated_at": "2026-10-24T12:01:25.529306",
   "pearls": [
+    {
+      "title": "@dotey: RT @dingyi: 震惊了🤯  iPhone Duo 最佳适配案例出现了！真的绝了。 https://t.co/XsOmOCJq1v",
+      "url": "https://x.com/dotey/status/2113672720571654421",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @dingyi: 震惊了🤯\n\niPhone Duo 最佳适配案例出现了！真的绝了。 https://t.co/XsOmOCJq1v",
+      "published_at": "Fri Oct 23 16:43:41 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261024"
+    },
+    {
+      "title": "@dotey: RT @dhh: I've been blown away by the energy, optimism, and hard work that has created the China I've",
+      "url": "https://x.com/dotey/status/2113652105806581811",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @dhh: I've been blown away by the energy, optimism, and hard work that has created the China I've seen on this trip. It had been seven y…",
+      "published_at": "Fri Oct 23 15:21:46 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261024"
+    },
+    {
+      "title": "@levelsio: RT @snsnotecom: 1984년 매킨토시로 변한 아이폰 듀오  애플의 첫 폴더블폰 〈iPhone Duo〉를 반쯤 접으면 1984년 매킨토시를 재현한 작은 노트북으로 변신합니",
+      "url": "https://x.com/levelsio/status/2113661545582313941",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @snsnotecom: 1984년 매킨토시로 변한 아이폰 듀오\n\n애플의 첫 폴더블폰 〈iPhone Duo〉를\n반쯤 접으면 1984년 매킨토시를\n재현한 작은 노트북으로 변신합니다.\n\n새롭게 공개된 〈Tiny Computers〉는\n매킨토시부터 윈도…",
+      "published_at": "Fri Oct 23 15:59:17 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261024"
+    },
+    {
+      "title": "@levelsio: P.S. both Cloudflare Tunnel and Tailscale are 100% free so you don't really have any excuses  They m",
+      "url": "https://x.com/levelsio/status/2113597275519803830",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "P.S. both Cloudflare Tunnel and Tailscale are 100% free so you don't really have any excuses\n\nThey make money upselling to big companies and enterprise so they'll probably stay free",
+      "published_at": "Fri Oct 23 11:43:53 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261024"
+    },
+    {
+      "title": "@levelsio: Maybe important to repost this now that everyone is getting hacked  If you have a VPS, I recommend y",
+      "url": "https://x.com/levelsio/status/2113587042185576853",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Maybe important to repost this now that everyone is getting hacked\n\nIf you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP\n\nIt doe",
+      "published_at": "Fri Oct 23 11:03:14 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261024"
+    },
     {
       "title": "@dotey: RT @damonchen: running a US company being a US permanent resident using claude only for personal + b",
       "url": "https://x.com/dotey/status/2113276138055233776",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261015"
-    },
-    {
-      "title": "Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "source": "Show HN",
-      "summary": "👍 465 points · 💬 121 comments · 讨论: https://news.ycombinator.com/item?id=50077020",
-      "published_at": "2026-10-13T19:11:48Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261014"
-    },
-    {
-      "title": "How random are you?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "source": "Show HN",
-      "summary": "👍 162 points · 💬 82 comments · 讨论: https://news.ycombinator.com/item?id=50074909",
-      "published_at": "2026-10-13T16:57:57Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261014"
-    },
-    {
-      "title": "[deeplethe/solid-glass] A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 580 stars · 新建于 2026-10-12 · 语言: TypeScript",
-      "published_at": "2026-10-12T09:19:02Z",
-      "score": 108,
-      "category": "tools",
-      "added_date": "20261014"
-    },
-    {
-      "title": "Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "source": "Show HN",
-      "summary": "👍 107 points · 💬 68 comments · 讨论: https://news.ycombinator.com/item?id=50080275",
-      "published_at": "2026-10-13T23:13:23Z",
-      "score": 107,
-      "category": "tools",
-      "added_date": "20261014"
-    },
-    {
-      "title": "I built a tool to track what AI leaders say and how their views change",
-      "url": "https://blumify.io/people",
-      "source": "Show HN",
-      "summary": "👍 103 points · 💬 68 comments · 讨论: https://news.ycombinator.com/item?id=50081151",
-      "published_at": "2026-10-14T01:09:13Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20261014"
     }
   ]
 }
