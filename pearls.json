@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-24T12:01:25.529306",
+  "updated_at": "2026-10-25T12:00:21.150404",
   "pearls": [
+    {
+      "title": "Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "source": "Show HN",
+      "summary": "👍 514 points · 💬 311 comments · 讨论: https://news.ycombinator.com/item?id=50224916",
+      "published_at": "2026-10-24T20:30:31Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261025"
+    },
+    {
+      "title": "@dotey: RT @ShoufaChen: [1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。 感谢好友们最",
+      "url": "https://x.com/dotey/status/2114027511512457349",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @ShoufaChen: [1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。",
+      "published_at": "Sat Oct 24 16:13:30 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20261025"
+    },
+    {
+      "title": "@levelsio: This is sick",
+      "url": "https://x.com/levelsio/status/2113985122944831829",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "This is sick",
+      "published_at": "Sat Oct 24 13:25:03 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20261025"
+    },
+    {
+      "title": "[udhaykumarbala/cleanyourtv-app] A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
+      "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 455 stars · 新建于 2026-10-21 · 语言: Kotlin",
+      "published_at": "2026-10-21T12:42:09Z",
+      "score": 95,
+      "category": "tools",
+      "added_date": "20261025"
+    },
+    {
+      "title": "@xiaohu: RT @alexmashrabov: @jensenhuang and NVIDIA just invested in Higgsfield  We turn competition at the f",
+      "url": "https://x.com/xiaohu/status/2114033765802717515",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "RT @alexmashrabov: @jensenhuang and NVIDIA just invested in Higgsfield\n\nWe turn competition at the foundation layer into compounding advant…",
+      "published_at": "Sat Oct 24 16:38:21 +0000 2026",
+      "score": 95,
+      "category": "community",
+      "added_date": "20261025"
+    },
     {
       "title": "@dotey: RT @dingyi: 震惊了🤯  iPhone Duo 最佳适配案例出现了！真的绝了。 https://t.co/XsOmOCJq1v",
       "url": "https://x.com/dotey/status/2113672720571654421",
@@ -450,56 +500,6 @@
       "score": 105,
       "category": "community",
       "added_date": "20261016"
-    },
-    {
-      "title": "Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "source": "Show HN",
-      "summary": "👍 185 points · 💬 39 comments · 讨论: https://news.ycombinator.com/item?id=50092470",
-      "published_at": "2026-10-14T18:23:14Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261015"
-    },
-    {
-      "title": "[marclou/mailcheap] The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-      "url": "https://github.com/marclou/mailcheap",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 940 stars · 新建于 2026-10-10 · 语言: JavaScript",
-      "published_at": "2026-10-10T12:55:36Z",
-      "score": 144,
-      "category": "tools",
-      "added_date": "20261015"
-    },
-    {
-      "title": "[outcrawlai/scout] Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "url": "https://github.com/outcrawlai/scout",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 793 stars · 新建于 2026-10-13 · 语言: TypeScript",
-      "published_at": "2026-10-13T09:18:55Z",
-      "score": 129,
-      "category": "tools",
-      "added_date": "20261015"
-    },
-    {
-      "title": "I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "source": "Show HN",
-      "summary": "👍 102 points · 💬 84 comments · 讨论: https://news.ycombinator.com/item?id=50090932",
-      "published_at": "2026-10-14T17:00:59Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20261015"
-    },
-    {
-      "title": "@_akhaliq: RT @bertgodel: We are releasing Ultramarine 1 Flash, a frontier-class model built for knowledge work",
-      "url": "https://x.com/_akhaliq/status/2110411914677547188",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @bertgodel: We are releasing Ultramarine 1 Flash, a frontier-class model built for knowledge work. It is open-source and achieves simila…",
-      "published_at": "Wed Oct 14 16:46:24 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261015"
     }
   ]
 }
