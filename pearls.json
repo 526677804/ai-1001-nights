@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-25T12:00:21.150404",
+  "updated_at": "2026-10-26T12:01:59.995873",
   "pearls": [
+    {
+      "title": "TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "source": "Show HN",
+      "summary": "👍 271 points · 💬 44 comments · 讨论: https://news.ycombinator.com/item?id=50238708",
+      "published_at": "2026-10-26T03:23:57Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261026"
+    },
+    {
+      "title": "I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "source": "Show HN",
+      "summary": "👍 174 points · 💬 47 comments · 讨论: https://news.ycombinator.com/item?id=50232312",
+      "published_at": "2026-10-25T15:05:39Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261026"
+    },
+    {
+      "title": "A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "source": "Show HN",
+      "summary": "👍 182 points · 💬 61 comments · 讨论: https://news.ycombinator.com/item?id=50228115",
+      "published_at": "2026-10-25T03:47:56Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261026"
+    },
+    {
+      "title": "[t3dotgg/tstack] The agent skills I use every day. Works with Claude Code and Codex.",
+      "url": "https://github.com/t3dotgg/tstack",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 751 stars · 新建于 2026-10-24 · 语言: Python",
+      "published_at": "2026-10-24T05:00:20Z",
+      "score": 125,
+      "category": "tools",
+      "added_date": "20261026"
+    },
+    {
+      "title": "@levelsio: RT @kenwheeler: i love that all these companies doing this predatory corporate surveillance are gett",
+      "url": "https://x.com/levelsio/status/2114513961823371749",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @kenwheeler: i love that all these companies doing this predatory corporate surveillance are getting dickmogged from orbit right now",
+      "published_at": "Mon Oct 26 00:26:28 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261026"
+    },
     {
       "title": "Steal My Bitcoin",
       "url": "https://stealmybitcoin.com/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261017"
-    },
-    {
-      "title": "Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "source": "Show HN",
-      "summary": "👍 297 points · 💬 192 comments · 讨论: https://news.ycombinator.com/item?id=50102247",
-      "published_at": "2026-10-15T11:38:57Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261016"
-    },
-    {
-      "title": "[feder-cr/open_scion] Open-source version of Scion: version control built for coding agents.",
-      "url": "https://github.com/feder-cr/open_scion",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1028 stars · 新建于 2026-10-15 · 语言: Go",
-      "published_at": "2026-10-15T13:12:02Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261016"
-    },
-    {
-      "title": "[Zfinix/eleven] Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "url": "https://github.com/Zfinix/eleven",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 560 stars · 新建于 2026-10-13 · 语言: TypeScript",
-      "published_at": "2026-10-13T13:47:31Z",
-      "score": 106,
-      "category": "tools",
-      "added_date": "20261016"
-    },
-    {
-      "title": "@xiaohu: 特斯拉发布全新的Roadste跑车  现场直接飞起来了😂  镁、钛、碳纤维，配合线控转向  三个版本：Performance 是双座公路版，Thrust 是双座推进增强版，Rocket 是单座邀请制版",
-      "url": "https://x.com/xiaohu/status/2110913842402484454",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "特斯拉发布全新的Roadste跑车\n\n现场直接飞起来了😂\n\n镁、钛、碳纤维，配合线控转向\n\n三个版本：Performance 是双座公路版，Thrust 是双座推进增强版，Rocket 是单座邀请制版本\n\nThrust 套件：0–60 mph（约 96.6 km/h）不到 1 秒\n\n反重力地面密封吸附：多模式底盘主动抽气系统，即便在静止状态下，产生的极致下压力也足以将整车吸附在天花板上倒挂。\n\n可",
-      "published_at": "Fri Oct 16 02:00:53 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261016"
-    },
-    {
-      "title": "@dotey: RT @Saccc_c: https://t.co/9E8UhyOWsX",
-      "url": "https://x.com/dotey/status/2110726230760624560",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @Saccc_c: https://t.co/9E8UhyOWsX",
-      "published_at": "Thu Oct 15 13:35:23 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261016"
     }
   ]
 }
