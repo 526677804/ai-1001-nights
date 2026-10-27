@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-26T12:01:59.995873",
+  "updated_at": "2026-10-27T12:00:32.516196",
   "pearls": [
+    {
+      "title": "[morganlinton/BeautifulRust] Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1263 stars · 新建于 2026-10-23 · 语言: Python",
+      "published_at": "2026-10-23T03:01:11Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261027"
+    },
+    {
+      "title": "Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "source": "Show HN",
+      "summary": "👍 148 points · 💬 34 comments · 讨论: https://news.ycombinator.com/item?id=50246238",
+      "published_at": "2026-10-26T16:12:29Z",
+      "score": 148,
+      "category": "tools",
+      "added_date": "20261027"
+    },
+    {
+      "title": "[andyhuo520/digital-human-koubo] AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 954 stars · 新建于 2026-10-26 · 语言: TypeScript",
+      "published_at": "2026-10-26T04:34:09Z",
+      "score": 145,
+      "category": "tools",
+      "added_date": "20261027"
+    },
+    {
+      "title": "[ZiChuanLan/agent-purge] One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 545 stars · 新建于 2026-10-25 · 语言: JavaScript",
+      "published_at": "2026-10-25T06:06:02Z",
+      "score": 104,
+      "category": "tools",
+      "added_date": "20261027"
+    },
+    {
+      "title": "[yaojingang/GEOInflow] Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 522 stars · 新建于 2026-10-26 · 语言: TypeScript",
+      "published_at": "2026-10-26T03:12:45Z",
+      "score": 102,
+      "category": "tools",
+      "added_date": "20261027"
+    },
     {
       "title": "TitleArt – Make text like it's 1997",
       "url": "https://titleart.dvy.io/",
@@ -450,56 +500,6 @@
       "score": 122,
       "category": "tools",
       "added_date": "20261018"
-    },
-    {
-      "title": "@dotey: RT @Khazix0918: https://t.co/lqZ5vGWM0J",
-      "url": "https://x.com/dotey/status/2111141214150164570",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @Khazix0918: https://t.co/lqZ5vGWM0J",
-      "published_at": "Fri Oct 16 17:04:23 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261017"
-    },
-    {
-      "title": "Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "source": "Show HN",
-      "summary": "👍 103 points · 💬 40 comments · 讨论: https://news.ycombinator.com/item?id=50127979",
-      "published_at": "2026-10-17T04:36:53Z",
-      "score": 103,
-      "category": "tools",
-      "added_date": "20261017"
-    },
-    {
-      "title": "@_akhaliq: RT @AndrewDai: Spent years watching models ace a single image and completely whiff on anything that ",
-      "url": "https://x.com/_akhaliq/status/2111145675400581487",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @AndrewDai: Spent years watching models ace a single image and completely whiff on anything that moves or changes angle. Today we’re fix…",
-      "published_at": "Fri Oct 16 17:22:06 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261017"
-    },
-    {
-      "title": "@levelsio: In a similar scramble I did to jump on AI in late 2022 (moving from remote work and nomads to AI app",
-      "url": "https://x.com/levelsio/status/2111142856094265595",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "In a similar scramble I did to jump on AI in late 2022 (moving from remote work and nomads to AI apps), I am now scrambling to chase any remaining moats\n\nAs AI companies will suck up everything else (",
-      "published_at": "Fri Oct 16 17:10:54 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261017"
-    },
-    {
-      "title": "@levelsio: RT @walterkirn: My wife just told me that it's eccentric of me to take baths instead of showers. Tha",
-      "url": "https://x.com/levelsio/status/2111140115108053266",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @walterkirn: My wife just told me that it's eccentric of me to take baths instead of showers. That it's especially eccentric because I'm…",
-      "published_at": "Fri Oct 16 17:00:01 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261017"
     }
   ]
 }
