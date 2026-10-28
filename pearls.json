@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-27T12:00:32.516196",
+  "updated_at": "2026-10-28T12:03:20.754669",
   "pearls": [
+    {
+      "title": "[anhao/ai-pose-gallery-zh] 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1361 stars · 新建于 2026-10-27 · 语言: HTML",
+      "published_at": "2026-10-27T12:24:37Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261028"
+    },
+    {
+      "title": "@dotey: RT @xDinoDeer: 强烈推荐斯坦福的这套关于 AI Agent 的课程，对于有志成为 agent engineer 的同学可以看看：https://t.co/0oRXZG2IGw",
+      "url": "https://x.com/dotey/status/2115132631121547438",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @xDinoDeer: 强烈推荐斯坦福的这套关于 AI Agent 的课程，对于有志成为 agent engineer 的同学可以看看：https://t.co/0oRXZG2IGw",
+      "published_at": "Tue Oct 27 17:24:51 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261028"
+    },
+    {
+      "title": "[blakeandersonw/ai-app-playbook] How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 546 stars · 新建于 2026-10-26 · 语言: TypeScript",
+      "published_at": "2026-10-26T16:07:05Z",
+      "score": 104,
+      "category": "tools",
+      "added_date": "20261028"
+    },
+    {
+      "title": "@dr_cintas: RT @liquidai: Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybri",
+      "url": "https://x.com/dr_cintas/status/2115130131601899535",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @liquidai: Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encod…",
+      "published_at": "Tue Oct 27 17:14:55 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261028"
+    },
+    {
+      "title": "@dr_cintas: RT @axiommathai: The largest math proof in human history is now computer-verified.  Today, Axiom ann",
+      "url": "https://x.com/dr_cintas/status/2115093766700966247",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @axiommathai: The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalizati…",
+      "published_at": "Tue Oct 27 14:50:25 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261028"
+    },
     {
       "title": "[morganlinton/BeautifulRust] Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
       "url": "https://github.com/morganlinton/BeautifulRust",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261019"
-    },
-    {
-      "title": "Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "source": "Show HN",
-      "summary": "👍 174 points · 💬 32 comments · 讨论: https://news.ycombinator.com/item?id=50131189",
-      "published_at": "2026-10-17T13:51:08Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261018"
-    },
-    {
-      "title": "[feder-cr/git-ai] Git designed for AI agents.",
-      "url": "https://github.com/feder-cr/git-ai",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1161 stars · 新建于 2026-10-15 · 语言: Go",
-      "published_at": "2026-10-15T13:12:02Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261018"
-    },
-    {
-      "title": "High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "source": "Show HN",
-      "summary": "👍 143 points · 💬 31 comments · 讨论: https://news.ycombinator.com/item?id=50131006",
-      "published_at": "2026-10-17T13:28:46Z",
-      "score": 143,
-      "category": "tools",
-      "added_date": "20261018"
-    },
-    {
-      "title": "[Leonxlnx/earshot] Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 724 stars · 新建于 2026-10-15 · 语言: Python",
-      "published_at": "2026-10-15T06:52:46Z",
-      "score": 122,
-      "category": "tools",
-      "added_date": "20261018"
-    },
-    {
-      "title": "[LiCinCan/blender-ai-mcp-addon] AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 721 stars · 新建于 2026-10-15 · 语言: Python",
-      "published_at": "2026-10-15T22:30:47Z",
-      "score": 122,
-      "category": "tools",
-      "added_date": "20261018"
     }
   ]
 }
