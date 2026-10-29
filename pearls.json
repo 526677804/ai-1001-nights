@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-28T12:03:20.754669",
+  "updated_at": "2026-10-29T11:59:58.898501",
   "pearls": [
+    {
+      "title": "[daveebbelaar/bama] BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "url": "https://github.com/daveebbelaar/bama",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 689 stars · 新建于 2026-10-24 · 语言: Swift",
+      "published_at": "2026-10-24T08:44:36Z",
+      "score": 118,
+      "category": "tools",
+      "added_date": "20261029"
+    },
+    {
+      "title": "@dotey: RT @Chiyeaiart: 聊聊黄果短剧是怎么做的。  ◉配置推荐：windows，5070ti显卡，32G及以上内存。为什么推荐5070ti，首先价位低的5060ti…",
+      "url": "https://x.com/dotey/status/2115493557633229048",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @Chiyeaiart: 聊聊黄果短剧是怎么做的。\n\n◉配置推荐：windows，5070ti显卡，32G及以上内存。为什么推荐5070ti，首先价位低的5060ti…",
+      "published_at": "Wed Oct 28 17:19:02 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261029"
+    },
+    {
+      "title": "@_akhaliq: RT @omerbartal: We raised a $7M pre-seed to make shopping fun again.  @daletlabs generates media jus",
+      "url": "https://x.com/_akhaliq/status/2115462496257544204",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @omerbartal: We raised a $7M pre-seed to make shopping fun again.\n\n@daletlabs generates media just for you: like walking into a mall bui…",
+      "published_at": "Wed Oct 28 15:15:37 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261029"
+    },
+    {
+      "title": "@levelsio: Famous last tweets https://t.co/5cLdGgpFiu",
+      "url": "https://x.com/levelsio/status/2115594451217187315",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Famous last tweets https://t.co/5cLdGgpFiu",
+      "published_at": "Wed Oct 28 23:59:57 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261029"
+    },
+    {
+      "title": "@levelsio: RT @DanielLockyer: New record for Stack Overflow:  &lt;1000 questions posted last month https://t.co",
+      "url": "https://x.com/levelsio/status/2115535106358309144",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @DanielLockyer: New record for Stack Overflow:\n\n&lt;1000 questions posted last month https://t.co/Re5uCiGJ3A",
+      "published_at": "Wed Oct 28 20:04:08 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261029"
+    },
     {
       "title": "[anhao/ai-pose-gallery-zh] 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261020"
-    },
-    {
-      "title": "The Zelda timeline to catch up before the Ocarina of Time remake",
-      "url": "https://legendofhyrule.com/",
-      "source": "Show HN",
-      "summary": "👍 194 points · 💬 115 comments · 讨论: https://news.ycombinator.com/item?id=50140769",
-      "published_at": "2026-10-18T13:06:54Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261019"
-    },
-    {
-      "title": "WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "source": "Show HN",
-      "summary": "👍 115 points · 💬 66 comments · 讨论: https://news.ycombinator.com/item?id=50145715",
-      "published_at": "2026-10-18T21:36:10Z",
-      "score": 115,
-      "category": "tools",
-      "added_date": "20261019"
-    },
-    {
-      "title": "@levelsio: RT @ExistentialEnso: You Can Eat Anything  (by tommcgovern27 on IG) https://t.co/JJxFyae2z0",
-      "url": "https://x.com/levelsio/status/2112123839673213105",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @ExistentialEnso: You Can Eat Anything\n\n(by tommcgovern27 on IG) https://t.co/JJxFyae2z0",
-      "published_at": "Mon Oct 19 10:08:59 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261019"
-    },
-    {
-      "title": "@levelsio: RT @TimSweeneyEpic: The games we've long wanted, which didn't exist because they'd cost several time",
-      "url": "https://x.com/levelsio/status/2112120758885335494",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @TimSweeneyEpic: The games we've long wanted, which didn't exist because they'd cost several times more to make than they'd earn back, w…",
-      "published_at": "Mon Oct 19 09:56:44 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261019"
-    },
-    {
-      "title": "@levelsio: When you sell your business, never ever agree on an earn out  Always get it in cash!  I know lots of",
-      "url": "https://x.com/levelsio/status/2111956757073596904",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "When you sell your business, never ever agree on an earn out\n\nAlways get it in cash!\n\nI know lots of horror stories of earn outs and have always rejected them",
-      "published_at": "Sun Oct 18 23:05:03 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261019"
     }
   ]
 }
