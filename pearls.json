@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-29T11:59:58.898501",
+  "updated_at": "2026-10-30T12:00:11.120803",
   "pearls": [
+    {
+      "title": "[ccch1mneyyy/dsh-Go] dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1674 stars · 新建于 2026-10-25 · 语言: Dart",
+      "published_at": "2026-10-25T08:09:52Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261030"
+    },
+    {
+      "title": "Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "source": "Show HN",
+      "summary": "👍 144 points · 💬 106 comments · 讨论: https://news.ycombinator.com/item?id=50294506",
+      "published_at": "2026-10-29T19:27:44Z",
+      "score": 144,
+      "category": "tools",
+      "added_date": "20261030"
+    },
+    {
+      "title": "@levelsio: Yes, majority of my Dutch friends are \"burn out\"  You get 1 year of FREE fully paid salary and then ",
+      "url": "https://x.com/levelsio/status/2115951722019397859",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "Yes, majority of my Dutch friends are \"burn out\"\n\nYou get 1 year of FREE fully paid salary and then another year of 70% FREE fully paid salary and you can just sit at home and chill!\n\nYou have to keep",
+      "published_at": "Thu Oct 29 23:39:37 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261030"
+    },
+    {
+      "title": "@levelsio: RT @cheepo2109: camera app vs chromagraph https://t.co/tozxkHf2JN",
+      "url": "https://x.com/levelsio/status/2115933391661170726",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @cheepo2109: camera app vs chromagraph https://t.co/tozxkHf2JN",
+      "published_at": "Thu Oct 29 22:26:47 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261030"
+    },
+    {
+      "title": "@levelsio: X should have a zero tolerance policy for AI replies  Like you do one and your account is suspended ",
+      "url": "https://x.com/levelsio/status/2115805396753383750",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "X should have a zero tolerance policy for AI replies\n\nLike you do one and your account is suspended for life\n\nReplies are a nightmare now and it's never ever been this bad\n\nAI replies are an an existe",
+      "published_at": "Thu Oct 29 13:58:11 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261030"
+    },
     {
       "title": "[daveebbelaar/bama] BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
       "url": "https://github.com/daveebbelaar/bama",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261021"
-    },
-    {
-      "title": "[mistralai/timestral] Repository for Timestral, the time-series foundation model by Mistral AI",
-      "url": "https://github.com/mistralai/timestral",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 631 stars · 新建于 2026-10-15 · 语言: Python",
-      "published_at": "2026-10-15T10:20:18Z",
-      "score": 113,
-      "category": "tools",
-      "added_date": "20261020"
-    },
-    {
-      "title": "[kitlangton/scrawl] Show an agent a problem: mark up, record, send",
-      "url": "https://github.com/kitlangton/scrawl",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 525 stars · 新建于 2026-10-14 · 语言: Rust",
-      "published_at": "2026-10-14T23:21:44Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20261020"
-    },
-    {
-      "title": "[VITASID57/bluntcore-intimacy-lab] 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-      "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 507 stars · 新建于 2026-10-16 · 语言: N/A",
-      "published_at": "2026-10-16T15:46:10Z",
-      "score": 100,
-      "category": "tools",
-      "added_date": "20261020"
-    },
-    {
-      "title": "@_akhaliq: RT @spisallyouneed: Introducing SKY-001, the first Engineering World Model. On CAD and BIM tasks, it",
-      "url": "https://x.com/_akhaliq/status/2112244359546482702",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @spisallyouneed: Introducing SKY-001, the first Engineering World Model.\nOn CAD and BIM tasks, it beats GPT-6 Astra and every frontier m…",
-      "published_at": "Mon Oct 19 18:07:53 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261020"
-    },
-    {
-      "title": "@venturetwins: RT @ViggleAI: Today we are releasing JST-2, the world's first full-stack physics-native world founda",
-      "url": "https://x.com/venturetwins/status/2112228936323387861",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "RT @ViggleAI: Today we are releasing JST-2, the world's first full-stack physics-native world foundation model.  \n\nMany world models learn…",
-      "published_at": "Mon Oct 19 17:06:36 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261020"
     }
   ]
 }
