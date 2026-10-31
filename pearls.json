@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-30T12:00:11.120803",
+  "updated_at": "2026-10-31T12:06:29.089678",
   "pearls": [
+    {
+      "title": "To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
+      "source": "Show HN",
+      "summary": "👍 199 points · 💬 55 comments · 讨论: https://news.ycombinator.com/item?id=50311686",
+      "published_at": "2026-10-30T23:51:24Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261031"
+    },
+    {
+      "title": "[wangzan101/Mika] Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "url": "https://github.com/wangzan101/Mika",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 2127 stars · 新建于 2026-10-29 · 语言: Kotlin",
+      "published_at": "2026-10-29T14:34:07Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261031"
+    },
+    {
+      "title": "[paipiange/nvzhuang] 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1520 stars · 新建于 2026-10-29 · 语言: Go",
+      "published_at": "2026-10-29T06:08:00Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261031"
+    },
+    {
+      "title": "@_akhaliq: RT @AlexKsendzovsky: today, we introduce a little mischief to the world.  for four years, we’ve been",
+      "url": "https://x.com/_akhaliq/status/2116154995490099307",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @AlexKsendzovsky: today, we introduce a little mischief to the world.\n\nfor four years, we’ve been brewing real brain cells on electrodes…",
+      "published_at": "Fri Oct 30 13:07:21 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261031"
+    },
+    {
+      "title": "@levelsio: I thought it was just a proposal, but it actually passed 🤯  France will charge €0.055 per GB on all ",
+      "url": "https://x.com/levelsio/status/2116284214131961910",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I thought it was just a proposal, but it actually passed 🤯\n\nFrance will charge €0.055 per GB on all internet traffic!",
+      "published_at": "Fri Oct 30 21:40:49 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261031"
+    },
     {
       "title": "[ccch1mneyyy/dsh-Go] dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261022"
-    },
-    {
-      "title": "SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "source": "Show HN",
-      "summary": "👍 825 points · 💬 384 comments · 讨论: https://news.ycombinator.com/item?id=50170593",
-      "published_at": "2026-10-20T18:29:09Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261021"
-    },
-    {
-      "title": "VoidAccess – open-source dark web OSINT, from query to a graph",
-      "url": "https://github.com/KatrielMoses/voidaccess",
-      "source": "Show HN",
-      "summary": "👍 185 points · 💬 13 comments · 讨论: https://news.ycombinator.com/item?id=50167286",
-      "published_at": "2026-10-20T14:49:33Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261021"
-    },
-    {
-      "title": "@dotey: RT @swyx: deepseek posted way more alpha on their zhihu page, if you only read twitter you are readi",
-      "url": "https://x.com/dotey/status/2112599620346069295",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @swyx: deepseek posted way more alpha on their zhihu page, if you only read twitter you are reading the laowai approved stuff\n\n\"Based on…",
-      "published_at": "Tue Oct 20 17:39:34 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261021"
-    },
-    {
-      "title": "@_akhaliq: RT @make_robot_go: Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz",
-      "url": "https://x.com/_akhaliq/status/2112565862691377462",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @make_robot_go: Introducing Voxel, a droid butler made by Tuesday Labs. https://t.co/Mq2wTtE8cz",
-      "published_at": "Tue Oct 20 15:25:25 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261021"
-    },
-    {
-      "title": "@levelsio: 🇵🇱 Okay my final Poland video because we're leaving soon!  It was really fun and we had a great time",
-      "url": "https://x.com/levelsio/status/2112596438525817121",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "🇵🇱 Okay my final Poland video because we're leaving soon!\n\nIt was really fun and we had a great time\n\nI liked Warsaw most to be honest, a very modern city, a bit like East Asia in terms of modernity, ",
-      "published_at": "Tue Oct 20 17:26:55 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261021"
     }
   ]
 }
