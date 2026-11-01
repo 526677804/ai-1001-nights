@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-31T12:06:29.089678",
+  "updated_at": "2026-11-01T12:00:24.985402",
   "pearls": [
+    {
+      "title": "[deepseek-ai/dsh-superagent-prototype] Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 5174 stars · 新建于 2026-10-31 · 语言: TypeScript",
+      "published_at": "2026-10-31T09:32:46Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261101"
+    },
+    {
+      "title": "[jacke-pp/open-yoki] An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "url": "https://github.com/jacke-pp/open-yoki",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 706 stars · 新建于 2026-10-28 · 语言: JavaScript",
+      "published_at": "2026-10-28T08:58:27Z",
+      "score": 120,
+      "category": "tools",
+      "added_date": "20261101"
+    },
+    {
+      "title": "[jackwener/DSH-Android] 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
+      "url": "https://github.com/jackwener/DSH-Android",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 664 stars · 新建于 2026-10-27 · 语言: Kotlin",
+      "published_at": "2026-10-27T19:26:12Z",
+      "score": 116,
+      "category": "tools",
+      "added_date": "20261101"
+    },
+    {
+      "title": "@dotey: RT @snowboat84: 这段视频似乎上了热搜，我也转发一下。但是我要说一点和大家不一样的内容：看到那个穿白衣服的女生，我感慨万千。这个女生叫做Vivian。两年前我打算创业做教培考培的时候，就",
+      "url": "https://x.com/dotey/status/2116718944107261975",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @snowboat84: 这段视频似乎上了热搜，我也转发一下。但是我要说一点和大家不一样的内容：看到那个穿白衣服的女生，我感慨万千。这个女生叫做Vivian。两年前我打算创业做教培考培的时候，就想着对标她，因为她恰好在用AI做数学练习辅导，先从SAT做起，后来再扩充到AC…",
+      "published_at": "Sun Nov 01 02:28:17 +0000 2026",
+      "score": 101,
+      "category": "community",
+      "added_date": "20261101"
+    },
+    {
+      "title": "@levelsio: After France Gigabyte tax, Germany's AI tax now Italy is proposing an exit tax  Europe is out of mon",
+      "url": "https://x.com/levelsio/status/2116604593282965549",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "After France Gigabyte tax, Germany's AI tax now Italy is proposing an exit tax\n\nEurope is out of money",
+      "published_at": "Sat Oct 31 18:53:54 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261101"
+    },
     {
       "title": "To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
       "url": "https://tng.episodle.com/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261023"
-    },
-    {
-      "title": "[dominikmartn/harp] Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "url": "https://github.com/dominikmartn/harp",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 572 stars · 新建于 2026-10-20 · 语言: Rust",
-      "published_at": "2026-10-20T10:39:43Z",
-      "score": 107,
-      "category": "tools",
-      "added_date": "20261022"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: China's Unitree just dropped H2-X Kung Fu Legend Guardian.  Dents car doors. 4 meter dr",
-      "url": "https://x.com/minchoi/status/2113194858831851871",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: China's Unitree just dropped H2-X Kung Fu Legend Guardian.\n\nDents car doors. 4 meter drops. Spinning kicks + flips. Even lifts…",
-      "published_at": "Thu Oct 22 09:04:50 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261022"
-    },
-    {
-      "title": "@_akhaliq: RT @RichardSocher: Introducing Flint, @Recursive_SI’s first model: a fast local coding model built w",
-      "url": "https://x.com/_akhaliq/status/2112945846769869141",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @RichardSocher: Introducing Flint, @Recursive_SI’s first model: a fast local coding model built with our automated research system, the…",
-      "published_at": "Wed Oct 21 16:35:21 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261022"
-    },
-    {
-      "title": "@levelsio: RT @jefftangx: People who cured / are curing their own cancer on X:  1/ @sytses - bone cancer, billi",
-      "url": "https://x.com/levelsio/status/2113043262906737074",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @jefftangx: People who cured / are curing their own cancer on X:\n\n1/ @sytses - bone cancer, billionaire founder of Gitlab, developed 10+…",
-      "published_at": "Wed Oct 21 23:02:26 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261022"
-    },
-    {
-      "title": "@levelsio: RT @marckohlbrugge: if this PHP vulnerability allows remote code execution, doesn't that mean we can",
-      "url": "https://x.com/levelsio/status/2112946207308046755",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @marckohlbrugge: if this PHP vulnerability allows remote code execution, doesn't that mean we can use the vulnerability to auto-patch al…",
-      "published_at": "Wed Oct 21 16:36:47 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261022"
     }
   ]
 }
