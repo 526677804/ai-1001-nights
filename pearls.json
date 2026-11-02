@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-01T12:00:24.985402",
+  "updated_at": "2026-11-02T12:01:17.174270",
   "pearls": [
+    {
+      "title": "Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "source": "Show HN",
+      "summary": "👍 238 points · 💬 72 comments · 讨论: https://news.ycombinator.com/item?id=50333339",
+      "published_at": "2026-11-02T05:06:30Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261102"
+    },
+    {
+      "title": "HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "source": "Show HN",
+      "summary": "👍 1468 points · 💬 246 comments · 讨论: https://news.ycombinator.com/item?id=50326821",
+      "published_at": "2026-11-01T15:58:28Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261102"
+    },
+    {
+      "title": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "source": "Show HN",
+      "summary": "👍 265 points · 💬 75 comments · 讨论: https://news.ycombinator.com/item?id=50325253",
+      "published_at": "2026-11-01T13:02:30Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261102"
+    },
+    {
+      "title": "[modelflare-ai/AnyModelBot] 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1133 stars · 新建于 2026-10-27 · 语言: TypeScript",
+      "published_at": "2026-10-27T08:51:18Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261102"
+    },
+    {
+      "title": "[caru-ini/stack-diagram] Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 857 stars · 新建于 2026-11-01 · 语言: TypeScript",
+      "published_at": "2026-11-01T05:35:12Z",
+      "score": 135,
+      "category": "tools",
+      "added_date": "20261102"
+    },
     {
       "title": "[deepseek-ai/dsh-superagent-prototype] Towards a More Autonomous Agent System",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261024"
-    },
-    {
-      "title": "@dotey: RT @damonchen: running a US company being a US permanent resident using claude only for personal + b",
-      "url": "https://x.com/dotey/status/2113276138055233776",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @damonchen: running a US company\nbeing a US permanent resident\nusing claude only for personal + business work\ntemporarily staying in Chi…",
-      "published_at": "Thu Oct 22 14:27:48 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261023"
-    },
-    {
-      "title": "@_akhaliq: RT @envato: You know us as your creative asset toolkit.  Now meet @_MonoDesk, a whole new app from o",
-      "url": "https://x.com/_akhaliq/status/2113362216192004234",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @envato: You know us as your creative asset toolkit.\n\nNow meet @_MonoDesk, a whole new app from our team, built to handle the boring bit…",
-      "published_at": "Thu Oct 22 20:09:51 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261023"
-    },
-    {
-      "title": "@_akhaliq: RT @canva: Introducing Canva Craft 🚀  Extraordinary image generation is now available to everyone, p",
-      "url": "https://x.com/_akhaliq/status/2113351450768367907",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @canva: Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model buil…",
-      "published_at": "Thu Oct 22 19:27:04 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261023"
-    },
-    {
-      "title": "@_akhaliq: RT @datavendor_ai: We're announcing the public beta of https://t.co/Gl49rPfk9L  We spent the last tw",
-      "url": "https://x.com/_akhaliq/status/2113316920992707050",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @datavendor_ai: We're announcing the public beta of https://t.co/Gl49rPfk9L\n\nWe spent the last two years building the best solution for…",
-      "published_at": "Thu Oct 22 17:09:52 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261023"
-    },
-    {
-      "title": "@levelsio: It's interesting every time I post about the issues with low quality immigration in Europe  I see mo",
-      "url": "https://x.com/levelsio/status/2113266130584297708",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "It's interesting every time I post about the issues with low quality immigration in Europe\n\nI see most people on here agree\n\nAnd then the only people that disagree keep coming back to this argument wh",
-      "published_at": "Thu Oct 22 13:48:02 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261023"
     }
   ]
 }
