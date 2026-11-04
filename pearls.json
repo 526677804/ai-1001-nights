@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-03T12:00:29.002514",
+  "updated_at": "2026-11-04T12:01:11.377310",
   "pearls": [
+    {
+      "title": "[KKKKhazix/agent-autoloop] 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1924 stars · 新建于 2026-11-03 · 语言: TypeScript",
+      "published_at": "2026-11-03T08:02:11Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261104"
+    },
+    {
+      "title": "[wquguru/cicada] 知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+      "url": "https://github.com/wquguru/cicada",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 906 stars · 新建于 2026-11-01 · 语言: Swift",
+      "published_at": "2026-11-01T05:41:23Z",
+      "score": 140,
+      "category": "tools",
+      "added_date": "20261104"
+    },
+    {
+      "title": "@xiaohu: RT @_FORAB: 币安刚刚发布了初步调查报告，梳理了他们是如何被朝鲜黑客，盗取了 60 多亿美金。  某位币安软件工程师，在求职网站上挂着简历，结果一位自称项目总监的人，主动联系他，说有个潜在岗",
+      "url": "https://x.com/xiaohu/status/2117648970638078153",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "RT @_FORAB: 币安刚刚发布了初步调查报告，梳理了他们是如何被朝鲜黑客，盗取了 60 多亿美金。\n\n某位币安软件工程师，在求职网站上挂着简历，结果一位自称项目总监的人，主动联系他，说有个潜在岗位想聊聊。\n\n对方安排了一位 HR 跟他视频面试，真人露脸。为了让他放下戒心，…",
+      "published_at": "Tue Nov 03 16:03:53 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261104"
+    },
+    {
+      "title": "@levelsio: 💸 Update: My total biz expenses have now dropped to just ~$300/mo!  This is to run all my websites/a",
+      "url": "https://x.com/levelsio/status/2117694259558293692",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "💸 Update: My total biz expenses have now dropped to just ~$300/mo!\n\nThis is to run all my websites/apps serving per year:\n- 20,000 paying customers\n- 252 million visitors\n- 2.4 billion requests\n- 2.4 ",
+      "published_at": "Tue Nov 03 19:03:50 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261104"
+    },
+    {
+      "title": "@_akhaliq: RT @NielsRogge: We @huggingface reproduced this paper!!  It's built with ML Intern, an open-source h",
+      "url": "https://x.com/_akhaliq/status/2117665692627693869",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @NielsRogge: We @huggingface reproduced this paper!!\n\nIt's built with ML Intern, an open-source harness to do AI research, train models,…",
+      "published_at": "Tue Nov 03 17:10:20 +0000 2026",
+      "score": 99,
+      "category": "community",
+      "added_date": "20261104"
+    },
     {
       "title": "Hacker Times, a New York Times-inspired version of Hacker News",
       "url": "https://hackertimes.ca/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261026"
-    },
-    {
-      "title": "Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "source": "Show HN",
-      "summary": "👍 514 points · 💬 311 comments · 讨论: https://news.ycombinator.com/item?id=50224916",
-      "published_at": "2026-10-24T20:30:31Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261025"
-    },
-    {
-      "title": "@dotey: RT @ShoufaChen: [1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。 感谢好友们最",
-      "url": "https://x.com/dotey/status/2114027511512457349",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @ShoufaChen: [1/n] 作为这场训练“投毒”事件最直接的受害者，2024年那几个月漫长的训练排查、对峙与质疑，对我而言是一段炼狱般的经历，也是一场对意志和技术的锤炼。\n感谢好友们最艰难的时候支持陪伴。也感谢当时所有并肩作战的同事们。",
-      "published_at": "Sat Oct 24 16:13:30 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20261025"
-    },
-    {
-      "title": "@levelsio: This is sick",
-      "url": "https://x.com/levelsio/status/2113985122944831829",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "This is sick",
-      "published_at": "Sat Oct 24 13:25:03 +0000 2026",
-      "score": 97,
-      "category": "community",
-      "added_date": "20261025"
-    },
-    {
-      "title": "[udhaykumarbala/cleanyourtv-app] A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
-      "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 455 stars · 新建于 2026-10-21 · 语言: Kotlin",
-      "published_at": "2026-10-21T12:42:09Z",
-      "score": 95,
-      "category": "tools",
-      "added_date": "20261025"
-    },
-    {
-      "title": "@xiaohu: RT @alexmashrabov: @jensenhuang and NVIDIA just invested in Higgsfield  We turn competition at the f",
-      "url": "https://x.com/xiaohu/status/2114033765802717515",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "RT @alexmashrabov: @jensenhuang and NVIDIA just invested in Higgsfield\n\nWe turn competition at the foundation layer into compounding advant…",
-      "published_at": "Sat Oct 24 16:38:21 +0000 2026",
-      "score": 95,
-      "category": "community",
-      "added_date": "20261025"
     }
   ]
 }
