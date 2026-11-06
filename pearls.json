@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-05T11:59:59.691459",
+  "updated_at": "2026-11-06T12:00:41.916497",
   "pearls": [
+    {
+      "title": "Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "url": "https://firenook.dev/",
+      "source": "Show HN",
+      "summary": "👍 126 points · 💬 17 comments · 讨论: https://news.ycombinator.com/item?id=50378643",
+      "published_at": "2026-11-05T13:07:29Z",
+      "score": 126,
+      "category": "tools",
+      "added_date": "20261106"
+    },
+    {
+      "title": "[zhanghao123vip/ai-manju-skills] 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 596 stars · 新建于 2026-10-31 · 语言: N/A",
+      "published_at": "2026-10-31T03:22:12Z",
+      "score": 109,
+      "category": "tools",
+      "added_date": "20261106"
+    },
+    {
+      "title": "[Sandflow-ai/sand3d] 3D modeling in Python, built for LLMs.",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 558 stars · 新建于 2026-11-03 · 语言: HTML",
+      "published_at": "2026-11-03T08:23:03Z",
+      "score": 105,
+      "category": "tools",
+      "added_date": "20261106"
+    },
+    {
+      "title": "@dotey: RT @EianLu: https://t.co/IjmUF2hOCn",
+      "url": "https://x.com/dotey/status/2118516098098491825",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @EianLu: https://t.co/IjmUF2hOCn",
+      "published_at": "Fri Nov 06 01:29:32 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261106"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: You can't call this AI slop anymore.  One self-taught working mom made this 9-minute AI",
+      "url": "https://x.com/minchoi/status/2118665268679348365",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: You can't call this AI slop anymore.\n\nOne self-taught working mom made this 9-minute AI fantasy film.\n\nAn she won 4 awards at…",
+      "published_at": "Fri Nov 06 11:22:17 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261106"
+    },
     {
       "title": "After a decade of reversing, I got co-op working in DOS Wing Commander",
       "url": "https://fireflyk64.github.io/wcmulti/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261028"
-    },
-    {
-      "title": "[morganlinton/BeautifulRust] Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1263 stars · 新建于 2026-10-23 · 语言: Python",
-      "published_at": "2026-10-23T03:01:11Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261027"
-    },
-    {
-      "title": "Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "source": "Show HN",
-      "summary": "👍 148 points · 💬 34 comments · 讨论: https://news.ycombinator.com/item?id=50246238",
-      "published_at": "2026-10-26T16:12:29Z",
-      "score": 148,
-      "category": "tools",
-      "added_date": "20261027"
-    },
-    {
-      "title": "[andyhuo520/digital-human-koubo] AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 954 stars · 新建于 2026-10-26 · 语言: TypeScript",
-      "published_at": "2026-10-26T04:34:09Z",
-      "score": 145,
-      "category": "tools",
-      "added_date": "20261027"
-    },
-    {
-      "title": "[ZiChuanLan/agent-purge] One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 545 stars · 新建于 2026-10-25 · 语言: JavaScript",
-      "published_at": "2026-10-25T06:06:02Z",
-      "score": 104,
-      "category": "tools",
-      "added_date": "20261027"
-    },
-    {
-      "title": "[yaojingang/GEOInflow] Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 522 stars · 新建于 2026-10-26 · 语言: TypeScript",
-      "published_at": "2026-10-26T03:12:45Z",
-      "score": 102,
-      "category": "tools",
-      "added_date": "20261027"
     }
   ]
 }
