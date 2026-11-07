@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-06T12:00:41.916497",
+  "updated_at": "2026-11-07T12:01:05.784830",
   "pearls": [
+    {
+      "title": "[voyager-so/vork] Headless 3D and VFX engine for agents. Research preview.",
+      "url": "https://github.com/voyager-so/vork",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 612 stars · 新建于 2026-11-05 · 语言: Rust",
+      "published_at": "2026-11-05T22:37:07Z",
+      "score": 111,
+      "category": "tools",
+      "added_date": "20261107"
+    },
+    {
+      "title": "[sarpstar/cinecode] Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "url": "https://github.com/sarpstar/cinecode",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 517 stars · 新建于 2026-11-03 · 语言: Python",
+      "published_at": "2026-11-03T10:08:16Z",
+      "score": 101,
+      "category": "tools",
+      "added_date": "20261107"
+    },
+    {
+      "title": "@minchoi: RT @minchoi: You can't call this AI slop anymore.  One self-taught working mom made this 9-minute AI",
+      "url": "https://x.com/minchoi/status/2118795610816147902",
+      "source": "X - @minchoi (AI demo 聚合)",
+      "summary": "RT @minchoi: You can't call this AI slop anymore.\n\nOne self-taught working mom made this 9-minute AI fantasy film.\n\nAn she won 4 awards at…",
+      "published_at": "Fri Nov 06 20:00:13 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261107"
+    },
+    {
+      "title": "@levelsio: EU is literally US but somehow still stuck in 2016 woke BS",
+      "url": "https://x.com/levelsio/status/2118769886881055063",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "EU is literally US but somehow still stuck in 2016 woke BS",
+      "published_at": "Fri Nov 06 18:18:00 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261107"
+    },
+    {
+      "title": "@levelsio: I will publish my full list of 10,000+ blocked AI spammer accounts soon so everyone can block them e",
+      "url": "https://x.com/levelsio/status/2118737314943754500",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "I will publish my full list of 10,000+ blocked AI spammer accounts soon so everyone can block them easily tooo\n\nIf you write AI replies under my tweets you will now permanently destroy your X account\n",
+      "published_at": "Fri Nov 06 16:08:34 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261107"
+    },
     {
       "title": "Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
       "url": "https://firenook.dev/",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261029"
-    },
-    {
-      "title": "[anhao/ai-pose-gallery-zh] 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1361 stars · 新建于 2026-10-27 · 语言: HTML",
-      "published_at": "2026-10-27T12:24:37Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261028"
-    },
-    {
-      "title": "@dotey: RT @xDinoDeer: 强烈推荐斯坦福的这套关于 AI Agent 的课程，对于有志成为 agent engineer 的同学可以看看：https://t.co/0oRXZG2IGw",
-      "url": "https://x.com/dotey/status/2115132631121547438",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @xDinoDeer: 强烈推荐斯坦福的这套关于 AI Agent 的课程，对于有志成为 agent engineer 的同学可以看看：https://t.co/0oRXZG2IGw",
-      "published_at": "Tue Oct 27 17:24:51 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261028"
-    },
-    {
-      "title": "[blakeandersonw/ai-app-playbook] How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "url": "https://github.com/blakeandersonw/ai-app-playbook",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 546 stars · 新建于 2026-10-26 · 语言: TypeScript",
-      "published_at": "2026-10-26T16:07:05Z",
-      "score": 104,
-      "category": "tools",
-      "added_date": "20261028"
-    },
-    {
-      "title": "@dr_cintas: RT @liquidai: Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybri",
-      "url": "https://x.com/dr_cintas/status/2115130131601899535",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @liquidai: Introducing 𝙻𝙵𝙼𝟹: our new generation of Liquid Foundation Models. With a new tri-hybrid architecture and new multimodal encod…",
-      "published_at": "Tue Oct 27 17:14:55 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261028"
-    },
-    {
-      "title": "@dr_cintas: RT @axiommathai: The largest math proof in human history is now computer-verified.  Today, Axiom ann",
-      "url": "https://x.com/dr_cintas/status/2115093766700966247",
-      "source": "X - @dr_cintas (AI demo 聚合)",
-      "summary": "RT @axiommathai: The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalizati…",
-      "published_at": "Tue Oct 27 14:50:25 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261028"
     }
   ]
 }
