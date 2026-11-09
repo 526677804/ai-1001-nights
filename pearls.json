@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-08T12:01:07.573438",
+  "updated_at": "2026-11-09T12:01:33.620299",
   "pearls": [
+    {
+      "title": "[DIYgod/pinky] Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1257 stars · 新建于 2026-11-06 · 语言: Go",
+      "published_at": "2026-11-06T16:53:14Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261109"
+    },
+    {
+      "title": "[janestreet/agent_skills] Agent skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1012 stars · 新建于 2026-11-03 · 语言: N/A",
+      "published_at": "2026-11-03T16:50:21Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261109"
+    },
+    {
+      "title": "@levelsio: POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
+      "url": "https://x.com/levelsio/status/2119408873488703574",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "POV: you're Jensen Huang now https://t.co/yiiqg6pujF",
+      "published_at": "Sun Nov 08 12:37:06 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261109"
+    },
+    {
+      "title": "@venturetwins: Our last remaining wife guy https://t.co/AfYUBYilU3",
+      "url": "https://x.com/venturetwins/status/2119579582592630873",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Our last remaining wife guy https://t.co/AfYUBYilU3",
+      "published_at": "Sun Nov 08 23:55:27 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261109"
+    },
+    {
+      "title": "@dotey: RT @ryolu_: when we can do anything, do we still know what we want?  the full talk from @aiDotEngine",
+      "url": "https://x.com/dotey/status/2119675421486641652",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @ryolu_: when we can do anything,\ndo we still know what we want?\n\nthe full talk from @aiDotEngineer shanghai. every slide handmade in ke…",
+      "published_at": "Mon Nov 09 06:16:16 +0000 2026",
+      "score": 96,
+      "category": "community",
+      "added_date": "20261109"
+    },
     {
       "title": "Coldframe, a honeypot that poses as a supermarket fridge controller",
       "url": "https://github.com/hedgerow-dev/coldframe",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261031"
-    },
-    {
-      "title": "[ccch1mneyyy/dsh-Go] dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1674 stars · 新建于 2026-10-25 · 语言: Dart",
-      "published_at": "2026-10-25T08:09:52Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261030"
-    },
-    {
-      "title": "Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "url": "https://github.com/johncassil/dontallow",
-      "source": "Show HN",
-      "summary": "👍 144 points · 💬 106 comments · 讨论: https://news.ycombinator.com/item?id=50294506",
-      "published_at": "2026-10-29T19:27:44Z",
-      "score": 144,
-      "category": "tools",
-      "added_date": "20261030"
-    },
-    {
-      "title": "@levelsio: Yes, majority of my Dutch friends are \"burn out\"  You get 1 year of FREE fully paid salary and then ",
-      "url": "https://x.com/levelsio/status/2115951722019397859",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "Yes, majority of my Dutch friends are \"burn out\"\n\nYou get 1 year of FREE fully paid salary and then another year of 70% FREE fully paid salary and you can just sit at home and chill!\n\nYou have to keep",
-      "published_at": "Thu Oct 29 23:39:37 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261030"
-    },
-    {
-      "title": "@levelsio: RT @cheepo2109: camera app vs chromagraph https://t.co/tozxkHf2JN",
-      "url": "https://x.com/levelsio/status/2115933391661170726",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @cheepo2109: camera app vs chromagraph https://t.co/tozxkHf2JN",
-      "published_at": "Thu Oct 29 22:26:47 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261030"
-    },
-    {
-      "title": "@levelsio: X should have a zero tolerance policy for AI replies  Like you do one and your account is suspended ",
-      "url": "https://x.com/levelsio/status/2115805396753383750",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "X should have a zero tolerance policy for AI replies\n\nLike you do one and your account is suspended for life\n\nReplies are a nightmare now and it's never ever been this bad\n\nAI replies are an an existe",
-      "published_at": "Thu Oct 29 13:58:11 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261030"
     }
   ]
 }
