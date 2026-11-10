@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-09T12:01:33.620299",
+  "updated_at": "2026-11-10T12:01:17.577323",
   "pearls": [
+    {
+      "title": "Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "source": "Show HN",
+      "summary": "👍 372 points · 💬 66 comments · 讨论: https://news.ycombinator.com/item?id=50428907",
+      "published_at": "2026-11-09T17:51:31Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261110"
+    },
+    {
+      "title": "DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=50427934",
+      "source": "Show HN",
+      "summary": "👍 112 points · 💬 41 comments · 讨论: https://news.ycombinator.com/item?id=50427934",
+      "published_at": "2026-11-09T16:36:38Z",
+      "score": 112,
+      "category": "tools",
+      "added_date": "20261110"
+    },
+    {
+      "title": "MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "source": "Show HN",
+      "summary": "👍 110 points · 💬 42 comments · 讨论: https://news.ycombinator.com/item?id=50429636",
+      "published_at": "2026-11-09T18:39:22Z",
+      "score": 110,
+      "category": "tools",
+      "added_date": "20261110"
+    },
+    {
+      "title": "[lxe/phoneuse] See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "url": "https://github.com/lxe/phoneuse",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 550 stars · 新建于 2026-11-07 · 语言: Python",
+      "published_at": "2026-11-07T01:28:30Z",
+      "score": 105,
+      "category": "tools",
+      "added_date": "20261110"
+    },
+    {
+      "title": "[devvmhq/devvm] One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 513 stars · 新建于 2026-11-06 · 语言: Go",
+      "published_at": "2026-11-06T07:02:30Z",
+      "score": 101,
+      "category": "tools",
+      "added_date": "20261110"
+    },
     {
       "title": "[DIYgod/pinky] Let AI agents use your phone, with you in the loop.",
       "url": "https://github.com/DIYgod/pinky",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261101"
-    },
-    {
-      "title": "To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
-      "source": "Show HN",
-      "summary": "👍 199 points · 💬 55 comments · 讨论: https://news.ycombinator.com/item?id=50311686",
-      "published_at": "2026-10-30T23:51:24Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261031"
-    },
-    {
-      "title": "[wangzan101/Mika] Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "url": "https://github.com/wangzan101/Mika",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 2127 stars · 新建于 2026-10-29 · 语言: Kotlin",
-      "published_at": "2026-10-29T14:34:07Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261031"
-    },
-    {
-      "title": "[paipiange/nvzhuang] 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1520 stars · 新建于 2026-10-29 · 语言: Go",
-      "published_at": "2026-10-29T06:08:00Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261031"
-    },
-    {
-      "title": "@_akhaliq: RT @AlexKsendzovsky: today, we introduce a little mischief to the world.  for four years, we’ve been",
-      "url": "https://x.com/_akhaliq/status/2116154995490099307",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @AlexKsendzovsky: today, we introduce a little mischief to the world.\n\nfor four years, we’ve been brewing real brain cells on electrodes…",
-      "published_at": "Fri Oct 30 13:07:21 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261031"
-    },
-    {
-      "title": "@levelsio: I thought it was just a proposal, but it actually passed 🤯  France will charge €0.055 per GB on all ",
-      "url": "https://x.com/levelsio/status/2116284214131961910",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "I thought it was just a proposal, but it actually passed 🤯\n\nFrance will charge €0.055 per GB on all internet traffic!",
-      "published_at": "Fri Oct 30 21:40:49 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261031"
     }
   ]
 }
