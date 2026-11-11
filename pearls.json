@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-10T12:01:17.577323",
+  "updated_at": "2026-11-11T12:00:46.036104",
   "pearls": [
+    {
+      "title": "Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Show HN",
+      "summary": "👍 383 points · 💬 122 comments · 讨论: https://news.ycombinator.com/item?id=50443812",
+      "published_at": "2026-11-10T18:01:15Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261111"
+    },
+    {
+      "title": "Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "source": "Show HN",
+      "summary": "👍 233 points · 💬 56 comments · 讨论: https://news.ycombinator.com/item?id=50441518",
+      "published_at": "2026-11-10T15:12:16Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261111"
+    },
+    {
+      "title": "[Arda313131882/aion-2-trainer-tool] Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 766 stars · 新建于 2026-11-06 · 语言: HTML",
+      "published_at": "2026-11-06T20:34:15Z",
+      "score": 126,
+      "category": "tools",
+      "added_date": "20261111"
+    },
+    {
+      "title": "@_akhaliq: RT @hedra_labs: Introducing Hedra Model Factory: an autonomous inference and training platform for b",
+      "url": "https://x.com/_akhaliq/status/2120210655445930028",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @hedra_labs: Introducing Hedra Model Factory: an autonomous inference and training platform for building models for the real world.\n\nThe…",
+      "published_at": "Tue Nov 10 17:43:06 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261111"
+    },
+    {
+      "title": "@levelsio: RT @robj3d3: Anthropic just killed:  &gt; Google Sheets &gt; Excel &gt; TLDraw &gt; Airtable &gt; Mi",
+      "url": "https://x.com/levelsio/status/2120275436865298755",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @robj3d3: Anthropic just killed:\n\n&gt; Google Sheets\n&gt; Excel\n&gt; TLDraw\n&gt; Airtable\n&gt; Miro\n&gt; Excalidraw\n&gt; FigJam\n&gt; Whimsical\n&gt; Lucidchart\n&gt; Lu…",
+      "published_at": "Tue Nov 10 22:00:31 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261111"
+    },
     {
       "title": "Every satellite that passed over any place this week, and its photos",
       "url": "https://www.watched.earth",
@@ -450,56 +500,6 @@
       "score": 135,
       "category": "tools",
       "added_date": "20261102"
-    },
-    {
-      "title": "[deepseek-ai/dsh-superagent-prototype] Towards a More Autonomous Agent System",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 5174 stars · 新建于 2026-10-31 · 语言: TypeScript",
-      "published_at": "2026-10-31T09:32:46Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261101"
-    },
-    {
-      "title": "[jacke-pp/open-yoki] An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 706 stars · 新建于 2026-10-28 · 语言: JavaScript",
-      "published_at": "2026-10-28T08:58:27Z",
-      "score": 120,
-      "category": "tools",
-      "added_date": "20261101"
-    },
-    {
-      "title": "[jackwener/DSH-Android] 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-      "url": "https://github.com/jackwener/DSH-Android",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 664 stars · 新建于 2026-10-27 · 语言: Kotlin",
-      "published_at": "2026-10-27T19:26:12Z",
-      "score": 116,
-      "category": "tools",
-      "added_date": "20261101"
-    },
-    {
-      "title": "@dotey: RT @snowboat84: 这段视频似乎上了热搜，我也转发一下。但是我要说一点和大家不一样的内容：看到那个穿白衣服的女生，我感慨万千。这个女生叫做Vivian。两年前我打算创业做教培考培的时候，就",
-      "url": "https://x.com/dotey/status/2116718944107261975",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @snowboat84: 这段视频似乎上了热搜，我也转发一下。但是我要说一点和大家不一样的内容：看到那个穿白衣服的女生，我感慨万千。这个女生叫做Vivian。两年前我打算创业做教培考培的时候，就想着对标她，因为她恰好在用AI做数学练习辅导，先从SAT做起，后来再扩充到AC…",
-      "published_at": "Sun Nov 01 02:28:17 +0000 2026",
-      "score": 101,
-      "category": "community",
-      "added_date": "20261101"
-    },
-    {
-      "title": "@levelsio: After France Gigabyte tax, Germany's AI tax now Italy is proposing an exit tax  Europe is out of mon",
-      "url": "https://x.com/levelsio/status/2116604593282965549",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "After France Gigabyte tax, Germany's AI tax now Italy is proposing an exit tax\n\nEurope is out of money",
-      "published_at": "Sat Oct 31 18:53:54 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261101"
     }
   ]
 }
