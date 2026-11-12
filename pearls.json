@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-11T12:00:46.036104",
+  "updated_at": "2026-11-12T12:01:26.586752",
   "pearls": [
+    {
+      "title": "I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "source": "Show HN",
+      "summary": "👍 228 points · 💬 88 comments · 讨论: https://news.ycombinator.com/item?id=50457230",
+      "published_at": "2026-11-11T19:12:16Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261112"
+    },
+    {
+      "title": "Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "Show HN",
+      "summary": "👍 252 points · 💬 96 comments · 讨论: https://news.ycombinator.com/item?id=50454625",
+      "published_at": "2026-11-11T15:33:06Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261112"
+    },
+    {
+      "title": "[agentes-chat/agentes-chat] Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 747 stars · 新建于 2026-11-09 · 语言: TypeScript",
+      "published_at": "2026-11-09T00:50:28Z",
+      "score": 124,
+      "category": "tools",
+      "added_date": "20261112"
+    },
+    {
+      "title": "Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "source": "Show HN",
+      "summary": "👍 102 points · 💬 18 comments · 讨论: https://news.ycombinator.com/item?id=50453229",
+      "published_at": "2026-11-11T13:34:24Z",
+      "score": 102,
+      "category": "tools",
+      "added_date": "20261112"
+    },
+    {
+      "title": "@levelsio: RT @TimSweeneyEpic: Save Jensen.  This would be an Apple firing Steve Jobs level of idiocy from NVID",
+      "url": "https://x.com/levelsio/status/2120846295485313252",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @TimSweeneyEpic: Save Jensen.\n\nThis would be an Apple firing Steve Jobs level of idiocy from NVIDIA’s board if they did that, and a grie…",
+      "published_at": "Thu Nov 12 11:48:54 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261112"
+    },
     {
       "title": "Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "url": "https://github.com/GoogleChrome/modern-web-guidance",
@@ -450,56 +500,6 @@
       "score": 115,
       "category": "tools",
       "added_date": "20261103"
-    },
-    {
-      "title": "Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "url": "https://wikihack.netlify.app",
-      "source": "Show HN",
-      "summary": "👍 238 points · 💬 72 comments · 讨论: https://news.ycombinator.com/item?id=50333339",
-      "published_at": "2026-11-02T05:06:30Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261102"
-    },
-    {
-      "title": "HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "source": "Show HN",
-      "summary": "👍 1468 points · 💬 246 comments · 讨论: https://news.ycombinator.com/item?id=50326821",
-      "published_at": "2026-11-01T15:58:28Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261102"
-    },
-    {
-      "title": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "source": "Show HN",
-      "summary": "👍 265 points · 💬 75 comments · 讨论: https://news.ycombinator.com/item?id=50325253",
-      "published_at": "2026-11-01T13:02:30Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261102"
-    },
-    {
-      "title": "[modelflare-ai/AnyModelBot] 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "url": "https://github.com/modelflare-ai/AnyModelBot",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 1133 stars · 新建于 2026-10-27 · 语言: TypeScript",
-      "published_at": "2026-10-27T08:51:18Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261102"
-    },
-    {
-      "title": "[caru-ini/stack-diagram] Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 857 stars · 新建于 2026-11-01 · 语言: TypeScript",
-      "published_at": "2026-11-01T05:35:12Z",
-      "score": 135,
-      "category": "tools",
-      "added_date": "20261102"
     }
   ]
 }
