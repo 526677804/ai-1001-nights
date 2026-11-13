@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-12T12:01:26.586752",
+  "updated_at": "2026-11-13T12:01:19.333929",
   "pearls": [
+    {
+      "title": "My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "source": "Show HN",
+      "summary": "👍 557 points · 💬 191 comments · 讨论: https://news.ycombinator.com/item?id=50470488",
+      "published_at": "2026-11-12T17:02:42Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261113"
+    },
+    {
+      "title": "AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "Show HN",
+      "summary": "👍 109 points · 💬 29 comments · 讨论: https://news.ycombinator.com/item?id=50471650",
+      "published_at": "2026-11-12T18:15:48Z",
+      "score": 109,
+      "category": "tools",
+      "added_date": "20261113"
+    },
+    {
+      "title": "@dotey: RT @fiigii: Everyone believes CUDA is NVIDIA's moat, the reason we've maintained our dominance in th",
+      "url": "https://x.com/dotey/status/2121078844627292249",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @fiigii: Everyone believes CUDA is NVIDIA's moat, the reason we've maintained our dominance in the AI era. I've never believed that.\n\nNV…",
+      "published_at": "Fri Nov 13 03:12:58 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261113"
+    },
+    {
+      "title": "@dotey: RT @Dream1984Tube: Congratulations, Anthropic.  The company that sells \"AI safety\" just made AI a lo",
+      "url": "https://x.com/dotey/status/2120904866566476221",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @Dream1984Tube: Congratulations, Anthropic.\n\nThe company that sells \"AI safety\" just made AI a lot safer: for Anthropic.\n\nYou couldn't o…",
+      "published_at": "Thu Nov 12 15:41:39 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261113"
+    },
+    {
+      "title": "@dotey: 好文章👍  转译：《软件工程师现在该怎么办》  我听过有人说，软件工程师（SWE）要想保持竞争力，就得不断学习写代码和各种技术栈。我并不认同。  每发布一个新模型，这些纯技术技能的价值就会缩水一分。每",
+      "url": "https://x.com/dotey/status/2120961974519398535",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "好文章👍\n\n转译：《软件工程师现在该怎么办》\n\n我听过有人说，软件工程师（SWE）要想保持竞争力，就得不断学习写代码和各种技术栈。我并不认同。\n\n每发布一个新模型，这些纯技术技能的价值就会缩水一分。每天我都觉得自己越来越像个管理 AI 的产品经理，对深厚技术知识的需求则在不断减少。我原以为牢固的“技术护城河”早已干涸，现在给模型写一段用户故事作为提示词，效果甚至比一份严谨的技术方案还要好。工作所需",
+      "published_at": "Thu Nov 12 19:28:34 +0000 2026",
+      "score": 104,
+      "category": "community",
+      "added_date": "20261113"
+    },
     {
       "title": "I recreated Papers Please but you're deciding which YC startups to fund",
       "url": "https://termsheetplease.com/",
@@ -450,56 +500,6 @@
       "score": 99,
       "category": "community",
       "added_date": "20261104"
-    },
-    {
-      "title": "Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "source": "Show HN",
-      "summary": "👍 312 points · 💬 93 comments · 讨论: https://news.ycombinator.com/item?id=50346981",
-      "published_at": "2026-11-03T01:53:34Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261103"
-    },
-    {
-      "title": "Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "source": "Show HN",
-      "summary": "👍 721 points · 💬 345 comments · 讨论: https://news.ycombinator.com/item?id=50340088",
-      "published_at": "2026-11-02T17:16:17Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261103"
-    },
-    {
-      "title": "Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "source": "Show HN",
-      "summary": "👍 284 points · 💬 45 comments · 讨论: https://news.ycombinator.com/item?id=50339221",
-      "published_at": "2026-11-02T16:25:26Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261103"
-    },
-    {
-      "title": "[N1nEmAn/sapper-v2] Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "url": "https://github.com/N1nEmAn/sapper-v2",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 653 stars · 新建于 2026-10-30 · 语言: Python",
-      "published_at": "2026-10-30T15:12:35Z",
-      "score": 115,
-      "category": "tools",
-      "added_date": "20261103"
-    },
-    {
-      "title": "[cutetailbud/ff-ruyijs] A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-      "url": "https://github.com/cutetailbud/ff-ruyijs",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 651 stars · 新建于 2026-10-28 · 语言: C++",
-      "published_at": "2026-10-28T11:31:41Z",
-      "score": 115,
-      "category": "tools",
-      "added_date": "20261103"
     }
   ]
 }
