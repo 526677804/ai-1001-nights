@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-15T12:00:56.960071",
+  "updated_at": "2026-11-16T11:58:44.216947",
   "pearls": [
+    {
+      "title": "[racdeufindurch198812/Blender-AI-MCP-Studio] Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
+      "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 512 stars · 新建于 2026-11-12 · 语言: N/A",
+      "published_at": "2026-11-12T19:28:20Z",
+      "score": 101,
+      "category": "tools",
+      "added_date": "20261116"
+    },
+    {
+      "title": "[tiobeharxi1987/blender-ai-copilot-flow] A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
+      "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 512 stars · 新建于 2026-11-12 · 语言: N/A",
+      "published_at": "2026-11-12T19:38:53Z",
+      "score": 101,
+      "category": "tools",
+      "added_date": "20261116"
+    },
+    {
+      "title": "[zovulrira1974/blender-ai-copilot-assets] An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
+      "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 508 stars · 新建于 2026-11-12 · 语言: N/A",
+      "published_at": "2026-11-12T19:39:54Z",
+      "score": 100,
+      "category": "tools",
+      "added_date": "20261116"
+    },
+    {
+      "title": "@xiaohu: 给《小互 AI 日报》做了个新片头 🫡",
+      "url": "https://x.com/xiaohu/status/2122267771665031674",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "给《小互 AI 日报》做了个新片头\n🫡\n\nVideo",
+      "published_at": "Mon, 16 Nov 2026 09:57:21 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261116"
+    },
+    {
+      "title": "@xiaohu: 今日笑话： 这位日本朋友 去深圳参加 APEC 结果 Claude 被封了...",
+      "url": "https://x.com/xiaohu/status/2122266673130655997",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "今日笑话：\n这位日本朋友\n去深圳参加 APEC\n结果 Claude 被封了...\n\n\n吉川真人🇯🇵深セン (@mako_63)\n\n私のClaudeのアカウントも停止を喰らいました。APECの首脳会談でぜひこの問題に関して議論してほしい\n\n\n\n\n\n— https://nitter.perennialte.ch/mako_63/status/2121752202750636348#m",
+      "published_at": "Mon, 16 Nov 2026 09:52:59 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261116"
+    },
     {
       "title": "A terminal-native idle factory game, written in Rust with ratatui",
       "url": "https://gitlab.com/snipedbywifi/terminactory",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261107"
-    },
-    {
-      "title": "Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "source": "Show HN",
-      "summary": "👍 126 points · 💬 17 comments · 讨论: https://news.ycombinator.com/item?id=50378643",
-      "published_at": "2026-11-05T13:07:29Z",
-      "score": 126,
-      "category": "tools",
-      "added_date": "20261106"
-    },
-    {
-      "title": "[zhanghao123vip/ai-manju-skills] 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
-      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 596 stars · 新建于 2026-10-31 · 语言: N/A",
-      "published_at": "2026-10-31T03:22:12Z",
-      "score": 109,
-      "category": "tools",
-      "added_date": "20261106"
-    },
-    {
-      "title": "[Sandflow-ai/sand3d] 3D modeling in Python, built for LLMs.",
-      "url": "https://github.com/Sandflow-ai/sand3d",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 558 stars · 新建于 2026-11-03 · 语言: HTML",
-      "published_at": "2026-11-03T08:23:03Z",
-      "score": 105,
-      "category": "tools",
-      "added_date": "20261106"
-    },
-    {
-      "title": "@dotey: RT @EianLu: https://t.co/IjmUF2hOCn",
-      "url": "https://x.com/dotey/status/2118516098098491825",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @EianLu: https://t.co/IjmUF2hOCn",
-      "published_at": "Fri Nov 06 01:29:32 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261106"
-    },
-    {
-      "title": "@minchoi: RT @minchoi: You can't call this AI slop anymore.  One self-taught working mom made this 9-minute AI",
-      "url": "https://x.com/minchoi/status/2118665268679348365",
-      "source": "X - @minchoi (AI demo 聚合)",
-      "summary": "RT @minchoi: You can't call this AI slop anymore.\n\nOne self-taught working mom made this 9-minute AI fantasy film.\n\nAn she won 4 awards at…",
-      "published_at": "Fri Nov 06 11:22:17 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261106"
     }
   ]
 }
