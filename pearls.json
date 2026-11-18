@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-17T11:58:58.194516",
+  "updated_at": "2026-11-18T11:59:03.368068",
   "pearls": [
+    {
+      "title": "@xiaohu: 今天的小互 AI 日报： 3 件大事： AI 歌手在韩国压过女团拿了第一 GPT-6.2 Astra 和 Sol发布 英伟达董事会：不会让黄仁勋回来当 CEO 今天的小互 AI 日报： OpenAI ",
+      "url": "https://x.com/xiaohu/status/2122918958190023164",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "今天的小互 AI 日报：\n\n 3 件大事：\nAI 歌手在韩国压过女团拿了第一\nGPT-6.2 Astra 和 Sol发布\n英伟达董事会：不会让黄仁勋回来当 CEO\n\n今天的小互 AI 日报：\n\nOpenAI 发布 GPT-6.2 Astra 和 Sol：官方说 Astra 每项任务成本不到上一代三分之一，API 降价两成；第三方 Artificial Analysis 综合榜排第 2\n\nOpenA",
+      "published_at": "Wed, 18 Nov 2026 05:04:56 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261118"
+    },
+    {
+      "title": "@xiaohu: RT by @xiaohu: GPT-6.2 Astra is LIVE on Higgsfield. OpenAI’s new frontier model for your most demand",
+      "url": "https://x.com/higgsfield_ai/status/2122751206187802945",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plugin, GPT-6.2 Astra powers proactive multi-agent workflows across design, coding,",
+      "published_at": "Tue, 17 Nov 2026 17:58:21 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261118"
+    },
+    {
+      "title": "@xiaohu: GPT-6.2 Astra发布 看评分是遥遥领先🙂",
+      "url": "https://x.com/xiaohu/status/2122754691088126109",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "GPT-6.2 Astra发布\n\n看评分是遥遥领先🙂\n\n\nOpenAI (@OpenAI)\n\nGPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than ",
+      "published_at": "Tue, 17 Nov 2026 18:12:11 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261118"
+    },
+    {
+      "title": "@op7418: 腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！",
+      "url": "https://x.com/op7418/status/2122977451500523892",
+      "source": "X - @op7418 (中文 AI 造物聚合)",
+      "summary": "腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！",
+      "published_at": "Wed, 18 Nov 2026 08:57:22 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261118"
+    },
+    {
+      "title": "@op7418: 试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的",
+      "url": "https://x.com/op7418/status/2122925281514303836",
+      "source": "X - @op7418 (中文 AI 造物聚合)",
+      "summary": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式\n\n让它剪了一个 8 分钟的视频\n\n总共耗时 27 分钟，实际模型响应用了 14 分钟左右。\n\n平均速度是 126 token/s，最快的一次达到了 252 token/s\n\n\n\n\n歸藏(guizang.ai) (@op7418)\n\nGPT-6.2 Astra 虽然大家的反馈都不太好\n\n但我感觉 Sol 是真的快，快了太多了！\n\n",
+      "published_at": "Wed, 18 Nov 2026 05:30:03 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261118"
+    },
     {
       "title": "@xiaohu: 羡慕郭总每一天 第2480天",
       "url": "https://x.com/xiaohu/status/2122544746229076038",
@@ -450,56 +500,6 @@
       "score": 96,
       "category": "community",
       "added_date": "20261109"
-    },
-    {
-      "title": "Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "source": "Show HN",
-      "summary": "👍 247 points · 💬 60 comments · 讨论: https://news.ycombinator.com/item?id=50406292",
-      "published_at": "2026-11-07T17:27:30Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261108"
-    },
-    {
-      "title": "[shanselman/gputaskman] A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "url": "https://github.com/shanselman/gputaskman",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 630 stars · 新建于 2026-11-03 · 语言: Python",
-      "published_at": "2026-11-03T00:49:34Z",
-      "score": 113,
-      "category": "tools",
-      "added_date": "20261108"
-    },
-    {
-      "title": "[JosssphZhou/poki] Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-      "url": "https://github.com/JosssphZhou/poki",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 555 stars · 新建于 2026-11-05 · 语言: JavaScript",
-      "published_at": "2026-11-05T15:04:31Z",
-      "score": 105,
-      "category": "tools",
-      "added_date": "20261108"
-    },
-    {
-      "title": "@venturetwins: RT @ShizukuAILabs: We’re introducing Shizuku-Duplex, the world’s first full-duplex audio synthesis m",
-      "url": "https://x.com/venturetwins/status/2119268234771997089",
-      "source": "X - @venturetwins (AI builder)",
-      "summary": "RT @ShizukuAILabs: We’re introducing Shizuku-Duplex, the world’s first full-duplex audio synthesis model built specifically for AI characte…",
-      "published_at": "Sun Nov 08 03:18:15 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261108"
-    },
-    {
-      "title": "[Renly1994/xiaotang-daozai] 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
-      "url": "https://github.com/Renly1994/xiaotang-daozai",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 489 stars · 新建于 2026-11-03 · 语言: Rust",
-      "published_at": "2026-11-03T04:25:22Z",
-      "score": 98,
-      "category": "tools",
-      "added_date": "20261108"
     }
   ]
 }
