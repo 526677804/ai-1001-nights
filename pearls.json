@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-19T11:59:44.793636",
+  "updated_at": "2026-11-20T11:59:02.447400",
   "pearls": [
+    {
+      "title": "@xiaohu: 牛 p",
+      "url": "https://x.com/xiaohu/status/2123663561050525960",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "牛 p\n\n\nGOD2FREE (@GOD2FREEX)\n\n【GROUND·全球实时态势感知系统】 今日正式上线。 目前为1.0版本，融合了实时的航班、卫星、船舶、天气、地形、热门景点摄像头以及全球实时滚动热点新闻。我没有写一行代码，完全使用Grok Bot调用Gemini 4 Neon模型开发完成。  \n\n欢迎大家在线体验：groundinfinity.com \n\n有合作意向或任何问题可以给我留言",
+      "published_at": "Fri, 20 Nov 2026 06:23:43 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261120"
+    },
+    {
+      "title": "@xiaohu: 最近一直在给企业做 AI 化改造，发内容少了 做的几乎是全流程的改造很费劲 最愁人的是企业的各种数据对接和企业知识库的搭建 因为收集好的数据和文档清洗好清洗，但是如何能和真实业务匹配、互相关联，交叉对",
+      "url": "https://x.com/xiaohu/status/2123645210697884105",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "最近一直在给企业做 AI 化改造，发内容少了\n做的几乎是全流程的改造很费劲\n\n最愁人的是企业的各种数据对接和企业知识库的搭建\n\n因为收集好的数据和文档清洗好清洗，但是如何能和真实业务匹配、互相关联，交叉对比是个非常大的难题\n\n试了很多开源方案都不是很理想，直到我发现这个🧵...\n\nlumimax  一个面向 Agent 的企业级知识库\n\n它会把资料先「编译」成互相链接的知识，再拿来问，可以作为企业",
+      "published_at": "Fri, 20 Nov 2026 05:10:48 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261120"
+    },
+    {
+      "title": "@xiaohu: 取消了 ChatGPT Pro 开通了 Google Ultra 渣男的日常",
+      "url": "https://x.com/xiaohu/status/2123614144733831291",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "取消了 ChatGPT Pro\n开通了 Google Ultra\n\n渣男的日常",
+      "published_at": "Fri, 20 Nov 2026 03:07:21 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261120"
+    },
+    {
+      "title": "@xiaohu: Anthropic 这个敲钟的仪式 看起来像是AI生成的🤣 全员透着一丝都不太像真人的感觉…",
+      "url": "https://x.com/xiaohu/status/2123443940053676054",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "Anthropic 这个敲钟的仪式\n\n看起来像是AI生成的🤣\n\n全员透着一丝都不太像真人的感觉…\n\nVideo",
+      "published_at": "Thu, 19 Nov 2026 15:51:01 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261120"
+    },
+    {
+      "title": "@xiaohu: Devin将赠送高达 1 亿美元的用量 你只要发送消息给他们的 Bot Poke 并尝试说服它你想建造的东西多么具有划时代的意义或者价值 就能从它那里拿到最高 10000 美元的用量和Devin 的订",
+      "url": "https://x.com/xiaohu/status/2123437195675730208",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "Devin将赠送高达 1 亿美元的用量\n\n你只要发送消息给他们的 Bot Poke 并尝试说服它你想建造的东西多么具有划时代的意义或者价值\n\n就能从它那里拿到最高 10000 美元的用量和Devin 的订阅\n\n你可以讨价还价，它会讽刺你挖苦你的创意\n\n小心点😂 poke.com/bots\n\n我搞到了 149 美金用量+200 美金的 max 订阅\n\nLink\n\n\n\nPitch your idea,",
+      "published_at": "Thu, 19 Nov 2026 15:24:13 GMT",
+      "score": 85,
+      "category": "community",
+      "added_date": "20261120"
+    },
     {
       "title": "[weightcashiercupola/Gemini-Config-Checker-] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261111"
-    },
-    {
-      "title": "Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "source": "Show HN",
-      "summary": "👍 372 points · 💬 66 comments · 讨论: https://news.ycombinator.com/item?id=50428907",
-      "published_at": "2026-11-09T17:51:31Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261110"
-    },
-    {
-      "title": "DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=50427934",
-      "source": "Show HN",
-      "summary": "👍 112 points · 💬 41 comments · 讨论: https://news.ycombinator.com/item?id=50427934",
-      "published_at": "2026-11-09T16:36:38Z",
-      "score": 112,
-      "category": "tools",
-      "added_date": "20261110"
-    },
-    {
-      "title": "MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app/",
-      "source": "Show HN",
-      "summary": "👍 110 points · 💬 42 comments · 讨论: https://news.ycombinator.com/item?id=50429636",
-      "published_at": "2026-11-09T18:39:22Z",
-      "score": 110,
-      "category": "tools",
-      "added_date": "20261110"
-    },
-    {
-      "title": "[lxe/phoneuse] See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "url": "https://github.com/lxe/phoneuse",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 550 stars · 新建于 2026-11-07 · 语言: Python",
-      "published_at": "2026-11-07T01:28:30Z",
-      "score": 105,
-      "category": "tools",
-      "added_date": "20261110"
-    },
-    {
-      "title": "[devvmhq/devvm] One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
-      "url": "https://github.com/devvmhq/devvm",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 513 stars · 新建于 2026-11-06 · 语言: Go",
-      "published_at": "2026-11-06T07:02:30Z",
-      "score": 101,
-      "category": "tools",
-      "added_date": "20261110"
     }
   ]
 }
