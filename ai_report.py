@@ -28,6 +28,17 @@ def load_night_state() -> dict:
     return {'night_no': 0, 'last_night_date': '', 'recent_tags': []}
 
 
+def alert_admin(reason: str):
+    """心灵捕手失败时私信管理员：降级模板会照常推送，工作流仍显示成功，不告警就无人察觉"""
+    from fetch_news import load_config, send_admin_alert
+    send_admin_alert(
+        load_config(),
+        f"心灵捕手缺席：{reason}\n今夜改用降级模板推送（英文原标题、无编辑选材）。",
+        title='AI一千零一夜 · 心灵捕手异常',
+        hint='请检查 CURSOR_API_KEY 对应 Cursor 账号的套餐与额度，或查看 Actions 日志。',
+    )
+
+
 def build_prompt(today: str, tonight: int, recent_tags: list) -> str:
     date_str = datetime.now().strftime('%Y.%m.%d')
     recent_tags_str = '、'.join(recent_tags[-7:]) if recent_tags else '（尚无历史，今夜是开播初期）'
@@ -97,6 +108,7 @@ def main():
     api_key = load_env_var('CURSOR_API_KEY')
     if not api_key:
         print('⚠️ 未配置 CURSOR_API_KEY，心灵捕手缺席，转降级模板')
+        alert_admin('未配置 CURSOR_API_KEY')
         sys.exit(3)
     os.environ.setdefault('CURSOR_API_KEY', api_key)
 
@@ -126,9 +138,11 @@ def main():
         )
         if result.status != 'finished':
             print(f'❌ 心灵捕手运行失败: status={result.status}')
+            alert_admin(f'代理运行未完成（status={result.status}）')
             sys.exit(2)
     except CursorAgentError as e:
         print(f'❌ AI 代理启动失败: {e}')
+        alert_admin(f'代理启动失败（{e}）')
         sys.exit(1)
 
     # 无值得推送的内容时 AI 按约定不生成文件，属正常跳过（区别于生成失败）
@@ -144,6 +158,7 @@ def main():
     content = open(out_file, 'r', encoding='utf-8').read()
     if len(content) < 200 or '一千零一夜' not in content or 'No.1' not in content:
         print('❌ AI 生成的节目稿内容不完整')
+        alert_admin('生成的节目稿内容不完整')
         sys.exit(2)
 
     print(f'✅ 心灵捕手整理完成: {out_file}（{len(content)} 字符）')

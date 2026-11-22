@@ -458,7 +458,7 @@ def fetch_reddit(keywords: List[str], subreddits: List[str]) -> List[NewsItem]:
 
 
 # X 采集统计，供 main() 判断是否需要告警
-TWITTER_STATS = {'total_accounts': 0, 'failed_accounts': 0, 'method': ''}
+TWITTER_STATS = {'total_accounts': 0, 'failed_accounts': 0, 'api_failed_accounts': 0, 'method': ''}
 
 
 def fetch_tweets_via_api(account: str, api_cfg: dict, api_key: str,
@@ -584,6 +584,7 @@ def fetch_twitter(keywords: List[str], twitter_config: dict) -> List[NewsItem]:
 
     TWITTER_STATS['total_accounts'] = 0
     TWITTER_STATS['failed_accounts'] = 0
+    TWITTER_STATS['api_failed_accounts'] = 0
 
     for group_key, group in account_groups.items():
         group_name = group.get('name', group_key)
@@ -602,6 +603,7 @@ def fetch_twitter(keywords: List[str], twitter_config: dict) -> List[NewsItem]:
                         tweets = None
                 except Exception as e:
                     print(f"   ⚠️ X @{account} API 采集失败（{e}），尝试 nitter 回退...")
+                    TWITTER_STATS['api_failed_accounts'] += 1
 
             if tweets is None:
                 try:
@@ -716,18 +718,20 @@ def deduplicate_items(items: List[NewsItem]) -> List[NewsItem]:
     return result
 
 
-def send_admin_alert(config: dict, alert_msg: str) -> bool:
-    """通过 lark-cli 给管理员发采集异常告警私信"""
+def send_admin_alert(config: dict, alert_msg: str,
+                     title: str = 'AI一千零一夜采集异常',
+                     hint: str = '请检查采集日志和信息源状态（可运行 test_sources.py 复测）。') -> bool:
+    """通过 lark-cli 给管理员发告警私信"""
     admin_user_id = config.get('feishu', {}).get('admin_user_id', '')
     if not admin_user_id:
         return False
 
-    text = f"""⚠️ AI一千零一夜采集异常
+    text = f"""⚠️ {title}
 
 时间：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 {alert_msg}
 
-请检查采集日志和信息源状态（可运行 test_sources.py 复测）。""".strip()
+{hint}""".strip()
 
     try:
         result = subprocess.run(
@@ -852,6 +856,10 @@ def main():
                 send_admin_alert(config,
                     f"X 信息源采集 0 条，且 {failed}/{total} 个账号采集失败（方式：{TWITTER_STATS['method']}），"
                     f"请确认采集途径是否部分失效。")
+            elif TWITTER_STATS['api_failed_accounts'] >= total:
+                send_admin_alert(config,
+                    f"twitterapi.io 对全部 {total} 个账号调用失败（402 通常表示额度用完），"
+                    f"今夜靠 nitter 回退采到 {len(items)} 条，nitter 随时可能失效。")
 
     # 9. KOL 博客与 Newsletter（重试 2 次）
     if sources.get('kol_blogs', {}).get('enabled'):
