@@ -5,7 +5,7 @@
 以「心灵捕手」说书人身份撰写「第 N 夜」节目稿 news_YYYYMMDD.md。
 
 需要环境变量 CURSOR_API_KEY（Cursor Dashboard → Integrations 生成，本地可写入 .env）。
-未配置或执行失败时退出非 0，由调用方降级到 generate_report.py（模板整理）。
+未配置或执行失败时私信管理员并退出非 0，CI 据此当晚停播（generate_report.py 模板仅供手动救场）。
 """
 
 import json
@@ -29,11 +29,11 @@ def load_night_state() -> dict:
 
 
 def alert_admin(reason: str):
-    """心灵捕手失败时私信管理员：降级模板会照常推送，工作流仍显示成功，不告警就无人察觉"""
+    """心灵捕手失败时私信管理员（当晚停播，群里不会有任何动静）"""
     from fetch_news import load_config, send_admin_alert
     send_admin_alert(
         load_config(),
-        f"心灵捕手缺席：{reason}\n今夜改用降级模板推送（英文原标题、无编辑选材）。",
+        f"心灵捕手缺席：{reason}\n今夜停播；约一小时后的备份触发会自动重试一次。",
         title='AI一千零一夜 · 心灵捕手异常',
         hint='请检查 CURSOR_API_KEY 对应 Cursor 账号的套餐与额度，或查看 Actions 日志。',
     )
@@ -107,7 +107,7 @@ def main():
     from fetch_news import load_env_var
     api_key = load_env_var('CURSOR_API_KEY')
     if not api_key:
-        print('⚠️ 未配置 CURSOR_API_KEY，心灵捕手缺席，转降级模板')
+        print('⚠️ 未配置 CURSOR_API_KEY，心灵捕手缺席')
         alert_admin('未配置 CURSOR_API_KEY')
         sys.exit(3)
     os.environ.setdefault('CURSOR_API_KEY', api_key)

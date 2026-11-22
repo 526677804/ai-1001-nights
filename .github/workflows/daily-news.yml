@@ -65,24 +65,33 @@ jobs:
           TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
         run: python3 fetch_news.py
 
-      - name: 生成节目稿（心灵捕手优先，失败自动降级模板整理）
+      - name: 生成节目稿（心灵捕手失败则今夜停播）
         id: report
         env:
           CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
         run: |
-          python3 ai_report.py || python3 generate_report.py
-          if [ -f "news_$(date +%Y%m%d).md" ]; then
+          news="news_$(date +%Y%m%d).md"
+          if python3 ai_report.py; then
+            echo "ai_ok=true" >> "$GITHUB_OUTPUT"
+          else
+            rm -f "$news"
+            echo "ai_ok=false" >> "$GITHUB_OUTPUT"
+            echo "⏸️ 心灵捕手失败，今夜停播（已私信管理员）"
+          fi
+          if [ -f "$news" ]; then
             echo "has_report=true" >> "$GITHUB_OUTPUT"
           else
             echo "has_report=false" >> "$GITHUB_OUTPUT"
-            echo "ℹ️ 今夜无值得开讲的素材，跳过推送"
+            echo "ℹ️ 今夜无节目稿，跳过推送"
           fi
 
       - name: 推送到飞书
         if: steps.report.outputs.has_report == 'true'
         run: python3 push_to_feishu.py
 
+      # 心灵捕手失败时不写状态：候选不会被永久标记已见，且备份触发会再试一次
       - name: 更新状态文件（已见记录/夜编号/遗珠库）
+        if: steps.report.outputs.ai_ok == 'true'
         run: |
           python3 mark_seen.py
           git add seen_urls.json night_state.json pearls.json
@@ -102,3 +111,9 @@ jobs:
             raw_news_*.json
             news_*.md
           retention-days: 14
+
+      - name: 心灵捕手失败时标红本次运行
+        if: steps.report.outputs.ai_ok == 'false'
+        run: |
+          echo "::error::心灵捕手失败，今夜停播，详见「生成节目稿」步骤日志"
+          exit 1

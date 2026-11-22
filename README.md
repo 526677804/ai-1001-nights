@@ -17,7 +17,7 @@
 ```
 fetch_news.py ──→ raw_news_YYYYMMDD.json   （9 路信息源采集 + 去重 + 过滤已推送 + 注入遗珠库）
       │
-ai_report.py（首选）/ generate_report.py（降级） ──→ news_YYYYMMDD.md（「第 N 夜」节目稿）
+ai_report.py（心灵捕手） ──→ news_YYYYMMDD.md（「第 N 夜」节目稿；失败则当晚停播 + 私信管理员）
       │
 push_to_feishu.py ──→ 飞书群（失败私信管理员）
       │
@@ -48,10 +48,10 @@ mark_seen.py ──→ seen_urls.json / night_state.json / pearls.json（CI 提�
 
 ```bash
 pip install -r requirements.txt
-cp .env.example .env   # 填入 TWITTERAPI_IO_KEY、CURSOR_API_KEY（可选）
+cp .env.example .env   # 填入 TWITTERAPI_IO_KEY、CURSOR_API_KEY
 python3 test_sources.py                          # 信息源体检
 python3 fetch_news.py                            # 采集
-python3 ai_report.py || python3 generate_report.py  # 整理（AI 优先，自动降级）
+python3 ai_report.py                             # 心灵捕手撰稿（generate_report.py 为纯模板，仅手动救场用）
 python3 push_to_feishu.py                        # 推送（需 lark-cli 已配置 bot 身份）
 python3 mark_seen.py                             # 更新状态
 ```
@@ -62,4 +62,4 @@ python3 mark_seen.py                             # 更新状态
 |--------|------|
 | `LARK_APP_ID` / `LARK_APP_SECRET` | lark-cli bot 身份（飞书推送） |
 | `TWITTERAPI_IO_KEY` | X 采集主途径 |
-| `CURSOR_API_KEY` | 心灵捕手整理（缺省自动降级模板） |
+| `CURSOR_API_KEY` | 心灵捕手撰稿（需 Pro 及以上套餐；失效时当晚停播并告警） |
