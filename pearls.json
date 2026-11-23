@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-22T12:02:54.874497",
+  "updated_at": "2026-11-23T12:04:39.330840",
   "pearls": [
+    {
+      "title": "[INK-Q/agy-fast] Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 692 stars · 新建于 2026-11-19 · 语言: TypeScript",
+      "published_at": "2026-11-19T04:58:46Z",
+      "score": 119,
+      "category": "tools",
+      "added_date": "20261123"
+    },
+    {
+      "title": "[ThreatDefence/agentic-attack-detections] Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 495 stars · 新建于 2026-11-20 · 语言: Python",
+      "published_at": "2026-11-20T00:06:24Z",
+      "score": 99,
+      "category": "tools",
+      "added_date": "20261123"
+    },
+    {
+      "title": "[w01fb0ss/PiBot] Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 469 stars · 新建于 2026-11-21 · 语言: TypeScript",
+      "published_at": "2026-11-21T06:54:24Z",
+      "score": 96,
+      "category": "tools",
+      "added_date": "20261123"
+    },
+    {
+      "title": "@levelsio: He literally just sounds like my group chats with my best friends",
+      "url": "https://x.com/levelsio/status/2124419241252446690",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "He literally just sounds like my group chats with my best friends",
+      "published_at": "Sun Nov 22 08:26:31 +0000 2026",
+      "score": 95,
+      "category": "community",
+      "added_date": "20261123"
+    },
+    {
+      "title": "[Juanlabs1989/descript-pro-win] Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+      "url": "https://github.com/Juanlabs1989/descript-pro-win",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 439 stars · 新建于 2026-11-21 · 语言: N/A",
+      "published_at": "2026-11-21T16:02:55Z",
+      "score": 93,
+      "category": "tools",
+      "added_date": "20261123"
+    },
     {
       "title": "Zero C# – C# without a runtime or GC",
       "url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -450,56 +500,6 @@
       "score": 100,
       "category": "community",
       "added_date": "20261114"
-    },
-    {
-      "title": "My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "source": "Show HN",
-      "summary": "👍 557 points · 💬 191 comments · 讨论: https://news.ycombinator.com/item?id=50470488",
-      "published_at": "2026-11-12T17:02:42Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261113"
-    },
-    {
-      "title": "AgentRun – open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "source": "Show HN",
-      "summary": "👍 109 points · 💬 29 comments · 讨论: https://news.ycombinator.com/item?id=50471650",
-      "published_at": "2026-11-12T18:15:48Z",
-      "score": 109,
-      "category": "tools",
-      "added_date": "20261113"
-    },
-    {
-      "title": "@dotey: RT @fiigii: Everyone believes CUDA is NVIDIA's moat, the reason we've maintained our dominance in th",
-      "url": "https://x.com/dotey/status/2121078844627292249",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @fiigii: Everyone believes CUDA is NVIDIA's moat, the reason we've maintained our dominance in the AI era. I've never believed that.\n\nNV…",
-      "published_at": "Fri Nov 13 03:12:58 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261113"
-    },
-    {
-      "title": "@dotey: RT @Dream1984Tube: Congratulations, Anthropic.  The company that sells \"AI safety\" just made AI a lo",
-      "url": "https://x.com/dotey/status/2120904866566476221",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "RT @Dream1984Tube: Congratulations, Anthropic.\n\nThe company that sells \"AI safety\" just made AI a lot safer: for Anthropic.\n\nYou couldn't o…",
-      "published_at": "Thu Nov 12 15:41:39 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261113"
-    },
-    {
-      "title": "@dotey: 好文章👍  转译：《软件工程师现在该怎么办》  我听过有人说，软件工程师（SWE）要想保持竞争力，就得不断学习写代码和各种技术栈。我并不认同。  每发布一个新模型，这些纯技术技能的价值就会缩水一分。每",
-      "url": "https://x.com/dotey/status/2120961974519398535",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "好文章👍\n\n转译：《软件工程师现在该怎么办》\n\n我听过有人说，软件工程师（SWE）要想保持竞争力，就得不断学习写代码和各种技术栈。我并不认同。\n\n每发布一个新模型，这些纯技术技能的价值就会缩水一分。每天我都觉得自己越来越像个管理 AI 的产品经理，对深厚技术知识的需求则在不断减少。我原以为牢固的“技术护城河”早已干涸，现在给模型写一段用户故事作为提示词，效果甚至比一份严谨的技术方案还要好。工作所需",
-      "published_at": "Thu Nov 12 19:28:34 +0000 2026",
-      "score": 104,
-      "category": "community",
-      "added_date": "20261113"
     }
   ]
 }
