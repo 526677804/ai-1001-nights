@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-23T12:04:39.330840",
+  "updated_at": "2026-11-24T00:31:56.336919",
   "pearls": [
+    {
+      "title": "@dotey: RT @DrJimFan: It was the worst of times, it is the best of times. It was the season of Darkness, it ",
+      "url": "https://x.com/dotey/status/2124952750681116997",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @DrJimFan: It was the worst of times, it is the best of times. It was the season of Darkness, it is the season of Light. It was the Wint…",
+      "published_at": "Mon Nov 23 19:46:30 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261124"
+    },
+    {
+      "title": "@dotey: RT @aburducky: if you come for the king, you best not miss https://t.co/yb2eV1d5do",
+      "url": "https://x.com/dotey/status/2124944719461400968",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @aburducky: if you come for the king, you best not miss https://t.co/yb2eV1d5do",
+      "published_at": "Mon Nov 23 19:14:35 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261124"
+    },
+    {
+      "title": "@levelsio: RT @TimSweeneyEpic: Anthropic's, and to some extent OpenAI's, bargain proposed to government appears",
+      "url": "https://x.com/levelsio/status/2124993369680261337",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @TimSweeneyEpic: Anthropic's, and to some extent OpenAI's, bargain proposed to government appears to be: grant us monopoly, shut down op…",
+      "published_at": "Mon Nov 23 22:27:54 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261124"
+    },
+    {
+      "title": "@levelsio: RT @balajis: Jensen is restored. Journos are ruined. The coup is defeated. Open source AI is protect",
+      "url": "https://x.com/levelsio/status/2124930863461007789",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @balajis: Jensen is restored.\nJournos are ruined.\nThe coup is defeated.\nOpen source AI is protected.\nAnd the acceleration continues. htt…",
+      "published_at": "Mon Nov 23 18:19:31 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261124"
+    },
+    {
+      "title": "[erkamyaman/safe-anything] Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "url": "https://github.com/erkamyaman/safe-anything",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 489 stars · 新建于 2026-11-22 · 语言: Rust",
+      "published_at": "2026-11-22T16:44:10Z",
+      "score": 98,
+      "category": "tools",
+      "added_date": "20261124"
+    },
     {
       "title": "[INK-Q/agy-fast] Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "url": "https://github.com/INK-Q/agy-fast",
@@ -450,56 +500,6 @@
       "score": 116,
       "category": "tools",
       "added_date": "20261115"
-    },
-    {
-      "title": "Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
-      "source": "Show HN",
-      "summary": "👍 157 points · 💬 21 comments · 讨论: https://news.ycombinator.com/item?id=50491545",
-      "published_at": "2026-11-13T23:17:39Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261114"
-    },
-    {
-      "title": "Isometric SF – A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "source": "Show HN",
-      "summary": "👍 216 points · 💬 70 comments · 讨论: https://news.ycombinator.com/item?id=50487228",
-      "published_at": "2026-11-13T17:58:37Z",
-      "score": 150,
-      "category": "tools",
-      "added_date": "20261114"
-    },
-    {
-      "title": "@xiaohu: RT @elonmusk: @yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
-      "url": "https://x.com/xiaohu/status/2121428762520916154",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "RT @elonmusk: @yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
-      "published_at": "Sat Nov 14 02:23:25 +0000 2026",
-      "score": 105,
-      "category": "community",
-      "added_date": "20261114"
-    },
-    {
-      "title": "@_akhaliq: RT @ggerganov: llama.cpp v1.0.0 is now available  https://t.co/twQwJkH8kE",
-      "url": "https://x.com/_akhaliq/status/2121261277272330527",
-      "source": "X - @_akhaliq (AI demo 聚合)",
-      "summary": "RT @ggerganov: llama.cpp v1.0.0 is now available\n\nhttps://t.co/twQwJkH8kE",
-      "published_at": "Fri Nov 13 15:17:54 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261114"
-    },
-    {
-      "title": "@levelsio: RT @balajis: Nvidia is nothing without its people.  It now appears the national security allegations",
-      "url": "https://x.com/levelsio/status/2121293385982251425",
-      "source": "X - @levelsio (AI builder)",
-      "summary": "RT @balajis: Nvidia is nothing without its people.\n\nIt now appears the national security allegations may be as fake as Russiagate. If so, N…",
-      "published_at": "Fri Nov 13 17:25:29 +0000 2026",
-      "score": 100,
-      "category": "community",
-      "added_date": "20261114"
     }
   ]
 }
