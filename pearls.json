@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-24T12:02:40.383669",
+  "updated_at": "2026-11-25T12:03:20.943078",
   "pearls": [
+    {
+      "title": "Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "source": "Show HN",
+      "summary": "👍 164 points · 💬 40 comments · 讨论: https://news.ycombinator.com/item?id=50638503",
+      "published_at": "2026-11-25T04:31:48Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261125"
+    },
+    {
+      "title": "[sous-labs/songe] A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 796 stars · 新建于 2026-11-20 · 语言: Python",
+      "published_at": "2026-11-20T11:01:20Z",
+      "score": 129,
+      "category": "tools",
+      "added_date": "20261125"
+    },
+    {
+      "title": "[Developing-Gamer/agent-sim] iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
+      "url": "https://github.com/Developing-Gamer/agent-sim",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 580 stars · 新建于 2026-11-21 · 语言: Rust",
+      "published_at": "2026-11-21T20:26:12Z",
+      "score": 108,
+      "category": "tools",
+      "added_date": "20261125"
+    },
+    {
+      "title": "@xiaohu: 看完这个网站 你会回来转发的：  https://t.co/QQ0sP1uYhl",
+      "url": "https://x.com/xiaohu/status/2125153518713741467",
+      "source": "X - @xiaohu (中文 AI 造物聚合)",
+      "summary": "看完这个网站\n你会回来转发的：\n\nhttps://t.co/QQ0sP1uYhl",
+      "published_at": "Tue Nov 24 09:04:16 +0000 2026",
+      "score": 105,
+      "category": "community",
+      "added_date": "20261125"
+    },
+    {
+      "title": "@_akhaliq: RT @whitecircle: We’re running the largest post-training competition ever!  Together with: @OpenAI @",
+      "url": "https://x.com/_akhaliq/status/2125291519418781883",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @whitecircle: We’re running the largest post-training competition ever!\n\nTogether with:\n@OpenAI @GoogleDeepMind @MistralAI @modal @baset…",
+      "published_at": "Tue Nov 24 18:12:38 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261125"
+    },
     {
       "title": "@dotey: RT @DrJimFan: It was the worst of times, it is the best of times. It was the season of Darkness, it ",
       "url": "https://x.com/dotey/status/2124952750681116997",
@@ -450,56 +500,6 @@
       "score": 85,
       "category": "community",
       "added_date": "20261117"
-    },
-    {
-      "title": "[racdeufindurch198812/Blender-AI-MCP-Studio] Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
-      "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 512 stars · 新建于 2026-11-12 · 语言: N/A",
-      "published_at": "2026-11-12T19:28:20Z",
-      "score": 101,
-      "category": "tools",
-      "added_date": "20261116"
-    },
-    {
-      "title": "[tiobeharxi1987/blender-ai-copilot-flow] A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual studio with a built-in MCP server. · blender-ai-copilot-flow · blender · blender 3d · blender addon · blender plugin · blender extension",
-      "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 512 stars · 新建于 2026-11-12 · 语言: N/A",
-      "published_at": "2026-11-12T19:38:53Z",
-      "score": 101,
-      "category": "tools",
-      "added_date": "20261116"
-    },
-    {
-      "title": "[zovulrira1974/blender-ai-copilot-assets] An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alongside. · blender-ai-copilot-assets · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation",
-      "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 508 stars · 新建于 2026-11-12 · 语言: N/A",
-      "published_at": "2026-11-12T19:39:54Z",
-      "score": 100,
-      "category": "tools",
-      "added_date": "20261116"
-    },
-    {
-      "title": "@xiaohu: 给《小互 AI 日报》做了个新片头 🫡",
-      "url": "https://x.com/xiaohu/status/2122267771665031674",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "给《小互 AI 日报》做了个新片头\n🫡\n\nVideo",
-      "published_at": "Mon, 16 Nov 2026 09:57:21 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261116"
-    },
-    {
-      "title": "@xiaohu: 今日笑话： 这位日本朋友 去深圳参加 APEC 结果 Claude 被封了...",
-      "url": "https://x.com/xiaohu/status/2122266673130655997",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "今日笑话：\n这位日本朋友\n去深圳参加 APEC\n结果 Claude 被封了...\n\n\n吉川真人🇯🇵深セン (@mako_63)\n\n私のClaudeのアカウントも停止を喰らいました。APECの首脳会談でぜひこの問題に関して議論してほしい\n\n\n\n\n\n— https://nitter.perennialte.ch/mako_63/status/2121752202750636348#m",
-      "published_at": "Mon, 16 Nov 2026 09:52:59 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261116"
     }
   ]
 }
