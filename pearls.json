@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-25T12:03:20.943078",
+  "updated_at": "2026-11-26T12:00:02.059041",
   "pearls": [
+    {
+      "title": "@dr_cintas: RT @ladyxtel: Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to ",
+      "url": "https://x.com/dr_cintas/status/2125598396228546627",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @ladyxtel: Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results.\n\nSix are named conjec…",
+      "published_at": "Wed Nov 25 14:32:04 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261126"
+    },
+    {
+      "title": "@_akhaliq: RT @ladyxtel: Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to ",
+      "url": "https://x.com/_akhaliq/status/2125588780879134770",
+      "source": "X - @_akhaliq (AI demo 聚合)",
+      "summary": "RT @ladyxtel: Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results.\n\nSix are named conjec…",
+      "published_at": "Wed Nov 25 13:53:51 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261126"
+    },
+    {
+      "title": "@levelsio: RT @CloudflareDev: Email Sending is now available on the Workers Free plan  https://t.co/KbOvasAM6T ",
+      "url": "https://x.com/levelsio/status/2125721197413577079",
+      "source": "X - @levelsio (AI builder)",
+      "summary": "RT @CloudflareDev: Email Sending is now available on the Workers Free plan\n\nhttps://t.co/KbOvasAM6T https://t.co/9cDuJp4ayg",
+      "published_at": "Wed Nov 25 22:40:02 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261126"
+    },
+    {
+      "title": "@dr_cintas: RT @dr_cintas: Gemini 4 Neon best advice for the next 10 years. https://t.co/PuHvoLDhNE",
+      "url": "https://x.com/dr_cintas/status/2125398640357163021",
+      "source": "X - @dr_cintas (AI demo 聚合)",
+      "summary": "RT @dr_cintas: Gemini 4 Neon best advice for the next 10 years. https://t.co/PuHvoLDhNE",
+      "published_at": "Wed Nov 25 01:18:18 +0000 2026",
+      "score": 95,
+      "category": "community",
+      "added_date": "20261126"
+    },
+    {
+      "title": "@dotey: 最新版本  图片来自微博用户 AIEVBFS2018 https://t.co/PH6oQcNmjX",
+      "url": "https://x.com/dotey/status/2125760650697998820",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "最新版本\n\n图片来自微博用户 AIEVBFS2018 https://t.co/PH6oQcNmjX",
+      "published_at": "Thu Nov 26 01:16:48 +0000 2026",
+      "score": 90,
+      "category": "community",
+      "added_date": "20261126"
+    },
     {
       "title": "Old Nvidia and ATI tech demos, running again in the browser",
       "url": "https://gpu-demo-gallery.pages.dev/",
@@ -450,56 +500,6 @@
       "score": 85,
       "category": "community",
       "added_date": "20261118"
-    },
-    {
-      "title": "@xiaohu: 羡慕郭总每一天 第2480天",
-      "url": "https://x.com/xiaohu/status/2122544746229076038",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "羡慕郭总每一天\n第2480天",
-      "published_at": "Tue, 17 Nov 2026 04:17:57 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261117"
-    },
-    {
-      "title": "@op7418: Codex 和 GPT 6 Astra 现在真是拉完了 都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的 他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期 很多人说 Open",
-      "url": "https://x.com/op7418/status/2122499668647227665",
-      "source": "X - @op7418 (中文 AI 造物聚合)",
-      "summary": "Codex 和 GPT 6 Astra 现在真是拉完了\n\n都是同样的模型，你很难想象 OpenAI 是怎么搞到这么拉的\n\n他们已经两个月没有发布旗舰模型了，一直说的 6.2 也遥遥无期\n\n很多人说 OpenAI 现在正经历它自己的 Gemini 3.5 Pro 时刻",
-      "published_at": "Tue, 17 Nov 2026 01:18:49 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261117"
-    },
-    {
-      "title": "@op7418: iOS 27.3 居然给 iPhone Duo 上了面部解锁 估计是很多人反馈那个 Touch ID 实在是难用，临时加上了一个 2D 解锁，跟安卓一样 感觉这事儿就办得很不苹果，而且在展开内屏的情况",
-      "url": "https://x.com/op7418/status/2122494061768798490",
-      "source": "X - @op7418 (中文 AI 造物聚合)",
-      "summary": "iOS 27.3 居然给 iPhone Duo 上了面部解锁\n\n估计是很多人反馈那个 Touch ID 实在是难用，临时加上了一个 2D 解锁，跟安卓一样\n\n感觉这事儿就办得很不苹果，而且在展开内屏的情况下，没有办法用面部，还得用 Touch ID，这手机上就全是补丁\n\n\n9to5Mac (@9to5mac)\n\niOS 27.3 adds new face unlock feature for i",
-      "published_at": "Tue, 17 Nov 2026 00:56:33 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261117"
-    },
-    {
-      "title": "@dotey: Yahoo Finance 的主持人问 Sam Altman：黄仁勋该不该回来？ Altman 说：“我知道的还不够多，回答不了这个问题。” ---- 主持人先摆出背景：差不多正好三年前，Altman",
-      "url": "https://x.com/dotey/status/2122428858380980580",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "Yahoo Finance 的主持人问 Sam Altman：黄仁勋该不该回来？\n\nAltman 说：“我知道的还不够多，回答不了这个问题。”\n\n----\n\n主持人先摆出背景：差不多正好三年前，Altman 也被董事会赶下台过；现在网上流传着一封支持黄仁勋的信，主持人认为是照着当年 Altman 的支持者起草的那封信复制粘贴来的。\n\nAltman 说，黄仁勋一直是他心目中的英雄，“英雄也有缺点”。",
-      "published_at": "Mon, 16 Nov 2026 20:37:27 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261117"
-    },
-    {
-      "title": "@dotey: 我们两说的场景是不一样的，其实不矛盾 你说的场景更像是一个具体的任务（如果我没理解错），比如我要让 Agent 去研究一个数学课题。 我说的场景是指 GrokBot 这种 Bot 类应用的主会话，就是",
-      "url": "https://x.com/dotey/status/2122412845656609046",
-      "source": "X - @dotey (中文 AI 造物聚合)",
-      "summary": "我们两说的场景是不一样的，其实不矛盾\n\n你说的场景更像是一个具体的任务（如果我没理解错），比如我要让 Agent 去研究一个数学课题。\n\n我说的场景是指 GrokBot 这种 Bot 类应用的主会话，就是什么消息你都往一个会话发。\n\n但是实际执行任务的会新建 Thread，把消息转发给 Thread，让 Thread 去处理。\n\n对于这种具体任务，就应该按照你说的，让强的模型去调度，比如 Fabl",
-      "published_at": "Mon, 16 Nov 2026 19:33:49 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261117"
     }
   ]
 }
