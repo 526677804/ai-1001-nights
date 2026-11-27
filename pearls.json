@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-26T12:00:02.059041",
+  "updated_at": "2026-11-27T11:59:47.695531",
   "pearls": [
+    {
+      "title": "Fuck_data_brokers.py",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "source": "Show HN",
+      "summary": "👍 237 points · 💬 52 comments · 讨论: https://news.ycombinator.com/item?id=50658191",
+      "published_at": "2026-11-26T18:37:21Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261127"
+    },
+    {
+      "title": "I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "source": "Show HN",
+      "summary": "👍 196 points · 💬 60 comments · 讨论: https://news.ycombinator.com/item?id=50655868",
+      "published_at": "2026-11-26T14:44:22Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261127"
+    },
+    {
+      "title": "[nexu-io/opengame] The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "url": "https://github.com/nexu-io/opengame",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1776 stars · 新建于 2026-11-25 · 语言: TypeScript",
+      "published_at": "2026-11-25T10:35:45Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261127"
+    },
+    {
+      "title": "[qianyiai/KuroCat] KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "url": "https://github.com/qianyiai/KuroCat",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1675 stars · 新建于 2026-11-21 · 语言: TypeScript",
+      "published_at": "2026-11-21T15:49:31Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261127"
+    },
+    {
+      "title": "Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "source": "Show HN",
+      "summary": "👍 145 points · 💬 33 comments · 讨论: https://news.ycombinator.com/item?id=50656036",
+      "published_at": "2026-11-26T15:00:06Z",
+      "score": 145,
+      "category": "tools",
+      "added_date": "20261127"
+    },
     {
       "title": "@dr_cintas: RT @ladyxtel: Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to ",
       "url": "https://x.com/dr_cintas/status/2125598396228546627",
@@ -450,56 +500,6 @@
       "score": 97,
       "category": "tools",
       "added_date": "20261119"
-    },
-    {
-      "title": "@xiaohu: 今天的小互 AI 日报： 3 件大事： AI 歌手在韩国压过女团拿了第一 GPT-6.2 Astra 和 Sol发布 英伟达董事会：不会让黄仁勋回来当 CEO 今天的小互 AI 日报： OpenAI ",
-      "url": "https://x.com/xiaohu/status/2122918958190023164",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "今天的小互 AI 日报：\n\n 3 件大事：\nAI 歌手在韩国压过女团拿了第一\nGPT-6.2 Astra 和 Sol发布\n英伟达董事会：不会让黄仁勋回来当 CEO\n\n今天的小互 AI 日报：\n\nOpenAI 发布 GPT-6.2 Astra 和 Sol：官方说 Astra 每项任务成本不到上一代三分之一，API 降价两成；第三方 Artificial Analysis 综合榜排第 2\n\nOpenA",
-      "published_at": "Wed, 18 Nov 2026 05:04:56 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261118"
-    },
-    {
-      "title": "@xiaohu: RT by @xiaohu: GPT-6.2 Astra is LIVE on Higgsfield. OpenAI’s new frontier model for your most demand",
-      "url": "https://x.com/higgsfield_ai/status/2122751206187802945",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plugin, GPT-6.2 Astra powers proactive multi-agent workflows across design, coding,",
-      "published_at": "Tue, 17 Nov 2026 17:58:21 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261118"
-    },
-    {
-      "title": "@xiaohu: GPT-6.2 Astra发布 看评分是遥遥领先🙂",
-      "url": "https://x.com/xiaohu/status/2122754691088126109",
-      "source": "X - @xiaohu (中文 AI 造物聚合)",
-      "summary": "GPT-6.2 Astra发布\n\n看评分是遥遥领先🙂\n\n\nOpenAI (@OpenAI)\n\nGPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than ",
-      "published_at": "Tue, 17 Nov 2026 18:12:11 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261118"
-    },
-    {
-      "title": "@op7418: 腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！",
-      "url": "https://x.com/op7418/status/2122977451500523892",
-      "source": "X - @op7418 (中文 AI 造物聚合)",
-      "summary": "腾讯财报说，workbuddy 日活用户超过了 1000 万，太猛了！",
-      "published_at": "Wed, 18 Nov 2026 08:57:22 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261118"
-    },
-    {
-      "title": "@op7418: 试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式 让它剪了一个 8 分钟的视频 总共耗时 27 分钟，实际模型响应用了 14 分钟左右。 平均速度是 126 token/s，最快的",
-      "url": "https://x.com/op7418/status/2122925281514303836",
-      "source": "X - @op7418 (中文 AI 造物聚合)",
-      "summary": "试了一下 GPT-6.2 Sol 新上的 Ultra Fast 模式\n\n让它剪了一个 8 分钟的视频\n\n总共耗时 27 分钟，实际模型响应用了 14 分钟左右。\n\n平均速度是 126 token/s，最快的一次达到了 252 token/s\n\n\n\n\n歸藏(guizang.ai) (@op7418)\n\nGPT-6.2 Astra 虽然大家的反馈都不太好\n\n但我感觉 Sol 是真的快，快了太多了！\n\n",
-      "published_at": "Wed, 18 Nov 2026 05:30:03 GMT",
-      "score": 85,
-      "category": "community",
-      "added_date": "20261118"
     }
   ]
 }
