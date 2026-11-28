@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-27T11:59:47.695531",
+  "updated_at": "2026-11-28T11:59:55.958965",
   "pearls": [
+    {
+      "title": "bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Show HN",
+      "summary": "👍 384 points · 💬 129 comments · 讨论: https://news.ycombinator.com/item?id=50667726",
+      "published_at": "2026-11-27T15:01:50Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261128"
+    },
+    {
+      "title": "[Red2076-arch/waifu2x-image-upscaler-windows] Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+      "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
+      "source": "GitHub 新项目",
+      "summary": "⭐ 1116 stars · 新建于 2026-11-27 · 语言: C++",
+      "published_at": "2026-11-27T15:17:56Z",
+      "score": 150,
+      "category": "tools",
+      "added_date": "20261128"
+    },
+    {
+      "title": "DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "source": "Show HN",
+      "summary": "👍 149 points · 💬 40 comments · 讨论: https://news.ycombinator.com/item?id=50669673",
+      "published_at": "2026-11-27T17:56:28Z",
+      "score": 149,
+      "category": "tools",
+      "added_date": "20261128"
+    },
+    {
+      "title": "@venturetwins: Claude whenever you try to do ML research https://t.co/dleYGiGI5y",
+      "url": "https://x.com/venturetwins/status/2126411028238041195",
+      "source": "X - @venturetwins (AI builder)",
+      "summary": "Claude whenever you try to do ML research https://t.co/dleYGiGI5y",
+      "published_at": "Fri Nov 27 20:21:10 +0000 2026",
+      "score": 100,
+      "category": "community",
+      "added_date": "20261128"
+    },
+    {
+      "title": "@dotey: RT @dongxi_nlp: 感兴趣的可以跟着这篇文章学习蒸馏的基础技术：  off-policy distillation  把 Kimi-K3.1-Pro 蒸馏进 Qwen3.8-27 B",
+      "url": "https://x.com/dotey/status/2126490811982655853",
+      "source": "X - @dotey (中文 AI 造物聚合)",
+      "summary": "RT @dongxi_nlp: 感兴趣的可以跟着这篇文章学习蒸馏的基础技术：\n\noff-policy distillation\n\n把 Kimi-K3.1-Pro 蒸馏进 Qwen3.8-27 B",
+      "published_at": "Sat Nov 28 01:38:12 +0000 2026",
+      "score": 97,
+      "category": "community",
+      "added_date": "20261128"
+    },
     {
       "title": "Fuck_data_brokers.py",
       "url": "https://github.com/gary23w/f-ck_data_brokers",
@@ -450,56 +500,6 @@
       "score": 85,
       "category": "community",
       "added_date": "20261120"
-    },
-    {
-      "title": "[weightcashiercupola/Gemini-Config-Checker-] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 473 stars · 新建于 2026-11-15 · 语言: Makefile",
-      "published_at": "2026-11-15T16:47:11Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20261119"
-    },
-    {
-      "title": "[WinnerSpecialist/Gemini-Config-Checker-] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 472 stars · 新建于 2026-11-15 · 语言: Makefile",
-      "published_at": "2026-11-15T16:47:17Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20261119"
-    },
-    {
-      "title": "[Violetnyudress/Gemini-Config-Checker-] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 472 stars · 新建于 2026-11-15 · 语言: Go",
-      "published_at": "2026-11-15T16:46:04Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20261119"
-    },
-    {
-      "title": "[Visionbeyondtrack/Gemini-Config-Checker-] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 472 stars · 新建于 2026-11-15 · 语言: Makefile",
-      "published_at": "2026-11-15T16:46:05Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20261119"
-    },
-    {
-      "title": "[WharfBoulderColander/Gemini-Config-Checker-] Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
-      "source": "GitHub 新项目",
-      "summary": "⭐ 472 stars · 新建于 2026-11-15 · 语言: Makefile",
-      "published_at": "2026-11-15T16:47:12Z",
-      "score": 97,
-      "category": "tools",
-      "added_date": "20261119"
     }
   ]
 }
